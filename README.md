@@ -260,12 +260,7 @@ Possible improvements include:
 
 ---
 
-# 👨‍💻 Author
 
-Harsh Jaiswal
-Machine Learning & Data Science Enthusiast
-
----
 
 # 📜 License
 
