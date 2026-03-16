@@ -1,0 +1,1201 @@
+Pipe_Size_mm,Thickness_mm,Material,Grade,Max_Pressure_psi,Temperature_C,Corrosion_Impact_Percent,Thickness_Loss_mm,Material_Loss_Percent,Time_Years,Condition,pH,flowrate_cmh,source
+800.0,15.48,Carbon Steel,ASTM A333 Grade 6,300.0,84.9,16.04,4.91,31.72,2.0,Moderate,8.12,3555.68,original
+800.0,22.0,PVC,ASTM A106 Grade B,150.0,14.1,7.38,7.32,33.27,4.0,Critical,7.94,1777.84,original
+400.0,12.05,Carbon Steel,API 5L X52,2500.0,0.6,2.12,6.32,52.45,7.0,Critical,7.98,1633.13,original
+1500.0,38.72,Carbon Steel,API 5L X42,1500.0,52.7,5.58,6.2,16.01,19.0,Critical,7.95,24772.84,original
+1500.0,24.32,HDPE,API 5L X65,1500.0,11.7,12.29,8.58,35.28,20.0,Critical,7.9,24772.84,original
+600.0,16.75,Fiberglass,API 5L X52,600.0,67.3,2.06,5.21,31.1,11.0,Critical,7.98,3804.59,original
+200.0,9.94,Carbon Steel,ASTM A106 Grade B,1500.0,89.6,1.34,5.86,58.95,6.0,Critical,7.99,366.44,original
+300.0,13.87,Carbon Steel,ASTM A106 Grade B,900.0,40.8,5.57,3.02,21.77,21.0,Moderate,8.2,886.68,original
+150.0,8.86,Fiberglass,API 5L X65,300.0,3.2,13.84,2.47,27.88,19.0,Moderate,8.13,98.77,original
+800.0,25.78,Stainless Steel,ASTM A333 Grade 6,150.0,11.6,18.68,0.53,2.06,1.0,Normal,8.34,1777.84,original
+300.0,11.52,Stainless Steel,ASTM A333 Grade 6,900.0,100.4,12.23,8.8,76.39,13.0,Critical,7.9,886.68,original
+1000.0,20.58,PVC,API 5L X65,900.0,67.5,14.33,7.32,35.57,6.0,Critical,7.88,10861.87,original
+300.0,13.03,Stainless Steel,ASTM A106 Grade B,600.0,9.7,14.93,0.85,6.52,6.0,Normal,8.38,886.68,original
+150.0,5.19,HDPE,ASTM A333 Grade 6,300.0,43.6,16.02,6.12,117.92,13.0,Critical,7.87,98.77,original
+300.0,15.48,Carbon Steel,API 5L X42,600.0,63.4,13.65,9.21,59.5,7.0,Critical,7.89,886.68,original
+100.0,6.0,Fiberglass,API 5L X65,1500.0,60.1,18.79,7.01,116.83,21.0,Critical,7.84,72.38,original
+600.0,10.56,Stainless Steel,ASTM A106 Grade B,1500.0,145.1,11.2,1.61,15.25,8.0,Normal,8.41,3804.59,original
+300.0,10.87,PVC,ASTM A333 Grade 6,900.0,63.9,10.99,0.04,0.37,18.0,Normal,8.41,886.68,original
+100.0,7.21,PVC,ASTM A106 Grade B,600.0,13.6,4.51,3.16,43.83,22.0,Moderate,8.21,72.38,original
+100.0,5.49,Carbon Steel,API 5L X42,900.0,52.6,16.25,4.23,77.05,13.0,Moderate,8.11,72.38,original
+300.0,11.14,Stainless Steel,ASTM A106 Grade B,900.0,33.0,16.23,9.67,86.8,24.0,Critical,7.86,886.68,original
+100.0,5.68,Carbon Steel,ASTM A106 Grade B,1500.0,45.3,12.17,7.59,133.63,10.0,Critical,7.9,72.38,original
+1000.0,32.89,Stainless Steel,ASTM A333 Grade 6,600.0,56.9,4.01,0.84,2.55,7.0,Normal,8.47,10861.87,original
+250.0,12.89,Carbon Steel,ASTM A106 Grade B,300.0,145.6,2.45,4.19,32.51,16.0,Moderate,8.23,309.16,original
+1000.0,32.87,Stainless Steel,ASTM A333 Grade 6,600.0,21.6,17.26,8.39,25.52,3.0,Critical,7.86,10861.87,original
+1500.0,28.73,HDPE,ASTM A106 Grade B,300.0,117.3,4.55,1.97,6.86,12.0,Normal,8.46,12801.37,original
+100.0,4.62,HDPE,API 5L X42,1500.0,52.5,16.62,1.79,38.74,3.0,Normal,8.36,72.38,original
+150.0,6.81,Fiberglass,API 5L X65,1500.0,62.4,16.1,5.52,81.06,4.0,Critical,7.87,191.13,original
+1500.0,30.19,Stainless Steel,ASTM A106 Grade B,150.0,109.0,13.0,0.22,0.73,14.0,Normal,8.39,6400.68,original
+1000.0,24.79,HDPE,ASTM A333 Grade 6,1500.0,4.7,4.65,4.76,19.2,17.0,Moderate,8.21,10861.87,original
+250.0,7.16,HDPE,API 5L X42,2500.0,-23.1,10.24,4.96,69.27,14.0,Moderate,8.16,598.28,original
+150.0,5.97,PVC,ASTM A106 Grade B,150.0,35.4,14.28,0.2,3.35,24.0,Normal,8.38,49.38,original
+250.0,13.7,Carbon Steel,API 5L X65,2500.0,18.3,0.28,5.94,43.36,13.0,Critical,8.0,598.28,original
+300.0,9.65,Carbon Steel,API 5L X42,900.0,58.2,16.16,5.04,52.23,19.0,Critical,7.87,886.68,original
+50.0,4.55,PVC,ASTM A333 Grade 6,600.0,51.7,14.89,8.91,195.82,1.0,Critical,7.88,10.18,original
+50.0,4.05,PVC,ASTM A333 Grade 6,150.0,63.0,16.94,9.53,235.31,1.0,Critical,7.86,2.63,original
+50.0,4.11,Fiberglass,API 5L X65,150.0,44.5,7.24,3.39,82.48,15.0,Moderate,8.19,2.63,original
+150.0,8.15,PVC,ASTM A106 Grade B,150.0,-23.9,2.62,0.2,2.45,5.0,Normal,8.48,49.38,original
+1000.0,17.26,Fiberglass,ASTM A333 Grade 6,1500.0,-8.0,1.79,5.56,32.21,9.0,Critical,7.99,10861.87,original
+250.0,7.17,Fiberglass,ASTM A333 Grade 6,150.0,84.7,16.86,2.91,40.59,14.0,Moderate,8.11,154.58,original
+1200.0,24.53,Fiberglass,ASTM A333 Grade 6,600.0,62.4,16.22,4.93,20.1,10.0,Moderate,8.11,15747.67,original
+600.0,17.32,Carbon Steel,API 5L X65,150.0,59.8,0.84,7.74,44.69,1.0,Critical,7.99,983.01,original
+1000.0,30.64,Carbon Steel,ASTM A106 Grade B,2500.0,148.7,3.25,1.06,3.46,11.0,Normal,8.47,10861.87,original
+100.0,5.96,Stainless Steel,ASTM A106 Grade B,150.0,116.7,2.42,0.45,7.55,23.0,Normal,8.48,18.7,original
+400.0,12.67,Carbon Steel,API 5L X42,150.0,0.1,17.04,0.37,2.92,5.0,Normal,8.36,421.96,original
+800.0,21.57,Carbon Steel,ASTM A333 Grade 6,150.0,-4.3,10.97,6.17,28.6,9.0,Critical,7.91,1777.84,original
+50.0,3.6,Fiberglass,API 5L X42,2500.0,20.2,15.29,7.69,213.61,2.0,Critical,7.87,10.18,original
+1500.0,21.15,PVC,API 5L X65,600.0,109.7,18.84,0.93,4.4,1.0,Normal,8.34,24772.84,original
+800.0,29.98,PVC,API 5L X52,1500.0,9.8,14.24,1.84,6.14,5.0,Normal,8.38,6880.84,original
+800.0,28.85,Stainless Steel,API 5L X65,2500.0,57.3,6.62,9.51,32.96,19.0,Critical,7.94,6880.84,original
+600.0,12.82,HDPE,ASTM A333 Grade 6,300.0,54.9,2.95,9.19,71.68,15.0,Critical,7.98,1966.02,original
+150.0,6.12,Carbon Steel,API 5L X52,1500.0,42.6,12.29,6.31,103.1,17.0,Critical,7.9,191.13,original
+1500.0,34.37,Carbon Steel,API 5L X42,900.0,64.9,17.54,0.83,2.41,25.0,Normal,8.35,24772.84,original
+100.0,6.71,Fiberglass,API 5L X65,300.0,28.6,12.61,0.59,8.79,19.0,Normal,8.39,37.4,original
+800.0,18.86,Fiberglass,API 5L X42,900.0,16.9,12.16,3.96,21.0,11.0,Moderate,8.15,6880.84,original
+250.0,12.79,Fiberglass,ASTM A106 Grade B,2500.0,16.8,18.35,0.02,0.16,21.0,Normal,8.35,598.28,original
+1200.0,24.48,HDPE,ASTM A333 Grade 6,900.0,30.8,4.34,6.35,25.94,1.0,Critical,7.96,15747.67,original
+50.0,5.73,HDPE,ASTM A333 Grade 6,1500.0,136.8,16.74,3.89,67.89,4.0,Moderate,8.11,10.18,original
+600.0,28.18,Carbon Steel,API 5L X52,1500.0,-28.3,0.69,1.67,5.93,1.0,Normal,8.49,3804.59,original
+1500.0,36.91,PVC,API 5L X65,2500.0,77.7,18.28,9.53,25.82,9.0,Critical,7.85,24772.84,original
+600.0,10.56,HDPE,API 5L X52,150.0,58.6,0.2,6.37,60.32,13.0,Critical,8.0,983.01,original
+500.0,24.81,PVC,ASTM A333 Grade 6,300.0,8.8,5.78,0.87,3.51,19.0,Normal,8.45,1346.53,original
+800.0,19.87,Stainless Steel,ASTM A106 Grade B,600.0,20.3,7.6,4.65,23.4,7.0,Moderate,8.19,6880.84,original
+1000.0,31.7,Carbon Steel,API 5L X52,600.0,38.8,0.09,4.1,12.93,11.0,Moderate,8.25,10861.87,original
+300.0,14.23,HDPE,ASTM A106 Grade B,900.0,77.8,16.27,1.51,10.61,14.0,Normal,8.36,886.68,original
+600.0,28.35,Stainless Steel,ASTM A106 Grade B,150.0,37.4,14.36,9.06,31.96,2.0,Critical,7.88,983.01,original
+1000.0,33.18,PVC,API 5L X52,2500.0,51.3,9.27,3.64,10.97,25.0,Moderate,8.17,10861.87,original
+400.0,13.52,HDPE,API 5L X65,900.0,87.1,4.63,0.36,2.66,5.0,Normal,8.46,1633.13,original
+300.0,17.13,PVC,API 5L X65,150.0,77.4,5.6,6.28,36.66,9.0,Critical,7.95,229.1,original
+100.0,4.43,Fiberglass,API 5L X42,150.0,-38.9,17.62,5.55,125.28,5.0,Critical,7.85,18.7,original
+500.0,22.0,Fiberglass,API 5L X65,900.0,28.7,10.3,0.18,0.82,16.0,Normal,8.41,2605.76,original
+50.0,4.71,Fiberglass,ASTM A106 Grade B,300.0,29.2,2.9,9.97,211.68,13.0,Critical,7.98,5.26,original
+50.0,5.89,Carbon Steel,ASTM A333 Grade 6,1500.0,-12.3,12.98,4.68,79.46,21.0,Moderate,8.14,10.18,original
+150.0,6.26,PVC,ASTM A333 Grade 6,150.0,61.2,4.65,5.72,91.37,23.0,Critical,7.96,49.38,original
+300.0,8.07,Fiberglass,API 5L X52,600.0,-19.0,4.41,3.18,39.41,6.0,Moderate,8.21,886.68,original
+300.0,16.31,Carbon Steel,ASTM A333 Grade 6,2500.0,-37.4,4.32,5.54,33.97,25.0,Critical,7.96,886.68,original
+300.0,14.96,Carbon Steel,API 5L X52,2500.0,27.6,14.19,0.63,4.21,2.0,Normal,8.38,886.68,original
+300.0,9.27,HDPE,ASTM A333 Grade 6,1500.0,30.6,16.91,0.33,3.56,12.0,Normal,8.36,886.68,original
+500.0,14.33,HDPE,ASTM A333 Grade 6,300.0,39.9,10.63,0.23,1.61,9.0,Normal,8.41,1346.53,original
+250.0,6.79,Stainless Steel,ASTM A106 Grade B,1500.0,79.5,3.85,3.79,55.82,22.0,Moderate,8.22,598.28,original
+50.0,4.96,HDPE,API 5L X42,2500.0,35.6,13.87,7.04,141.94,2.0,Critical,7.88,10.18,original
+250.0,12.43,Fiberglass,ASTM A333 Grade 6,1500.0,-31.1,4.23,2.92,23.49,14.0,Moderate,8.21,598.28,original
+500.0,13.73,Fiberglass,ASTM A106 Grade B,2500.0,72.9,13.47,8.6,62.64,9.0,Critical,7.89,2605.76,original
+100.0,4.03,PVC,ASTM A106 Grade B,2500.0,70.0,3.71,0.59,14.64,8.0,Normal,8.47,72.38,original
+500.0,24.1,Fiberglass,ASTM A333 Grade 6,900.0,2.1,18.06,0.47,1.95,22.0,Normal,8.35,2605.76,original
+100.0,7.55,Fiberglass,ASTM A106 Grade B,1500.0,109.9,7.63,7.12,94.3,10.0,Critical,7.94,72.38,original
+1200.0,31.11,Carbon Steel,ASTM A333 Grade 6,2500.0,22.7,15.45,8.01,25.75,10.0,Critical,7.87,15747.67,original
+400.0,14.91,Stainless Steel,API 5L X42,2500.0,0.1,10.44,8.8,59.02,22.0,Critical,7.91,1633.13,original
+1200.0,27.92,HDPE,ASTM A333 Grade 6,1500.0,60.3,10.0,8.04,28.8,7.0,Critical,7.92,15747.67,original
+1000.0,20.11,Carbon Steel,ASTM A333 Grade 6,900.0,53.7,10.5,3.18,15.81,13.0,Moderate,8.16,10861.87,original
+200.0,6.69,Carbon Steel,API 5L X42,2500.0,129.8,9.16,6.56,98.06,7.0,Critical,7.92,366.44,original
+300.0,11.47,Fiberglass,ASTM A333 Grade 6,900.0,137.9,6.96,5.22,45.51,14.0,Critical,7.94,886.68,original
+1500.0,28.64,Stainless Steel,API 5L X52,2500.0,-24.8,2.35,2.39,8.34,10.0,Moderate,8.23,24772.84,original
+800.0,19.01,PVC,API 5L X65,1500.0,41.1,8.52,5.25,27.62,17.0,Critical,7.93,6880.84,original
+150.0,5.34,HDPE,API 5L X65,300.0,7.6,8.19,6.94,129.96,25.0,Critical,7.93,98.77,original
+600.0,23.37,Stainless Steel,ASTM A333 Grade 6,900.0,68.5,2.53,8.45,36.16,22.0,Critical,7.98,3804.59,original
+600.0,14.07,Carbon Steel,API 5L X42,600.0,3.7,5.98,6.0,42.64,2.0,Critical,7.95,3804.59,original
+200.0,10.46,Carbon Steel,API 5L X65,1500.0,5.0,7.88,6.02,57.55,3.0,Critical,7.93,366.44,original
+50.0,4.77,Carbon Steel,ASTM A333 Grade 6,1500.0,65.9,6.41,8.5,178.2,21.0,Critical,7.95,10.18,original
+1500.0,32.08,PVC,ASTM A106 Grade B,2500.0,39.5,9.54,9.73,30.33,13.0,Critical,7.92,24772.84,original
+1000.0,26.09,HDPE,API 5L X42,2500.0,59.5,14.82,2.64,10.12,23.0,Moderate,8.13,10861.87,original
+200.0,8.99,PVC,API 5L X52,300.0,37.7,19.4,8.47,94.22,11.0,Critical,7.84,189.36,original
+200.0,10.29,Stainless Steel,API 5L X42,300.0,127.4,14.07,2.59,25.17,12.0,Moderate,8.13,189.36,original
+1200.0,31.05,Carbon Steel,ASTM A106 Grade B,1500.0,32.9,8.93,1.23,3.96,1.0,Normal,8.43,15747.67,original
+500.0,18.1,HDPE,API 5L X52,2500.0,103.7,17.81,1.45,8.01,13.0,Normal,8.35,2605.76,original
+50.0,4.77,HDPE,ASTM A333 Grade 6,150.0,13.4,0.28,7.41,155.35,7.0,Critical,8.0,2.63,original
+1500.0,42.64,Fiberglass,ASTM A333 Grade 6,300.0,106.8,12.28,7.63,17.89,16.0,Critical,7.9,12801.37,original
+600.0,10.33,Stainless Steel,ASTM A106 Grade B,600.0,74.5,7.45,2.37,22.94,6.0,Moderate,8.19,3804.59,original
+300.0,14.32,Carbon Steel,API 5L X52,600.0,25.0,18.29,8.2,57.26,5.0,Critical,7.85,886.68,original
+800.0,30.66,HDPE,API 5L X52,600.0,105.4,12.33,1.45,4.73,10.0,Normal,8.4,6880.84,original
+150.0,6.98,Carbon Steel,API 5L X52,300.0,51.1,15.43,4.03,57.74,8.0,Moderate,8.12,98.77,original
+600.0,12.2,PVC,ASTM A106 Grade B,300.0,-11.6,15.77,2.18,17.87,19.0,Moderate,8.12,1966.02,original
+500.0,23.91,Fiberglass,ASTM A333 Grade 6,300.0,76.2,12.37,5.67,23.71,12.0,Critical,7.9,1346.53,original
+1200.0,32.57,PVC,API 5L X42,300.0,96.5,12.31,6.7,20.57,19.0,Critical,7.9,8137.61,original
+1000.0,24.79,PVC,API 5L X42,600.0,14.4,0.88,6.86,27.67,2.0,Critical,7.99,10861.87,original
+250.0,10.21,Stainless Steel,ASTM A333 Grade 6,600.0,32.1,6.22,4.53,44.37,21.0,Moderate,8.2,598.28,original
+800.0,14.17,Fiberglass,API 5L X65,150.0,36.0,4.86,3.33,23.5,7.0,Moderate,8.21,1777.84,original
+800.0,21.79,PVC,API 5L X52,2500.0,44.2,14.79,7.24,33.23,5.0,Critical,7.88,6880.84,original
+100.0,7.29,Stainless Steel,API 5L X52,150.0,-15.8,3.59,7.32,100.41,7.0,Critical,7.97,18.7,original
+150.0,9.03,PVC,API 5L X52,300.0,19.7,9.65,6.02,66.67,14.0,Critical,7.92,98.77,original
+200.0,9.41,HDPE,ASTM A106 Grade B,150.0,5.3,12.74,6.06,64.4,24.0,Critical,7.89,94.68,original
+150.0,9.16,Carbon Steel,API 5L X52,600.0,7.9,16.16,2.61,28.49,10.0,Moderate,8.12,191.13,original
+250.0,6.69,Fiberglass,ASTM A333 Grade 6,1500.0,-32.5,5.99,9.03,134.98,12.0,Critical,7.95,598.28,original
+150.0,5.88,PVC,API 5L X52,150.0,14.0,4.28,6.13,104.25,13.0,Critical,7.96,49.38,original
+1000.0,22.09,Carbon Steel,API 5L X42,600.0,13.1,19.73,9.28,42.01,3.0,Critical,7.84,10861.87,original
+1200.0,25.68,HDPE,ASTM A333 Grade 6,600.0,46.6,17.66,6.07,23.64,13.0,Critical,7.85,15747.67,original
+50.0,4.8,Carbon Steel,ASTM A106 Grade B,1500.0,125.6,18.25,0.92,19.17,18.0,Normal,8.35,10.18,original
+500.0,9.8,PVC,API 5L X65,2500.0,26.2,10.34,3.2,32.65,14.0,Moderate,8.16,2605.76,original
+100.0,7.07,Stainless Steel,API 5L X65,150.0,12.5,3.04,5.78,81.75,21.0,Critical,7.97,18.7,original
+400.0,17.39,Fiberglass,API 5L X65,150.0,-12.8,12.59,7.23,41.58,2.0,Critical,7.9,421.96,original
+150.0,7.94,Carbon Steel,API 5L X42,2500.0,57.2,10.79,4.92,61.96,15.0,Moderate,8.16,191.13,original
+250.0,7.29,Fiberglass,API 5L X52,1500.0,140.1,16.13,5.7,78.19,16.0,Critical,7.87,598.28,original
+1000.0,29.55,Fiberglass,ASTM A333 Grade 6,1500.0,82.5,1.26,0.24,0.81,25.0,Normal,8.49,10861.87,original
+1200.0,35.76,PVC,API 5L X65,2500.0,-15.3,10.6,2.45,6.85,5.0,Moderate,8.16,15747.67,original
+600.0,26.97,Carbon Steel,ASTM A333 Grade 6,1500.0,82.0,16.29,1.53,5.67,22.0,Normal,8.36,3804.59,original
+400.0,10.27,PVC,API 5L X65,300.0,40.1,8.69,6.45,62.8,16.0,Critical,7.93,843.92,original
+200.0,7.56,Stainless Steel,API 5L X52,2500.0,79.8,0.0,5.88,77.78,9.0,Critical,8.0,366.44,original
+150.0,9.25,Fiberglass,API 5L X65,2500.0,22.3,2.35,6.26,67.68,18.0,Critical,7.98,191.13,original
+800.0,17.64,Fiberglass,ASTM A333 Grade 6,300.0,13.5,14.19,6.31,35.77,9.0,Critical,7.88,3555.68,original
+50.0,5.21,Stainless Steel,API 5L X65,150.0,74.0,0.87,5.35,102.69,5.0,Critical,7.99,2.63,original
+800.0,28.66,Fiberglass,API 5L X65,1500.0,149.7,8.48,7.29,25.44,19.0,Critical,7.93,6880.84,original
+300.0,10.01,HDPE,ASTM A106 Grade B,1500.0,-4.9,13.56,2.37,23.68,19.0,Moderate,8.14,886.68,original
+400.0,16.52,Fiberglass,API 5L X52,2500.0,12.9,16.78,9.54,57.75,12.0,Critical,7.86,1633.13,original
+1500.0,31.97,Carbon Steel,API 5L X65,600.0,59.8,5.15,2.33,7.29,15.0,Moderate,8.21,24772.84,original
+1500.0,34.61,HDPE,API 5L X52,300.0,61.6,1.92,6.26,18.09,19.0,Critical,7.98,12801.37,original
+1200.0,20.19,HDPE,API 5L X42,150.0,32.6,15.86,8.05,39.87,24.0,Critical,7.87,4068.81,original
+100.0,7.71,PVC,API 5L X65,2500.0,24.0,16.28,3.09,40.08,15.0,Moderate,8.11,72.38,original
+400.0,13.4,Carbon Steel,ASTM A106 Grade B,2500.0,-15.2,18.13,1.17,8.73,13.0,Normal,8.35,1633.13,original
+1500.0,40.94,Stainless Steel,API 5L X65,2500.0,-14.8,18.53,2.56,6.25,19.0,Moderate,8.1,24772.84,original
+250.0,7.48,Stainless Steel,ASTM A106 Grade B,2500.0,134.3,6.05,0.37,4.95,5.0,Normal,8.45,598.28,original
+200.0,11.25,Carbon Steel,API 5L X42,600.0,13.1,2.48,2.04,18.13,12.0,Moderate,8.23,366.44,original
+150.0,8.6,HDPE,ASTM A333 Grade 6,600.0,17.9,8.62,6.66,77.44,25.0,Critical,7.93,191.13,original
+500.0,14.61,Fiberglass,API 5L X42,300.0,6.6,9.87,5.99,41.0,21.0,Critical,7.92,1346.53,original
+500.0,13.76,Fiberglass,ASTM A333 Grade 6,2500.0,73.2,18.91,5.14,37.35,3.0,Critical,7.84,2605.76,original
+250.0,6.77,Carbon Steel,ASTM A106 Grade B,2500.0,69.1,6.58,1.41,20.83,13.0,Normal,8.45,598.28,original
+100.0,5.12,Stainless Steel,ASTM A106 Grade B,900.0,53.0,0.64,1.11,21.68,12.0,Normal,8.49,72.38,original
+1500.0,27.3,Fiberglass,API 5L X65,1500.0,115.2,13.79,0.67,2.45,18.0,Normal,8.39,24772.84,original
+250.0,9.59,Fiberglass,ASTM A106 Grade B,150.0,18.5,17.18,2.35,24.5,6.0,Moderate,8.11,154.58,original
+100.0,6.02,PVC,API 5L X42,1500.0,50.7,18.36,2.37,39.37,23.0,Moderate,8.1,72.38,original
+600.0,14.75,Carbon Steel,ASTM A333 Grade 6,600.0,2.1,5.36,3.17,21.49,11.0,Moderate,8.21,3804.59,original
+500.0,23.95,HDPE,ASTM A333 Grade 6,900.0,37.7,15.5,2.41,10.06,15.0,Moderate,8.12,2605.76,original
+800.0,23.11,Carbon Steel,ASTM A333 Grade 6,900.0,-2.2,14.62,1.73,7.49,25.0,Normal,8.38,6880.84,original
+250.0,12.68,Fiberglass,API 5L X52,1500.0,35.5,16.9,7.72,60.88,2.0,Critical,7.86,598.28,original
+1200.0,19.16,Fiberglass,API 5L X65,900.0,74.7,18.91,6.59,34.39,2.0,Critical,7.84,15747.67,original
+50.0,4.86,Stainless Steel,ASTM A106 Grade B,600.0,3.8,3.33,6.67,137.24,24.0,Critical,7.97,10.18,original
+1200.0,36.87,PVC,API 5L X52,900.0,-4.7,1.58,9.91,26.88,20.0,Critical,7.99,15747.67,original
+150.0,6.53,PVC,API 5L X42,2500.0,65.9,8.49,4.53,69.37,8.0,Moderate,8.18,191.13,original
+800.0,20.03,Fiberglass,API 5L X65,150.0,127.3,12.76,5.29,26.41,16.0,Critical,7.89,1777.84,original
+400.0,8.22,Carbon Steel,API 5L X52,2500.0,31.5,13.61,8.46,102.92,12.0,Critical,7.89,1633.13,original
+1200.0,27.43,HDPE,API 5L X42,600.0,12.7,14.29,1.36,4.96,23.0,Normal,8.38,15747.67,original
+1200.0,19.82,Stainless Steel,API 5L X42,600.0,85.7,19.05,0.72,3.63,14.0,Normal,8.34,15747.67,original
+600.0,18.74,Carbon Steel,ASTM A333 Grade 6,1500.0,62.7,2.68,6.42,34.26,9.0,Critical,7.98,3804.59,original
+1000.0,15.83,Carbon Steel,API 5L X65,300.0,-3.4,11.42,7.82,49.4,23.0,Critical,7.9,5612.87,original
+150.0,5.44,Stainless Steel,API 5L X52,1500.0,108.5,18.25,2.04,37.5,18.0,Moderate,8.1,191.13,original
+300.0,15.59,PVC,ASTM A106 Grade B,2500.0,74.1,1.08,0.15,0.96,5.0,Normal,8.49,886.68,original
+500.0,10.26,Fiberglass,ASTM A333 Grade 6,300.0,18.4,5.02,0.34,3.31,2.0,Normal,8.46,1346.53,original
+800.0,16.83,Stainless Steel,ASTM A333 Grade 6,150.0,55.2,9.75,6.78,40.29,6.0,Critical,7.92,1777.84,original
+1500.0,35.0,Carbon Steel,API 5L X42,1500.0,32.3,1.14,1.92,5.49,16.0,Normal,8.49,24772.84,original
+100.0,5.67,Fiberglass,API 5L X52,300.0,17.4,15.91,8.0,141.09,24.0,Critical,7.87,37.4,original
+500.0,12.23,Fiberglass,API 5L X52,2500.0,69.3,17.33,8.69,71.05,1.0,Critical,7.86,2605.76,original
+150.0,7.41,Fiberglass,ASTM A106 Grade B,2500.0,-8.2,18.23,2.15,29.01,16.0,Moderate,8.1,191.13,original
+1000.0,25.42,PVC,ASTM A106 Grade B,150.0,39.1,6.15,6.63,26.08,12.0,Critical,7.95,2806.44,original
+200.0,10.46,Stainless Steel,API 5L X65,150.0,-7.0,19.9,8.3,79.35,10.0,Critical,7.83,94.68,original
+600.0,16.19,Carbon Steel,ASTM A333 Grade 6,600.0,12.1,15.73,8.8,54.35,25.0,Critical,7.87,3804.59,original
+100.0,5.39,HDPE,ASTM A333 Grade 6,900.0,44.7,7.35,0.21,3.9,8.0,Normal,8.44,72.38,original
+1200.0,34.55,Stainless Steel,API 5L X65,600.0,105.6,8.83,3.41,9.87,2.0,Moderate,8.18,15747.67,original
+400.0,12.07,PVC,API 5L X65,300.0,78.0,9.28,9.52,78.87,2.0,Critical,7.92,843.92,original
+600.0,13.15,PVC,API 5L X42,900.0,8.1,0.88,4.64,35.29,16.0,Moderate,8.24,3804.59,original
+300.0,10.17,Stainless Steel,API 5L X42,300.0,85.2,7.37,0.9,8.85,23.0,Normal,8.44,458.19,original
+600.0,14.68,HDPE,API 5L X65,300.0,65.1,16.73,0.85,5.79,25.0,Normal,8.36,1966.02,original
+250.0,9.4,Fiberglass,ASTM A106 Grade B,2500.0,49.4,7.59,7.76,82.55,14.0,Critical,7.94,598.28,original
+300.0,9.45,HDPE,API 5L X42,2500.0,35.6,12.61,5.43,57.46,3.0,Critical,7.89,886.68,original
+50.0,5.22,PVC,ASTM A106 Grade B,900.0,110.5,18.51,7.59,145.4,10.0,Critical,7.85,10.18,original
+300.0,10.52,Fiberglass,ASTM A106 Grade B,1500.0,99.2,19.04,3.39,32.22,19.0,Moderate,8.09,886.68,original
+200.0,7.81,Fiberglass,API 5L X52,150.0,12.2,4.41,0.35,4.48,12.0,Normal,8.46,94.68,original
+1200.0,35.28,Fiberglass,API 5L X65,900.0,75.8,0.43,0.43,1.22,5.0,Normal,8.5,15747.67,original
+250.0,8.88,PVC,API 5L X42,600.0,51.3,8.29,0.51,5.74,14.0,Normal,8.43,598.28,original
+50.0,4.48,Fiberglass,API 5L X42,2500.0,7.1,16.35,4.56,101.79,16.0,Moderate,8.11,10.18,original
+100.0,6.06,PVC,API 5L X42,2500.0,127.7,2.4,8.96,147.85,22.0,Critical,7.98,72.38,original
+100.0,7.34,PVC,API 5L X42,600.0,19.2,5.91,7.41,100.95,23.0,Critical,7.95,72.38,original
+250.0,12.12,PVC,API 5L X65,2500.0,60.7,6.85,5.47,45.13,23.0,Critical,7.94,598.28,original
+1000.0,25.02,PVC,API 5L X52,900.0,16.0,15.69,5.17,20.66,1.0,Critical,7.87,10861.87,original
+250.0,14.96,PVC,API 5L X42,2500.0,129.2,9.53,9.0,60.16,9.0,Critical,7.92,598.28,original
+1500.0,30.96,PVC,ASTM A106 Grade B,150.0,-37.1,17.86,9.21,29.75,8.0,Critical,7.85,6400.68,original
+250.0,14.22,PVC,ASTM A106 Grade B,300.0,40.6,18.47,8.16,57.38,21.0,Critical,7.85,309.16,original
+100.0,6.95,Fiberglass,API 5L X52,2500.0,88.3,13.98,9.08,130.65,25.0,Critical,7.88,72.38,original
+150.0,6.91,HDPE,API 5L X52,600.0,0.5,16.27,6.74,97.54,22.0,Critical,7.86,191.13,original
+300.0,13.13,Stainless Steel,ASTM A106 Grade B,150.0,-18.5,12.74,2.12,16.15,19.0,Moderate,8.14,229.1,original
+50.0,5.83,PVC,API 5L X42,150.0,18.7,16.74,0.05,0.86,5.0,Normal,8.36,2.63,original
+50.0,4.5,PVC,API 5L X42,150.0,48.2,18.04,0.25,5.56,12.0,Normal,8.35,2.63,original
+1000.0,21.84,HDPE,API 5L X42,2500.0,8.7,12.14,9.75,44.64,4.0,Critical,7.9,10861.87,original
+150.0,5.43,HDPE,ASTM A106 Grade B,1500.0,8.9,13.32,5.21,95.95,18.0,Critical,7.89,191.13,original
+100.0,6.12,PVC,ASTM A333 Grade 6,300.0,1.7,12.05,7.16,116.99,12.0,Critical,7.9,37.4,original
+50.0,4.3,Stainless Steel,API 5L X42,300.0,127.1,0.92,4.79,111.4,13.0,Moderate,8.24,5.26,original
+1200.0,31.01,PVC,API 5L X42,900.0,27.2,5.0,3.03,9.77,9.0,Moderate,8.21,15747.67,original
+1200.0,28.75,HDPE,ASTM A333 Grade 6,150.0,31.1,7.43,2.1,7.3,13.0,Moderate,8.19,4068.81,original
+200.0,6.88,HDPE,ASTM A333 Grade 6,600.0,56.6,3.37,0.35,5.09,25.0,Normal,8.47,366.44,original
+1200.0,20.66,HDPE,API 5L X42,150.0,118.5,11.43,8.42,40.76,5.0,Critical,7.9,4068.81,original
+500.0,12.66,Stainless Steel,API 5L X42,600.0,68.5,16.75,7.28,57.5,2.0,Critical,7.86,2605.76,original
+800.0,28.54,Fiberglass,API 5L X52,900.0,72.3,14.88,2.43,8.51,21.0,Moderate,8.13,6880.84,original
+250.0,14.06,Fiberglass,ASTM A106 Grade B,300.0,73.9,16.34,1.45,10.31,6.0,Normal,8.36,309.16,original
+100.0,6.45,Fiberglass,API 5L X65,900.0,95.9,15.64,7.02,108.84,20.0,Critical,7.87,72.38,original
+100.0,6.91,PVC,ASTM A106 Grade B,150.0,16.8,18.59,6.81,98.55,4.0,Critical,7.85,18.7,original
+600.0,21.01,Stainless Steel,API 5L X65,300.0,30.9,13.18,8.26,39.31,14.0,Critical,7.89,1966.02,original
+250.0,10.13,Stainless Steel,API 5L X42,600.0,66.0,0.17,2.86,28.23,17.0,Moderate,8.25,598.28,original
+50.0,3.31,PVC,API 5L X52,2500.0,88.0,14.16,9.58,289.43,18.0,Critical,7.88,10.18,original
+1500.0,43.88,Stainless Steel,API 5L X42,150.0,107.8,10.93,8.06,18.37,11.0,Critical,7.91,6400.68,original
+300.0,11.6,Fiberglass,API 5L X52,900.0,110.5,3.02,5.65,48.71,19.0,Critical,7.97,886.68,original
+50.0,5.46,Fiberglass,API 5L X65,1500.0,26.2,14.04,9.36,171.43,17.0,Critical,7.88,10.18,original
+300.0,8.96,Carbon Steel,API 5L X42,2500.0,48.7,2.38,4.63,51.67,2.0,Moderate,8.23,886.68,original
+200.0,10.9,Fiberglass,API 5L X52,900.0,-13.0,13.91,2.18,20.0,17.0,Moderate,8.13,366.44,original
+100.0,7.36,Stainless Steel,API 5L X42,150.0,-9.5,4.15,5.57,75.68,13.0,Critical,7.97,18.7,original
+600.0,27.85,Fiberglass,ASTM A106 Grade B,600.0,14.6,12.75,0.78,2.8,19.0,Normal,8.39,3804.59,original
+1200.0,25.26,HDPE,ASTM A333 Grade 6,2500.0,-9.8,9.52,8.18,32.38,13.0,Critical,7.92,15747.67,original
+150.0,6.96,Carbon Steel,ASTM A106 Grade B,600.0,53.8,2.38,8.69,124.86,3.0,Critical,7.98,191.13,original
+50.0,3.69,Carbon Steel,ASTM A333 Grade 6,600.0,-13.4,18.1,8.29,224.66,5.0,Critical,7.85,10.18,original
+50.0,5.5,Fiberglass,API 5L X42,1500.0,53.7,1.59,2.7,49.09,3.0,Moderate,8.24,10.18,original
+150.0,6.24,HDPE,API 5L X52,1500.0,30.8,4.11,5.58,89.42,11.0,Critical,7.97,191.13,original
+600.0,22.17,PVC,API 5L X52,150.0,36.1,17.92,4.1,18.49,4.0,Moderate,8.1,983.01,original
+100.0,5.72,Fiberglass,API 5L X52,300.0,12.3,11.19,6.79,118.71,12.0,Critical,7.91,37.4,original
+100.0,4.14,Carbon Steel,API 5L X42,600.0,19.3,10.6,8.34,201.45,21.0,Critical,7.91,72.38,original
+1500.0,31.27,Fiberglass,ASTM A333 Grade 6,150.0,69.0,16.49,6.96,22.26,10.0,Critical,7.86,6400.68,original
+800.0,24.36,HDPE,API 5L X52,600.0,116.6,3.27,5.57,22.87,9.0,Critical,7.97,6880.84,original
+1500.0,43.2,Carbon Steel,ASTM A333 Grade 6,900.0,48.7,13.27,5.5,12.73,4.0,Critical,7.89,24772.84,original
+800.0,30.44,HDPE,API 5L X42,900.0,15.8,2.16,4.98,16.36,4.0,Moderate,8.23,6880.84,original
+200.0,7.82,PVC,API 5L X42,2500.0,-0.5,16.0,3.75,47.95,14.0,Moderate,8.12,366.44,original
+400.0,12.31,Carbon Steel,ASTM A106 Grade B,150.0,-15.5,4.47,5.41,43.95,11.0,Critical,7.96,421.96,original
+400.0,8.35,HDPE,ASTM A106 Grade B,2500.0,-9.2,1.94,8.44,101.08,9.0,Critical,7.98,1633.13,original
+1500.0,33.41,PVC,ASTM A106 Grade B,300.0,54.7,10.59,9.85,29.48,8.0,Critical,7.91,12801.37,original
+200.0,7.74,Carbon Steel,API 5L X52,900.0,-25.9,1.27,0.64,8.27,1.0,Normal,8.49,366.44,original
+300.0,8.68,HDPE,API 5L X52,300.0,-21.0,4.76,6.01,69.24,22.0,Critical,7.96,458.19,original
+1200.0,22.53,HDPE,ASTM A333 Grade 6,150.0,17.8,13.58,4.11,18.24,7.0,Moderate,8.14,4068.81,original
+250.0,10.95,Fiberglass,ASTM A106 Grade B,2500.0,11.7,8.82,4.04,36.89,24.0,Moderate,8.18,598.28,original
+100.0,4.89,Carbon Steel,ASTM A333 Grade 6,600.0,2.4,2.51,0.61,12.47,8.0,Normal,8.48,72.38,original
+50.0,5.62,PVC,API 5L X42,900.0,42.2,0.44,6.21,110.5,20.0,Critical,8.0,10.18,original
+300.0,15.95,Fiberglass,API 5L X42,1500.0,26.0,15.26,0.94,5.89,16.0,Normal,8.37,886.68,original
+50.0,3.04,Carbon Steel,ASTM A106 Grade B,300.0,32.6,4.6,9.69,318.75,15.0,Critical,7.96,5.26,original
+400.0,17.32,Fiberglass,API 5L X52,900.0,31.4,1.33,1.79,10.33,12.0,Normal,8.49,1633.13,original
+100.0,5.21,Stainless Steel,ASTM A106 Grade B,300.0,67.5,2.93,5.76,110.56,19.0,Critical,7.98,37.4,original
+500.0,24.44,PVC,ASTM A333 Grade 6,300.0,11.9,12.93,6.75,27.62,10.0,Critical,7.89,1346.53,original
+1200.0,34.3,Carbon Steel,ASTM A106 Grade B,150.0,89.3,6.74,3.16,9.21,5.0,Moderate,8.19,4068.81,original
+150.0,6.58,Carbon Steel,ASTM A333 Grade 6,2500.0,95.9,10.16,6.98,106.08,22.0,Critical,7.92,191.13,original
+400.0,15.23,HDPE,ASTM A333 Grade 6,300.0,44.5,5.53,4.54,29.81,1.0,Moderate,8.2,843.92,original
+50.0,3.25,Fiberglass,ASTM A333 Grade 6,1500.0,34.6,5.32,9.52,292.92,11.0,Critical,7.96,10.18,original
+500.0,14.29,Stainless Steel,API 5L X52,2500.0,21.4,4.5,8.42,58.92,18.0,Critical,7.96,2605.76,original
+1500.0,44.29,PVC,ASTM A106 Grade B,600.0,54.1,12.97,1.59,3.59,4.0,Normal,8.39,24772.84,original
+1000.0,31.28,Stainless Steel,API 5L X65,1500.0,30.0,3.04,9.71,31.04,16.0,Critical,7.97,10861.87,original
+1200.0,37.12,Stainless Steel,ASTM A106 Grade B,2500.0,102.2,8.3,5.86,15.79,20.0,Critical,7.93,15747.67,original
+800.0,25.85,Stainless Steel,API 5L X65,1500.0,21.4,9.85,1.36,5.26,8.0,Normal,8.42,6880.84,original
+100.0,4.55,Stainless Steel,ASTM A106 Grade B,600.0,62.3,9.87,8.53,187.47,25.0,Critical,7.92,72.38,original
+1500.0,47.27,HDPE,ASTM A106 Grade B,600.0,0.6,8.51,3.84,8.12,9.0,Moderate,8.18,24772.84,original
+150.0,6.25,Fiberglass,ASTM A106 Grade B,2500.0,-36.4,12.69,8.31,132.96,20.0,Critical,7.89,191.13,original
+1500.0,34.77,Carbon Steel,API 5L X52,2500.0,127.0,13.73,5.56,15.99,21.0,Critical,7.89,24772.84,original
+250.0,9.9,HDPE,API 5L X65,150.0,21.9,0.33,6.21,62.73,17.0,Critical,8.0,154.58,original
+100.0,6.3,PVC,ASTM A106 Grade B,150.0,20.2,1.08,5.06,80.32,8.0,Critical,7.99,18.7,original
+1000.0,28.47,HDPE,ASTM A333 Grade 6,900.0,58.5,8.4,0.71,2.49,10.0,Normal,8.43,10861.87,original
+600.0,23.1,PVC,ASTM A333 Grade 6,2500.0,41.9,15.62,7.28,31.52,25.0,Critical,7.87,3804.59,original
+800.0,19.82,Fiberglass,ASTM A106 Grade B,900.0,14.3,15.34,2.63,13.27,18.0,Moderate,8.12,6880.84,original
+200.0,8.01,PVC,ASTM A333 Grade 6,900.0,35.3,2.73,5.1,63.67,22.0,Critical,7.98,366.44,original
+50.0,3.03,Stainless Steel,ASTM A106 Grade B,1500.0,32.3,1.7,5.19,171.29,10.0,Critical,7.99,10.18,original
+500.0,16.18,Stainless Steel,ASTM A106 Grade B,300.0,18.1,6.3,7.77,48.02,8.0,Critical,7.95,1346.53,original
+800.0,25.94,Stainless Steel,API 5L X52,2500.0,-8.2,16.89,7.31,28.18,15.0,Critical,7.86,6880.84,original
+100.0,7.95,PVC,API 5L X65,2500.0,9.5,13.9,1.71,21.51,13.0,Normal,8.38,72.38,original
+100.0,5.96,Carbon Steel,API 5L X65,2500.0,-22.2,12.29,3.89,65.27,19.0,Moderate,8.15,72.38,original
+600.0,22.74,Stainless Steel,ASTM A106 Grade B,600.0,58.3,19.34,8.04,35.36,25.0,Critical,7.84,3804.59,original
+500.0,14.74,HDPE,API 5L X65,150.0,-37.6,19.17,4.33,29.38,14.0,Moderate,8.09,673.26,original
+400.0,17.53,PVC,API 5L X65,300.0,83.6,2.28,4.64,26.47,19.0,Moderate,8.23,843.92,original
+800.0,23.62,HDPE,ASTM A106 Grade B,900.0,-24.3,10.58,0.92,3.9,7.0,Normal,8.41,6880.84,original
+100.0,4.34,Stainless Steel,ASTM A106 Grade B,900.0,145.8,6.75,4.82,111.06,20.0,Moderate,8.19,72.38,original
+800.0,25.01,Fiberglass,API 5L X52,900.0,46.9,13.68,8.81,35.23,13.0,Critical,7.89,6880.84,original
+600.0,16.41,HDPE,API 5L X65,600.0,66.4,1.02,9.31,56.73,4.0,Critical,7.99,3804.59,original
+1000.0,29.23,Fiberglass,ASTM A106 Grade B,2500.0,135.0,4.65,8.47,28.98,16.0,Critical,7.96,10861.87,original
+800.0,27.97,Fiberglass,API 5L X65,2500.0,72.0,7.73,0.88,3.15,17.0,Normal,8.44,6880.84,original
+100.0,4.13,HDPE,API 5L X52,2500.0,-17.9,4.13,3.1,75.06,18.0,Moderate,8.22,72.38,original
+1000.0,21.35,Fiberglass,ASTM A333 Grade 6,150.0,53.1,20.0,7.27,34.05,8.0,Critical,7.83,2806.44,original
+1000.0,26.04,Fiberglass,ASTM A333 Grade 6,1500.0,57.7,9.79,9.56,36.71,20.0,Critical,7.92,10861.87,original
+100.0,4.37,HDPE,ASTM A106 Grade B,900.0,131.5,17.74,9.87,225.86,11.0,Critical,7.85,72.38,original
+600.0,12.73,Stainless Steel,ASTM A333 Grade 6,1500.0,48.8,15.15,5.74,45.09,4.0,Critical,7.87,3804.59,original
+400.0,10.05,HDPE,ASTM A106 Grade B,1500.0,7.5,10.2,6.39,63.58,5.0,Critical,7.91,1633.13,original
+1200.0,37.42,Stainless Steel,API 5L X65,1500.0,95.1,9.49,4.49,12.0,23.0,Moderate,8.17,15747.67,original
+50.0,5.99,PVC,ASTM A333 Grade 6,900.0,95.0,17.22,2.51,41.9,13.0,Moderate,8.11,10.18,original
+300.0,14.67,Fiberglass,API 5L X52,2500.0,51.2,18.37,8.46,57.67,4.0,Critical,7.85,886.68,original
+1000.0,29.16,Carbon Steel,ASTM A333 Grade 6,600.0,-24.7,2.48,3.82,13.1,4.0,Moderate,8.23,10861.87,original
+500.0,14.55,PVC,API 5L X65,600.0,19.9,0.39,5.98,41.1,24.0,Critical,8.0,2605.76,original
+50.0,3.29,Carbon Steel,ASTM A333 Grade 6,900.0,64.5,6.04,6.54,198.78,25.0,Critical,7.95,10.18,original
+150.0,5.64,Carbon Steel,API 5L X42,2500.0,115.0,9.71,9.46,167.73,6.0,Critical,7.92,191.13,original
+600.0,16.95,Stainless Steel,API 5L X42,900.0,32.4,4.15,2.59,15.28,25.0,Moderate,8.22,3804.59,original
+500.0,20.82,Fiberglass,ASTM A333 Grade 6,600.0,48.6,11.23,4.76,22.86,23.0,Moderate,8.16,2605.76,original
+400.0,19.55,Carbon Steel,API 5L X52,2500.0,60.2,18.7,5.55,28.39,17.0,Critical,7.84,1633.13,original
+1000.0,22.39,PVC,ASTM A333 Grade 6,2500.0,-0.5,19.74,2.69,12.01,3.0,Moderate,8.09,10861.87,original
+50.0,5.12,HDPE,API 5L X42,150.0,61.6,3.02,2.42,47.27,23.0,Moderate,8.22,2.63,original
+400.0,13.91,Fiberglass,API 5L X52,600.0,58.5,17.46,8.09,58.16,25.0,Critical,7.85,1633.13,original
+1200.0,34.42,Carbon Steel,API 5L X42,1500.0,49.4,10.78,0.71,2.06,11.0,Normal,8.41,15747.67,original
+50.0,4.89,Stainless Steel,ASTM A333 Grade 6,2500.0,-6.4,1.81,0.63,12.88,18.0,Normal,8.48,10.18,original
+800.0,29.88,Stainless Steel,API 5L X65,300.0,77.8,10.19,4.84,16.2,3.0,Moderate,8.17,3555.68,original
+250.0,11.0,PVC,API 5L X52,1500.0,21.8,4.52,2.59,23.55,21.0,Moderate,8.21,598.28,original
+500.0,13.59,Fiberglass,ASTM A106 Grade B,300.0,15.7,5.37,6.78,49.89,16.0,Critical,7.96,1346.53,original
+200.0,7.34,Stainless Steel,API 5L X52,900.0,98.6,18.62,6.63,90.33,12.0,Critical,7.84,366.44,original
+1500.0,43.02,Stainless Steel,API 5L X52,2500.0,14.3,2.02,2.77,6.44,12.0,Moderate,8.23,24772.84,original
+1200.0,37.74,HDPE,ASTM A333 Grade 6,600.0,58.9,9.44,1.64,4.35,7.0,Normal,8.42,15747.67,original
+300.0,7.62,Fiberglass,ASTM A333 Grade 6,900.0,-46.2,0.13,2.22,29.13,13.0,Moderate,8.25,886.68,original
+100.0,5.91,Carbon Steel,API 5L X42,900.0,127.5,13.05,1.7,28.76,3.0,Normal,8.39,72.38,original
+50.0,3.76,Fiberglass,ASTM A106 Grade B,2500.0,86.9,11.94,2.19,58.24,24.0,Moderate,8.15,10.18,original
+1200.0,32.92,Stainless Steel,API 5L X52,150.0,39.3,11.6,2.13,6.47,2.0,Moderate,8.15,4068.81,original
+100.0,4.19,Fiberglass,ASTM A333 Grade 6,2500.0,21.0,8.86,7.86,187.59,24.0,Critical,7.93,72.38,original
+1500.0,29.92,Stainless Steel,API 5L X52,300.0,5.7,9.75,3.35,11.2,22.0,Moderate,8.17,12801.37,original
+800.0,16.55,Stainless Steel,ASTM A106 Grade B,150.0,18.9,19.84,1.27,7.67,4.0,Normal,8.33,1777.84,original
+1200.0,35.13,Fiberglass,API 5L X52,150.0,51.9,13.13,8.37,23.83,4.0,Critical,7.89,4068.81,original
+600.0,19.15,Fiberglass,ASTM A106 Grade B,900.0,94.0,8.78,5.15,26.89,2.0,Critical,7.93,3804.59,original
+100.0,7.27,HDPE,ASTM A333 Grade 6,600.0,28.3,8.89,7.04,96.84,12.0,Critical,7.93,72.38,original
+500.0,23.96,Stainless Steel,API 5L X65,2500.0,64.0,14.84,2.95,12.31,17.0,Moderate,8.13,2605.76,original
+50.0,4.61,Carbon Steel,API 5L X42,150.0,61.2,13.48,6.08,131.89,21.0,Critical,7.89,2.63,original
+300.0,13.51,Carbon Steel,ASTM A106 Grade B,900.0,11.3,12.79,0.51,3.77,25.0,Normal,8.39,886.68,original
+150.0,7.49,Stainless Steel,API 5L X42,150.0,37.8,12.89,4.96,66.22,17.0,Moderate,8.14,49.38,original
+200.0,6.32,Carbon Steel,API 5L X52,150.0,-27.2,6.05,4.09,64.72,17.0,Moderate,8.2,94.68,original
+100.0,5.17,PVC,API 5L X42,300.0,-3.3,17.88,7.56,146.23,9.0,Critical,7.85,37.4,original
+400.0,17.69,PVC,API 5L X42,900.0,74.7,11.7,8.34,47.15,19.0,Critical,7.9,1633.13,original
+1200.0,30.5,Carbon Steel,ASTM A106 Grade B,900.0,15.0,2.06,4.74,15.54,12.0,Moderate,8.23,15747.67,original
+300.0,7.92,Stainless Steel,API 5L X52,150.0,103.9,16.53,3.01,38.01,10.0,Moderate,8.11,229.1,original
+50.0,3.45,HDPE,API 5L X42,900.0,93.3,2.54,4.25,123.19,22.0,Moderate,8.23,10.18,original
+50.0,5.4,PVC,ASTM A106 Grade B,600.0,71.0,7.13,4.43,82.04,1.0,Moderate,8.19,10.18,original
+600.0,18.79,HDPE,API 5L X42,2500.0,7.5,8.62,8.25,43.91,6.0,Critical,7.93,3804.59,original
+500.0,20.48,Carbon Steel,ASTM A333 Grade 6,300.0,21.3,1.03,3.09,15.09,14.0,Moderate,8.24,1346.53,original
+500.0,12.51,PVC,API 5L X42,150.0,14.4,16.61,8.28,66.19,10.0,Critical,7.86,673.26,original
+1000.0,15.72,Carbon Steel,ASTM A333 Grade 6,2500.0,124.9,5.2,4.34,27.61,22.0,Moderate,8.21,10861.87,original
+1000.0,29.26,Stainless Steel,API 5L X52,1500.0,31.0,11.96,7.23,24.71,8.0,Critical,7.9,10861.87,original
+400.0,12.45,PVC,ASTM A333 Grade 6,1500.0,-24.8,7.4,7.92,63.61,9.0,Critical,7.94,1633.13,original
+50.0,5.26,Carbon Steel,ASTM A106 Grade B,2500.0,61.1,16.8,4.71,89.54,1.0,Moderate,8.11,10.18,original
+600.0,19.59,HDPE,ASTM A106 Grade B,2500.0,65.8,5.32,5.73,29.25,11.0,Critical,7.96,3804.59,original
+50.0,3.62,Carbon Steel,API 5L X65,900.0,19.5,1.86,3.38,93.37,22.0,Moderate,8.23,10.18,original
+200.0,11.96,Carbon Steel,ASTM A106 Grade B,2500.0,63.4,14.19,7.02,58.7,15.0,Critical,7.88,366.44,original
+1000.0,30.86,Stainless Steel,API 5L X65,900.0,45.4,13.15,0.07,0.23,3.0,Normal,8.39,10861.87,original
+150.0,5.72,Carbon Steel,API 5L X65,150.0,141.8,0.8,1.08,18.88,1.0,Normal,8.49,49.38,original
+50.0,5.27,HDPE,API 5L X42,150.0,77.8,11.29,1.25,23.72,17.0,Normal,8.41,2.63,original
+50.0,3.31,Carbon Steel,API 5L X42,2500.0,13.4,2.44,5.12,154.68,5.0,Critical,7.98,10.18,original
+400.0,16.64,Carbon Steel,ASTM A333 Grade 6,150.0,0.2,12.16,5.08,30.53,3.0,Critical,7.9,421.96,original
+1500.0,45.09,HDPE,API 5L X42,900.0,-5.4,2.46,1.27,2.82,3.0,Normal,8.48,24772.84,original
+400.0,16.71,Stainless Steel,API 5L X65,600.0,83.4,5.34,1.57,9.4,14.0,Normal,8.46,1633.13,original
+300.0,11.47,Stainless Steel,API 5L X52,150.0,55.0,16.76,2.96,25.81,4.0,Moderate,8.11,229.1,original
+1200.0,38.61,HDPE,ASTM A106 Grade B,1500.0,41.5,12.53,5.45,14.12,25.0,Critical,7.9,15747.67,original
+200.0,11.62,PVC,ASTM A333 Grade 6,900.0,14.9,18.9,7.87,67.73,8.0,Critical,7.84,366.44,original
+800.0,31.61,HDPE,API 5L X65,300.0,87.0,7.94,5.94,18.79,7.0,Critical,7.93,3555.68,original
+200.0,6.74,PVC,API 5L X65,2500.0,10.1,10.63,5.21,77.3,21.0,Critical,7.91,366.44,original
+800.0,17.35,PVC,API 5L X65,150.0,20.1,16.34,7.86,45.3,2.0,Critical,7.86,1777.84,original
+1200.0,32.64,Stainless Steel,API 5L X42,300.0,18.7,9.66,5.42,16.61,11.0,Critical,7.92,8137.61,original
+50.0,5.73,Stainless Steel,ASTM A333 Grade 6,600.0,3.2,9.01,0.33,5.76,19.0,Normal,8.42,10.18,original
+500.0,15.5,HDPE,ASTM A333 Grade 6,2500.0,32.0,9.84,8.88,57.29,17.0,Critical,7.92,2605.76,original
+400.0,15.39,Carbon Steel,ASTM A106 Grade B,2500.0,62.2,0.26,8.55,55.56,4.0,Critical,8.0,1633.13,original
+200.0,7.27,Carbon Steel,API 5L X65,600.0,115.3,19.99,1.2,16.51,6.0,Normal,8.33,366.44,original
+1200.0,38.24,PVC,API 5L X42,300.0,91.6,2.71,1.98,5.18,8.0,Normal,8.48,8137.61,original
+300.0,15.69,HDPE,API 5L X52,300.0,27.8,4.53,3.86,24.6,22.0,Moderate,8.21,458.19,original
+200.0,9.94,Carbon Steel,ASTM A333 Grade 6,1500.0,37.2,1.22,1.07,10.76,14.0,Normal,8.49,366.44,original
+50.0,5.65,PVC,API 5L X42,600.0,-40.9,6.92,9.13,161.59,22.0,Critical,7.94,10.18,original
+50.0,3.66,Fiberglass,ASTM A106 Grade B,900.0,78.5,3.75,0.31,8.47,25.0,Normal,8.47,10.18,original
+800.0,16.71,Stainless Steel,API 5L X65,150.0,-18.6,6.23,7.8,46.68,2.0,Critical,7.95,1777.84,original
+200.0,7.49,Fiberglass,API 5L X52,900.0,48.1,13.08,7.44,99.33,14.0,Critical,7.89,366.44,original
+50.0,5.82,Fiberglass,API 5L X42,900.0,67.8,5.7,1.77,30.41,20.0,Normal,8.45,10.18,original
+50.0,4.29,PVC,ASTM A106 Grade B,600.0,37.2,19.35,4.88,113.75,19.0,Moderate,8.09,10.18,original
+1500.0,31.98,Fiberglass,API 5L X42,600.0,-37.7,2.6,4.74,14.82,8.0,Moderate,8.23,24772.84,original
+1200.0,25.4,HDPE,ASTM A333 Grade 6,300.0,-7.9,1.88,3.47,13.66,14.0,Moderate,8.23,8137.61,original
+1500.0,28.54,PVC,API 5L X52,600.0,-14.3,15.64,9.3,32.59,22.0,Critical,7.87,24772.84,original
+50.0,4.82,Stainless Steel,API 5L X65,900.0,16.8,12.1,8.4,174.27,4.0,Critical,7.9,10.18,original
+300.0,16.33,Carbon Steel,API 5L X42,2500.0,65.8,11.08,1.6,9.8,18.0,Normal,8.41,886.68,original
+1500.0,34.75,PVC,API 5L X52,2500.0,15.2,18.76,5.44,15.65,21.0,Critical,7.84,24772.84,original
+150.0,5.08,Fiberglass,API 5L X52,600.0,21.5,15.15,3.88,76.38,17.0,Moderate,8.12,191.13,original
+250.0,9.92,Stainless Steel,ASTM A333 Grade 6,150.0,-18.7,3.27,1.61,16.23,17.0,Normal,8.47,154.58,original
+50.0,3.86,Carbon Steel,API 5L X42,600.0,141.6,11.94,7.18,186.01,8.0,Critical,7.9,10.18,original
+50.0,5.74,HDPE,ASTM A106 Grade B,300.0,19.9,8.8,4.18,72.82,8.0,Moderate,8.18,5.26,original
+500.0,10.93,PVC,API 5L X52,600.0,100.2,11.3,9.62,88.01,12.0,Critical,7.91,2605.76,original
+1500.0,23.47,Fiberglass,API 5L X52,150.0,18.3,10.75,9.02,38.43,9.0,Critical,7.91,6400.68,original
+400.0,9.44,Stainless Steel,ASTM A106 Grade B,1500.0,31.7,3.39,0.99,10.49,4.0,Normal,8.47,1633.13,original
+500.0,20.01,Fiberglass,ASTM A106 Grade B,300.0,5.6,2.64,4.99,24.94,23.0,Moderate,8.23,1346.53,original
+250.0,14.24,Stainless Steel,API 5L X52,2500.0,136.6,4.53,1.1,7.72,18.0,Normal,8.46,598.28,original
+50.0,5.1,Fiberglass,ASTM A333 Grade 6,600.0,80.2,10.57,6.93,135.88,18.0,Critical,7.91,10.18,original
+100.0,5.95,Stainless Steel,ASTM A106 Grade B,150.0,69.3,18.23,5.37,90.25,5.0,Critical,7.85,18.7,original
+50.0,4.43,HDPE,ASTM A106 Grade B,600.0,16.1,16.91,4.09,92.33,16.0,Moderate,8.11,10.18,original
+100.0,5.33,Stainless Steel,ASTM A333 Grade 6,1500.0,50.9,16.47,2.04,38.27,16.0,Moderate,8.11,72.38,original
+600.0,24.6,PVC,API 5L X42,2500.0,2.7,1.98,7.53,30.61,6.0,Critical,7.98,3804.59,original
+250.0,13.65,Fiberglass,ASTM A333 Grade 6,300.0,45.9,12.65,7.65,56.04,9.0,Critical,7.89,309.16,original
+1200.0,24.59,Stainless Steel,API 5L X65,300.0,72.8,12.85,8.44,34.32,13.0,Critical,7.89,8137.61,original
+400.0,16.12,HDPE,ASTM A106 Grade B,150.0,84.0,12.61,6.86,42.56,3.0,Critical,7.89,421.96,original
+1500.0,39.33,HDPE,ASTM A333 Grade 6,300.0,-13.1,6.78,3.13,7.96,19.0,Moderate,8.19,12801.37,original
+500.0,9.54,Stainless Steel,ASTM A106 Grade B,900.0,48.6,11.26,3.14,32.91,10.0,Moderate,8.16,2605.76,original
+100.0,6.67,Carbon Steel,API 5L X52,150.0,-13.9,9.73,8.14,122.04,3.0,Critical,7.92,18.7,original
+50.0,3.0,Stainless Steel,ASTM A333 Grade 6,2500.0,149.5,9.41,2.44,81.33,5.0,Moderate,8.17,10.18,original
+600.0,18.9,PVC,API 5L X52,300.0,117.6,18.88,8.35,44.18,2.0,Critical,7.84,1966.02,original
+1000.0,23.13,Stainless Steel,ASTM A106 Grade B,900.0,40.3,8.45,3.98,17.21,12.0,Moderate,8.18,10861.87,original
+200.0,11.05,Fiberglass,API 5L X52,900.0,10.1,4.1,1.81,16.38,25.0,Normal,8.47,366.44,original
+400.0,12.9,PVC,API 5L X65,1500.0,19.8,19.47,2.81,21.78,6.0,Moderate,8.09,1633.13,original
+250.0,12.98,Carbon Steel,API 5L X52,900.0,102.9,1.02,0.88,6.78,19.0,Normal,8.49,598.28,original
+1500.0,36.13,Stainless Steel,API 5L X52,900.0,59.5,2.84,6.93,19.18,14.0,Critical,7.98,24772.84,original
+100.0,7.8,PVC,ASTM A333 Grade 6,1500.0,36.0,3.57,4.64,59.49,23.0,Moderate,8.22,72.38,original
+200.0,6.14,PVC,API 5L X42,900.0,50.9,16.59,7.1,115.64,3.0,Critical,7.86,366.44,original
+100.0,4.22,PVC,API 5L X42,1500.0,3.5,16.13,0.03,0.71,17.0,Normal,8.37,72.38,original
+1000.0,26.19,HDPE,API 5L X65,900.0,26.3,4.38,0.12,0.46,4.0,Normal,8.46,10861.87,original
+400.0,14.97,HDPE,ASTM A333 Grade 6,2500.0,3.0,13.47,3.14,20.98,23.0,Moderate,8.14,1633.13,original
+50.0,3.63,Stainless Steel,ASTM A106 Grade B,900.0,35.9,5.29,0.55,15.15,10.0,Normal,8.46,10.18,original
+1500.0,48.32,HDPE,ASTM A333 Grade 6,300.0,90.1,19.12,6.42,13.29,2.0,Critical,7.84,12801.37,original
+100.0,4.26,Stainless Steel,ASTM A333 Grade 6,150.0,43.5,9.24,3.41,80.05,6.0,Moderate,8.17,18.7,original
+1500.0,21.48,Stainless Steel,API 5L X42,150.0,106.1,0.13,6.02,28.03,1.0,Critical,8.0,6400.68,original
+400.0,17.48,Stainless Steel,API 5L X65,150.0,65.7,16.08,9.18,52.52,5.0,Critical,7.87,421.96,original
+50.0,3.93,Fiberglass,ASTM A333 Grade 6,1500.0,60.9,12.73,2.28,58.02,10.0,Moderate,8.14,10.18,original
+100.0,4.7,Stainless Steel,API 5L X42,300.0,63.7,6.81,8.83,187.87,6.0,Critical,7.94,37.4,original
+800.0,21.5,PVC,ASTM A106 Grade B,150.0,28.4,13.34,5.52,25.67,25.0,Critical,7.89,1777.84,original
+600.0,23.01,Fiberglass,API 5L X42,900.0,54.1,7.44,0.21,0.91,19.0,Normal,8.44,3804.59,original
+1200.0,24.51,Fiberglass,API 5L X65,1500.0,138.4,8.83,3.26,13.3,22.0,Moderate,8.18,15747.67,original
+50.0,5.1,PVC,ASTM A106 Grade B,300.0,5.6,2.42,6.46,126.67,21.0,Critical,7.98,5.26,original
+1500.0,23.53,Carbon Steel,ASTM A106 Grade B,1500.0,6.1,11.73,1.53,6.5,5.0,Normal,8.4,24772.84,original
+300.0,15.67,Fiberglass,ASTM A333 Grade 6,300.0,43.3,6.51,4.76,30.38,5.0,Moderate,8.2,458.19,original
+200.0,6.3,Carbon Steel,API 5L X42,300.0,62.6,3.47,1.55,24.6,19.0,Normal,8.47,189.36,original
+1000.0,22.93,Fiberglass,ASTM A333 Grade 6,900.0,84.6,7.67,3.92,17.1,23.0,Moderate,8.19,10861.87,original
+300.0,10.67,Fiberglass,API 5L X65,2500.0,92.3,6.24,6.66,62.42,15.0,Critical,7.95,886.68,original
+500.0,23.22,PVC,API 5L X52,150.0,45.6,13.08,4.97,21.4,13.0,Moderate,8.14,673.26,original
+300.0,12.92,Carbon Steel,ASTM A333 Grade 6,150.0,136.0,11.02,6.79,52.55,6.0,Critical,7.91,229.1,original
+1200.0,36.1,HDPE,API 5L X65,900.0,56.8,10.34,8.06,22.33,16.0,Critical,7.91,15747.67,original
+200.0,9.13,Stainless Steel,ASTM A333 Grade 6,2500.0,93.4,10.66,9.83,107.67,8.0,Critical,7.91,366.44,original
+500.0,10.21,Carbon Steel,ASTM A106 Grade B,1500.0,-17.0,19.81,0.94,9.21,14.0,Normal,8.33,2605.76,original
+800.0,22.07,Fiberglass,API 5L X52,600.0,21.1,2.71,2.17,9.83,11.0,Moderate,8.23,6880.84,original
+500.0,9.71,Carbon Steel,API 5L X65,900.0,24.1,10.87,1.93,19.88,25.0,Normal,8.41,2605.76,original
+150.0,5.73,PVC,ASTM A333 Grade 6,600.0,67.9,2.75,9.36,163.35,17.0,Critical,7.98,191.13,original
+400.0,14.7,Stainless Steel,ASTM A333 Grade 6,2500.0,70.1,2.84,7.55,51.36,15.0,Critical,7.98,1633.13,original
+600.0,13.23,Stainless Steel,API 5L X42,300.0,148.2,4.96,7.11,53.74,10.0,Critical,7.96,1966.02,original
+300.0,15.67,HDPE,ASTM A333 Grade 6,150.0,14.1,2.73,1.0,6.38,21.0,Normal,8.48,229.1,original
+200.0,9.5,Fiberglass,API 5L X52,600.0,29.6,19.1,9.01,94.84,16.0,Critical,7.84,366.44,original
+100.0,4.65,Carbon Steel,ASTM A106 Grade B,1500.0,48.8,9.19,1.59,34.19,5.0,Normal,8.42,72.38,original
+1200.0,34.92,HDPE,ASTM A333 Grade 6,300.0,79.3,3.55,6.92,19.82,12.0,Critical,7.97,8137.61,original
+600.0,21.33,HDPE,ASTM A333 Grade 6,300.0,100.1,6.63,7.16,33.57,15.0,Critical,7.94,1966.02,original
+500.0,17.85,Fiberglass,API 5L X42,150.0,20.7,6.86,8.76,49.08,10.0,Critical,7.94,673.26,original
+1200.0,22.83,PVC,ASTM A106 Grade B,900.0,42.1,7.33,4.45,19.49,10.0,Moderate,8.19,15747.67,original
+800.0,18.33,Stainless Steel,API 5L X42,1500.0,104.9,5.68,3.2,17.46,10.0,Moderate,8.2,6880.84,original
+600.0,12.39,PVC,API 5L X65,1500.0,56.0,19.13,7.83,63.2,22.0,Critical,7.84,3804.59,original
+300.0,12.86,Fiberglass,ASTM A333 Grade 6,900.0,88.9,11.84,5.2,40.44,18.0,Critical,7.9,886.68,original
+1200.0,24.24,PVC,ASTM A106 Grade B,900.0,-34.4,5.08,8.54,35.23,25.0,Critical,7.96,15747.67,original
+150.0,7.91,PVC,ASTM A106 Grade B,600.0,20.8,2.12,1.17,14.79,12.0,Normal,8.48,191.13,original
+200.0,8.98,Fiberglass,API 5L X65,900.0,-38.6,14.53,9.22,102.67,18.0,Critical,7.88,366.44,original
+1200.0,38.03,Fiberglass,API 5L X52,900.0,-44.2,4.74,5.56,14.62,11.0,Critical,7.96,15747.67,original
+1000.0,26.98,PVC,ASTM A106 Grade B,150.0,43.9,12.77,9.99,37.03,16.0,Critical,7.89,2806.44,original
+150.0,9.73,Stainless Steel,ASTM A106 Grade B,600.0,56.0,8.07,3.18,32.68,2.0,Moderate,8.18,191.13,original
+500.0,22.49,Stainless Steel,API 5L X65,1500.0,58.1,3.1,6.62,29.44,1.0,Critical,7.97,2605.76,original
+300.0,7.2,Carbon Steel,API 5L X42,300.0,48.5,17.27,8.07,112.08,20.0,Critical,7.86,458.19,original
+500.0,9.94,PVC,API 5L X65,150.0,28.1,12.68,1.32,13.28,13.0,Normal,8.39,673.26,original
+150.0,6.69,Carbon Steel,ASTM A106 Grade B,300.0,66.2,2.1,9.6,143.5,6.0,Critical,7.98,98.77,original
+200.0,6.76,Fiberglass,API 5L X65,300.0,51.1,15.15,9.35,138.31,8.0,Critical,7.87,189.36,original
+200.0,6.26,PVC,API 5L X52,2500.0,74.8,12.94,8.02,128.12,24.0,Critical,7.89,366.44,original
+800.0,14.7,HDPE,API 5L X52,1500.0,43.9,1.44,4.07,27.69,16.0,Moderate,8.24,6880.84,original
+600.0,11.17,HDPE,ASTM A333 Grade 6,1500.0,115.7,17.93,0.81,7.25,15.0,Normal,8.35,3804.59,original
+600.0,14.15,PVC,API 5L X42,150.0,86.4,9.07,4.49,31.73,18.0,Moderate,8.17,983.01,original
+800.0,17.15,HDPE,API 5L X65,150.0,93.4,0.54,2.54,14.81,7.0,Moderate,8.25,1777.84,original
+50.0,3.0,Carbon Steel,ASTM A333 Grade 6,150.0,30.9,9.2,4.13,137.67,17.0,Moderate,8.17,2.63,original
+500.0,21.53,HDPE,ASTM A106 Grade B,300.0,47.7,16.95,3.11,14.44,13.0,Moderate,8.11,1346.53,original
+1500.0,34.19,Fiberglass,API 5L X65,1500.0,81.2,10.4,7.15,20.91,1.0,Critical,7.91,24772.84,original
+50.0,5.93,Fiberglass,ASTM A106 Grade B,2500.0,75.1,19.39,7.2,121.42,15.0,Critical,7.84,10.18,original
+1200.0,33.06,Carbon Steel,ASTM A106 Grade B,900.0,-9.6,11.89,8.15,24.65,18.0,Critical,7.9,15747.67,original
+100.0,6.31,Carbon Steel,API 5L X65,900.0,30.5,10.66,5.74,90.97,12.0,Critical,7.91,72.38,original
+100.0,4.72,Stainless Steel,ASTM A106 Grade B,300.0,55.8,8.56,0.97,20.55,16.0,Normal,8.43,37.4,original
+600.0,22.4,Stainless Steel,API 5L X65,1500.0,44.1,1.5,8.01,35.76,12.0,Critical,7.99,3804.59,original
+300.0,17.34,Stainless Steel,ASTM A333 Grade 6,1500.0,46.2,14.96,4.81,27.74,6.0,Moderate,8.13,886.68,original
+400.0,12.29,PVC,API 5L X42,300.0,-9.6,16.0,3.22,26.2,8.0,Moderate,8.12,843.92,original
+1500.0,29.22,Stainless Steel,ASTM A106 Grade B,2500.0,-10.7,8.17,6.72,23.0,22.0,Critical,7.93,24772.84,original
+100.0,5.99,Carbon Steel,API 5L X52,900.0,-6.7,8.83,3.77,62.94,14.0,Moderate,8.18,72.38,original
+50.0,3.0,Fiberglass,API 5L X52,900.0,22.8,13.87,0.47,15.67,18.0,Normal,8.38,10.18,original
+1500.0,38.34,Carbon Steel,ASTM A333 Grade 6,2500.0,22.3,14.44,5.57,14.53,21.0,Critical,7.88,24772.84,original
+100.0,7.37,PVC,ASTM A106 Grade B,300.0,56.5,14.31,2.35,31.89,2.0,Moderate,8.13,37.4,original
+800.0,27.17,HDPE,ASTM A333 Grade 6,2500.0,27.0,16.1,9.31,34.27,16.0,Critical,7.87,6880.84,original
+800.0,12.37,HDPE,API 5L X65,900.0,-11.7,16.5,7.51,60.71,23.0,Critical,7.86,6880.84,original
+100.0,5.58,Fiberglass,API 5L X42,300.0,43.4,12.52,4.45,79.75,21.0,Moderate,8.15,37.4,original
+100.0,6.08,Carbon Steel,API 5L X42,150.0,86.7,10.71,2.81,46.22,21.0,Moderate,8.16,18.7,original
+1200.0,23.76,Fiberglass,API 5L X42,300.0,-29.9,1.38,6.01,25.29,16.0,Critical,7.99,8137.61,original
+300.0,9.39,Fiberglass,API 5L X52,150.0,41.2,11.27,4.09,43.56,20.0,Moderate,8.16,229.1,original
+300.0,10.42,Fiberglass,ASTM A333 Grade 6,600.0,32.5,19.33,4.64,44.53,3.0,Moderate,8.09,886.68,original
+800.0,29.29,HDPE,API 5L X42,150.0,76.1,10.21,7.0,23.9,3.0,Critical,7.91,1777.84,original
+1500.0,32.91,Carbon Steel,API 5L X65,150.0,112.7,9.62,6.03,18.32,17.0,Critical,7.92,6400.68,original
+200.0,11.11,Carbon Steel,ASTM A106 Grade B,150.0,6.1,14.49,3.41,30.69,23.0,Moderate,8.13,94.68,original
+300.0,13.83,Carbon Steel,API 5L X42,300.0,76.0,11.2,2.95,21.33,3.0,Moderate,8.16,458.19,original
+1000.0,29.05,PVC,ASTM A106 Grade B,1500.0,29.6,7.47,9.63,33.15,14.0,Critical,7.94,10861.87,original
+1500.0,47.89,HDPE,ASTM A106 Grade B,2500.0,56.1,0.82,9.49,19.82,7.0,Critical,7.99,24772.84,original
+50.0,5.33,Fiberglass,API 5L X42,900.0,95.9,13.51,3.77,70.73,13.0,Moderate,8.14,10.18,original
+1000.0,33.31,Carbon Steel,API 5L X52,300.0,105.7,3.86,8.29,24.89,20.0,Critical,7.97,5612.87,original
+400.0,18.41,Carbon Steel,ASTM A106 Grade B,2500.0,25.7,5.31,2.71,14.72,16.0,Moderate,8.21,1633.13,original
+150.0,5.98,Stainless Steel,API 5L X52,2500.0,-20.8,6.05,6.14,102.68,20.0,Critical,7.95,191.13,original
+800.0,29.96,Fiberglass,ASTM A106 Grade B,2500.0,29.0,1.98,2.13,7.11,15.0,Moderate,8.23,6880.84,original
+300.0,8.74,HDPE,ASTM A106 Grade B,1500.0,43.5,15.97,8.42,96.34,25.0,Critical,7.87,886.68,original
+150.0,5.21,Stainless Steel,API 5L X65,150.0,91.9,5.83,1.33,25.53,24.0,Normal,8.45,49.38,original
+600.0,21.1,Carbon Steel,API 5L X52,1500.0,12.8,3.44,9.87,46.78,15.0,Critical,7.97,3804.59,original
+1000.0,32.07,Stainless Steel,API 5L X52,150.0,100.7,0.3,4.46,13.91,22.0,Moderate,8.25,2806.44,original
+100.0,5.72,Stainless Steel,ASTM A106 Grade B,150.0,-6.9,9.07,5.8,101.4,17.0,Critical,7.92,18.7,original
+250.0,13.01,HDPE,API 5L X65,600.0,16.8,18.32,4.03,30.98,5.0,Moderate,8.1,598.28,original
+500.0,21.57,Stainless Steel,ASTM A333 Grade 6,2500.0,-24.6,4.97,7.54,34.96,14.0,Critical,7.96,2605.76,original
+200.0,10.76,Fiberglass,API 5L X42,1500.0,4.1,14.69,4.04,37.55,24.0,Moderate,8.13,366.44,original
+400.0,18.8,PVC,ASTM A106 Grade B,900.0,28.7,3.18,3.37,17.93,4.0,Moderate,8.22,1633.13,original
+600.0,24.05,PVC,ASTM A106 Grade B,2500.0,76.4,10.18,2.64,10.98,21.0,Moderate,8.17,3804.59,original
+500.0,17.53,PVC,ASTM A106 Grade B,600.0,61.3,11.49,3.24,18.48,18.0,Moderate,8.15,2605.76,original
+300.0,7.53,HDPE,ASTM A106 Grade B,900.0,0.5,2.82,1.99,26.43,7.0,Normal,8.48,886.68,original
+600.0,26.89,HDPE,API 5L X52,600.0,34.5,19.09,3.55,13.2,5.0,Moderate,8.09,3804.59,original
+250.0,11.74,Stainless Steel,API 5L X65,1500.0,53.8,7.49,8.13,69.25,19.0,Critical,7.94,598.28,original
+800.0,14.26,PVC,ASTM A106 Grade B,300.0,-29.3,11.27,9.19,64.45,22.0,Critical,7.91,3555.68,original
+400.0,18.46,HDPE,ASTM A106 Grade B,300.0,53.1,15.98,3.56,19.28,18.0,Moderate,8.12,843.92,original
+1200.0,33.73,PVC,API 5L X65,150.0,45.3,10.81,7.41,21.97,20.0,Critical,7.91,4068.81,original
+250.0,8.54,Fiberglass,API 5L X65,300.0,41.0,12.97,5.54,64.87,4.0,Critical,7.89,309.16,original
+800.0,20.75,HDPE,ASTM A106 Grade B,150.0,-0.9,6.09,9.77,47.08,24.0,Critical,7.95,1777.84,original
+1000.0,15.56,Stainless Steel,ASTM A333 Grade 6,300.0,74.8,3.19,4.24,27.25,20.0,Moderate,8.22,5612.87,original
+50.0,4.69,HDPE,API 5L X42,150.0,13.4,0.67,2.43,51.81,18.0,Moderate,8.24,2.63,original
+150.0,7.97,Fiberglass,API 5L X42,150.0,81.8,5.16,9.05,113.55,20.0,Critical,7.96,49.38,original
+200.0,8.62,PVC,ASTM A106 Grade B,2500.0,50.6,10.45,5.2,60.32,17.0,Critical,7.91,366.44,original
+100.0,4.13,Stainless Steel,API 5L X65,1500.0,34.0,13.27,4.98,120.58,21.0,Moderate,8.14,72.38,original
+1000.0,21.65,PVC,API 5L X42,600.0,45.9,14.74,0.8,3.7,23.0,Normal,8.38,10861.87,original
+1000.0,21.54,Stainless Steel,API 5L X65,600.0,33.3,1.88,2.09,9.7,6.0,Moderate,8.23,10861.87,original
+250.0,9.52,HDPE,ASTM A333 Grade 6,600.0,83.7,19.54,9.39,98.63,13.0,Critical,7.84,598.28,original
+250.0,8.56,Stainless Steel,ASTM A333 Grade 6,600.0,-2.6,8.07,8.43,98.48,7.0,Critical,7.93,598.28,original
+200.0,8.86,HDPE,ASTM A106 Grade B,300.0,-40.4,9.44,7.99,90.18,3.0,Critical,7.92,189.36,original
+100.0,7.89,Stainless Steel,ASTM A106 Grade B,600.0,-32.2,19.92,3.05,38.66,11.0,Moderate,8.08,72.38,original
+100.0,5.25,Carbon Steel,API 5L X52,600.0,-19.8,17.61,9.96,189.71,19.0,Critical,7.85,72.38,original
+100.0,7.07,Carbon Steel,API 5L X42,150.0,27.4,1.45,7.91,111.88,4.0,Critical,7.99,18.7,original
+200.0,11.23,Carbon Steel,API 5L X52,1500.0,33.4,19.23,8.55,76.14,22.0,Critical,7.84,366.44,original
+250.0,14.41,HDPE,API 5L X52,2500.0,-0.2,2.77,5.32,36.92,24.0,Critical,7.98,598.28,original
+1000.0,27.26,HDPE,ASTM A106 Grade B,600.0,54.0,7.23,2.15,7.89,5.0,Moderate,8.19,10861.87,original
+600.0,13.68,Carbon Steel,ASTM A333 Grade 6,300.0,84.8,2.05,7.14,52.19,6.0,Critical,7.98,1966.02,original
+1500.0,47.8,Stainless Steel,ASTM A333 Grade 6,300.0,10.1,15.3,9.43,19.73,6.0,Critical,7.87,12801.37,original
+800.0,29.51,HDPE,ASTM A333 Grade 6,300.0,128.8,3.09,9.75,33.04,1.0,Critical,7.97,3555.68,original
+150.0,7.48,Stainless Steel,API 5L X65,900.0,80.5,8.07,0.18,2.41,11.0,Normal,8.43,191.13,original
+600.0,26.47,HDPE,ASTM A333 Grade 6,2500.0,36.2,7.17,8.48,32.04,18.0,Critical,7.94,3804.59,original
+300.0,13.68,Carbon Steel,API 5L X65,900.0,12.3,17.18,4.66,34.06,21.0,Moderate,8.11,886.68,original
+300.0,9.59,Carbon Steel,ASTM A106 Grade B,1500.0,73.0,13.07,0.19,1.98,7.0,Normal,8.39,886.68,original
+100.0,4.28,Stainless Steel,ASTM A333 Grade 6,900.0,83.1,5.11,7.92,185.05,1.0,Critical,7.96,72.38,original
+800.0,21.96,Fiberglass,API 5L X42,600.0,19.0,10.82,0.43,1.96,12.0,Normal,8.41,6880.84,original
+500.0,10.21,Carbon Steel,ASTM A333 Grade 6,300.0,68.3,16.88,9.25,90.6,19.0,Critical,7.86,1346.53,original
+500.0,19.32,HDPE,API 5L X65,900.0,90.4,18.76,4.4,22.77,4.0,Moderate,8.09,2605.76,original
+250.0,13.65,Fiberglass,API 5L X65,150.0,37.4,6.56,3.7,27.11,18.0,Moderate,8.2,154.58,original
+200.0,10.98,HDPE,ASTM A333 Grade 6,600.0,20.6,9.9,6.62,60.29,6.0,Critical,7.92,366.44,original
+800.0,31.24,Fiberglass,ASTM A106 Grade B,300.0,108.5,3.05,9.35,29.93,13.0,Critical,7.97,3555.68,original
+500.0,20.02,Stainless Steel,API 5L X65,900.0,17.1,9.57,1.08,5.39,7.0,Normal,8.42,2605.76,original
+500.0,11.35,Stainless Steel,API 5L X65,600.0,57.8,18.93,2.5,22.03,17.0,Moderate,8.09,2605.76,original
+600.0,29.1,Fiberglass,API 5L X65,1500.0,3.4,19.05,8.2,28.18,7.0,Critical,7.84,3804.59,original
+600.0,17.64,Carbon Steel,ASTM A333 Grade 6,150.0,44.9,0.62,5.22,29.59,10.0,Critical,7.99,983.01,original
+150.0,8.75,Fiberglass,ASTM A333 Grade 6,900.0,3.7,16.84,3.84,43.89,17.0,Moderate,8.11,191.13,original
+400.0,11.43,Fiberglass,ASTM A106 Grade B,1500.0,77.6,16.88,0.56,4.9,10.0,Normal,8.36,1633.13,original
+500.0,15.27,HDPE,ASTM A106 Grade B,150.0,43.7,19.41,8.01,52.46,25.0,Critical,7.84,673.26,original
+100.0,5.45,Stainless Steel,ASTM A106 Grade B,600.0,12.4,14.13,8.86,162.57,11.0,Critical,7.88,72.38,original
+100.0,5.78,Carbon Steel,API 5L X65,900.0,49.4,13.28,0.07,1.21,14.0,Normal,8.39,72.38,original
+150.0,7.52,Stainless Steel,API 5L X65,600.0,3.9,6.91,3.12,41.49,16.0,Moderate,8.19,191.13,original
+50.0,4.73,HDPE,ASTM A106 Grade B,150.0,-26.1,6.97,1.24,26.22,11.0,Normal,8.44,2.63,original
+150.0,9.06,PVC,API 5L X52,300.0,41.6,8.06,5.92,65.34,23.0,Critical,7.93,98.77,original
+250.0,11.12,PVC,API 5L X52,150.0,50.1,10.85,0.34,3.06,21.0,Normal,8.41,154.58,original
+200.0,7.76,PVC,ASTM A106 Grade B,600.0,73.9,6.25,0.82,10.57,10.0,Normal,8.45,366.44,original
+1000.0,28.91,Fiberglass,API 5L X52,600.0,69.6,16.07,6.87,23.76,22.0,Critical,7.87,10861.87,original
+200.0,11.71,Stainless Steel,ASTM A106 Grade B,300.0,104.8,0.59,8.29,70.79,21.0,Critical,8.0,189.36,original
+150.0,9.62,Fiberglass,ASTM A106 Grade B,150.0,126.0,8.47,3.19,33.16,10.0,Moderate,8.18,49.38,original
+150.0,5.71,HDPE,ASTM A333 Grade 6,600.0,50.1,2.81,5.52,96.67,16.0,Critical,7.98,191.13,original
+250.0,8.98,HDPE,API 5L X42,2500.0,3.0,15.03,2.72,30.29,25.0,Moderate,8.12,598.28,original
+200.0,9.26,HDPE,ASTM A333 Grade 6,300.0,95.9,15.17,0.39,4.21,11.0,Normal,8.37,189.36,original
+50.0,4.88,Carbon Steel,API 5L X42,600.0,23.9,12.19,1.94,39.75,2.0,Normal,8.4,10.18,original
+800.0,26.68,Stainless Steel,ASTM A106 Grade B,150.0,77.3,1.72,1.7,6.37,2.0,Normal,8.49,1777.84,original
+800.0,28.91,HDPE,API 5L X52,2500.0,113.9,7.13,6.97,24.11,11.0,Critical,7.94,6880.84,original
+1200.0,19.06,Carbon Steel,ASTM A333 Grade 6,600.0,10.0,18.3,0.64,3.36,24.0,Normal,8.35,15747.67,original
+600.0,17.16,HDPE,API 5L X52,150.0,47.0,4.92,7.12,41.49,2.0,Critical,7.96,983.01,original
+150.0,5.41,Fiberglass,ASTM A333 Grade 6,1500.0,44.1,9.25,8.4,155.27,8.0,Critical,7.92,191.13,original
+300.0,17.74,HDPE,API 5L X42,2500.0,28.4,1.77,0.85,4.79,15.0,Normal,8.49,886.68,original
+1200.0,35.19,HDPE,ASTM A333 Grade 6,600.0,45.8,7.81,3.15,8.95,22.0,Moderate,8.18,15747.67,original
+300.0,13.22,Carbon Steel,API 5L X65,300.0,-25.0,17.49,1.06,8.02,12.0,Normal,8.35,458.19,original
+1500.0,42.02,PVC,API 5L X52,900.0,21.2,9.66,7.87,18.73,10.0,Critical,7.92,24772.84,original
+250.0,12.72,HDPE,ASTM A333 Grade 6,150.0,49.0,8.12,2.68,21.07,13.0,Moderate,8.18,154.58,original
+500.0,21.07,HDPE,ASTM A333 Grade 6,600.0,83.4,9.54,1.16,5.51,1.0,Normal,8.42,2605.76,original
+100.0,4.52,Stainless Steel,API 5L X42,300.0,-25.5,0.61,7.73,171.02,21.0,Critical,7.99,37.4,original
+600.0,12.67,Carbon Steel,API 5L X52,600.0,60.0,0.91,8.3,65.51,20.0,Critical,7.99,3804.59,original
+400.0,15.28,Carbon Steel,API 5L X52,600.0,13.1,4.66,0.1,0.65,22.0,Normal,8.46,1633.13,original
+1000.0,26.76,Fiberglass,API 5L X42,2500.0,44.5,19.02,3.99,14.91,2.0,Moderate,8.09,10861.87,original
+1200.0,31.17,Carbon Steel,ASTM A333 Grade 6,150.0,6.4,17.64,0.37,1.19,10.0,Normal,8.35,4068.81,original
+250.0,8.39,HDPE,API 5L X42,900.0,-18.0,19.43,4.67,55.66,14.0,Moderate,8.09,598.28,original
+1200.0,27.97,Stainless Steel,ASTM A106 Grade B,150.0,22.8,8.28,5.33,19.06,18.0,Critical,7.93,4068.81,original
+300.0,14.98,PVC,API 5L X65,150.0,-36.3,8.76,9.45,63.08,13.0,Critical,7.93,229.1,original
+1000.0,19.34,PVC,ASTM A106 Grade B,300.0,33.5,5.84,8.87,45.86,23.0,Critical,7.95,5612.87,original
+500.0,21.07,Stainless Steel,ASTM A333 Grade 6,900.0,121.1,19.73,6.19,29.38,9.0,Critical,7.84,2605.76,original
+400.0,17.35,Carbon Steel,ASTM A333 Grade 6,900.0,9.6,13.27,7.76,44.73,20.0,Critical,7.89,1633.13,original
+1500.0,32.52,Stainless Steel,API 5L X42,300.0,50.3,16.56,1.61,4.95,4.0,Normal,8.36,12801.37,original
+150.0,5.67,Stainless Steel,API 5L X52,300.0,21.1,14.81,2.16,38.1,2.0,Moderate,8.13,98.77,original
+50.0,5.84,PVC,ASTM A333 Grade 6,1500.0,63.9,19.37,4.08,69.86,18.0,Moderate,8.09,10.18,original
+250.0,7.48,Stainless Steel,ASTM A333 Grade 6,2500.0,22.4,16.24,1.07,14.3,8.0,Normal,8.36,598.28,original
+50.0,5.1,Carbon Steel,API 5L X42,1500.0,123.1,16.93,5.24,102.75,21.0,Critical,7.86,10.18,original
+600.0,26.1,Carbon Steel,ASTM A333 Grade 6,900.0,-34.0,7.16,7.0,26.82,3.0,Critical,7.94,3804.59,original
+800.0,17.68,Carbon Steel,API 5L X52,600.0,-8.1,11.35,9.76,55.2,15.0,Critical,7.91,6880.84,original
+150.0,8.14,HDPE,API 5L X42,600.0,80.5,0.6,3.07,37.71,20.0,Moderate,8.24,191.13,original
+300.0,8.61,Stainless Steel,ASTM A106 Grade B,600.0,89.5,6.63,0.01,0.12,21.0,Normal,8.44,886.68,original
+1200.0,29.77,Carbon Steel,API 5L X42,150.0,124.8,6.59,7.7,25.86,17.0,Critical,7.95,4068.81,original
+1500.0,33.67,Carbon Steel,API 5L X65,900.0,63.0,18.34,3.72,11.05,8.0,Moderate,8.1,24772.84,original
+1200.0,34.1,PVC,API 5L X65,150.0,75.2,13.57,0.53,1.55,10.0,Normal,8.39,4068.81,original
+250.0,14.04,Carbon Steel,ASTM A106 Grade B,900.0,14.2,18.33,5.0,35.61,5.0,Moderate,8.1,598.28,original
+500.0,11.64,PVC,ASTM A106 Grade B,300.0,25.0,10.3,7.78,66.84,24.0,Critical,7.91,1346.53,original
+150.0,7.88,Stainless Steel,API 5L X65,600.0,25.2,2.58,1.79,22.72,2.0,Normal,8.48,191.13,original
+600.0,15.66,Stainless Steel,ASTM A333 Grade 6,900.0,37.8,6.92,0.44,2.81,5.0,Normal,8.44,3804.59,original
+400.0,18.59,HDPE,API 5L X52,150.0,45.5,7.49,8.65,46.53,11.0,Critical,7.94,421.96,original
+300.0,13.55,HDPE,API 5L X42,1500.0,29.0,7.94,4.79,35.35,7.0,Moderate,8.18,886.68,original
+250.0,9.01,HDPE,API 5L X65,1500.0,8.1,14.67,7.8,86.57,16.0,Critical,7.88,598.28,original
+400.0,12.1,HDPE,API 5L X52,2500.0,51.2,3.4,4.52,37.36,16.0,Moderate,8.22,1633.13,original
+600.0,22.48,Fiberglass,ASTM A333 Grade 6,600.0,73.3,14.86,5.51,24.51,12.0,Critical,7.88,3804.59,original
+300.0,10.32,Carbon Steel,ASTM A106 Grade B,150.0,10.0,13.16,5.12,49.61,19.0,Critical,7.89,229.1,original
+500.0,14.46,PVC,ASTM A106 Grade B,600.0,-15.3,15.12,2.94,20.33,23.0,Moderate,8.12,2605.76,original
+1200.0,21.53,HDPE,API 5L X52,900.0,17.2,19.61,6.89,32.0,24.0,Critical,7.84,15747.67,original
+100.0,4.1,HDPE,ASTM A106 Grade B,900.0,-36.6,9.98,5.68,138.54,19.0,Critical,7.92,72.38,original
+1500.0,40.48,PVC,API 5L X65,1500.0,98.3,9.95,4.61,11.39,18.0,Moderate,8.17,24772.84,original
+150.0,6.56,Stainless Steel,ASTM A333 Grade 6,150.0,76.9,9.65,6.62,100.91,18.0,Critical,7.92,49.38,original
+1200.0,33.44,Fiberglass,API 5L X65,300.0,69.9,8.39,7.09,21.2,5.0,Critical,7.93,8137.61,original
+250.0,14.39,Stainless Steel,API 5L X52,1500.0,53.2,17.67,9.08,63.1,10.0,Critical,7.85,598.28,original
+800.0,19.01,Stainless Steel,ASTM A106 Grade B,150.0,67.6,16.13,7.98,41.98,5.0,Critical,7.87,1777.84,original
+400.0,15.24,Carbon Steel,API 5L X52,150.0,38.5,7.57,1.6,10.5,13.0,Normal,8.44,421.96,original
+50.0,3.27,Stainless Steel,API 5L X42,300.0,41.0,0.64,3.03,92.66,9.0,Moderate,8.24,5.26,original
+300.0,7.91,HDPE,API 5L X42,1500.0,20.7,10.81,2.29,28.95,12.0,Moderate,8.16,886.68,original
+400.0,19.86,Carbon Steel,ASTM A333 Grade 6,2500.0,43.1,2.27,2.18,10.98,1.0,Moderate,8.23,1633.13,original
+50.0,4.44,Carbon Steel,API 5L X65,900.0,79.4,6.13,6.24,140.54,24.0,Critical,7.95,10.18,original
+800.0,19.04,PVC,API 5L X65,150.0,111.0,0.01,5.01,26.31,6.0,Critical,8.0,1777.84,original
+250.0,9.98,HDPE,API 5L X52,900.0,53.2,3.57,3.4,34.07,11.0,Moderate,8.22,598.28,original
+100.0,4.34,Fiberglass,ASTM A333 Grade 6,1500.0,22.6,7.12,1.62,37.33,3.0,Normal,8.44,72.38,original
+150.0,9.38,Stainless Steel,API 5L X52,1500.0,29.5,10.11,2.41,25.69,1.0,Moderate,8.17,191.13,original
+400.0,15.39,Fiberglass,ASTM A333 Grade 6,150.0,119.6,16.37,8.0,51.98,14.0,Critical,7.86,421.96,original
+1500.0,37.59,Stainless Steel,API 5L X42,900.0,69.7,11.87,1.39,3.7,7.0,Normal,8.4,24772.84,original
+1500.0,30.85,Carbon Steel,ASTM A106 Grade B,900.0,18.5,12.39,8.37,27.13,24.0,Critical,7.9,24772.84,original
+1200.0,36.08,Carbon Steel,API 5L X52,1500.0,17.7,10.34,4.61,12.78,14.0,Moderate,8.16,15747.67,original
+1500.0,40.66,Stainless Steel,API 5L X42,1500.0,90.8,8.74,0.53,1.3,17.0,Normal,8.43,24772.84,original
+200.0,7.73,Stainless Steel,ASTM A333 Grade 6,150.0,51.4,17.0,0.49,6.34,4.0,Normal,8.36,94.68,original
+250.0,10.72,HDPE,ASTM A333 Grade 6,900.0,-8.5,5.3,5.51,51.4,13.0,Critical,7.96,598.28,original
+250.0,9.25,PVC,API 5L X65,150.0,28.1,9.2,4.56,49.3,18.0,Moderate,8.17,154.58,original
+50.0,5.61,Fiberglass,ASTM A333 Grade 6,2500.0,1.3,3.5,9.53,169.88,8.0,Critical,7.97,10.18,original
+150.0,9.71,HDPE,API 5L X65,900.0,11.6,3.38,2.72,28.01,24.0,Moderate,8.22,191.13,original
+100.0,6.21,PVC,API 5L X52,1500.0,50.5,19.94,4.78,76.97,4.0,Moderate,8.08,72.38,original
+1500.0,22.39,HDPE,API 5L X52,1500.0,57.9,12.28,2.8,12.51,20.0,Moderate,8.15,24772.84,original
+1500.0,45.28,Carbon Steel,API 5L X52,900.0,9.2,17.55,1.13,2.5,6.0,Normal,8.35,24772.84,original
+1000.0,22.05,Stainless Steel,API 5L X52,1500.0,29.4,0.25,7.56,34.29,4.0,Critical,8.0,10861.87,original
+250.0,11.53,Fiberglass,ASTM A106 Grade B,300.0,-9.0,9.6,1.84,15.96,22.0,Normal,8.42,309.16,original
+50.0,5.28,Carbon Steel,ASTM A106 Grade B,900.0,53.5,19.26,0.86,16.29,17.0,Normal,8.34,10.18,original
+1200.0,30.85,Stainless Steel,ASTM A333 Grade 6,2500.0,67.6,7.07,8.9,28.85,19.0,Critical,7.94,15747.67,original
+1200.0,38.85,PVC,ASTM A106 Grade B,900.0,77.4,11.5,0.03,0.08,18.0,Normal,8.4,15747.67,original
+1000.0,31.79,HDPE,ASTM A333 Grade 6,2500.0,19.9,7.87,8.45,26.58,12.0,Critical,7.93,10861.87,original
+100.0,5.28,HDPE,API 5L X52,1500.0,-0.5,0.88,2.37,44.89,18.0,Moderate,8.24,72.38,original
+50.0,3.72,Fiberglass,API 5L X42,1500.0,89.2,7.29,2.28,61.29,6.0,Moderate,8.19,10.18,original
+300.0,12.36,Stainless Steel,API 5L X65,1500.0,10.2,1.58,2.06,16.67,4.0,Moderate,8.24,886.68,original
+800.0,14.93,Stainless Steel,API 5L X42,150.0,76.7,1.74,7.64,51.17,5.0,Critical,7.99,1777.84,original
+250.0,13.81,Stainless Steel,ASTM A333 Grade 6,300.0,-2.9,5.82,3.7,26.79,1.0,Moderate,8.2,309.16,original
+150.0,9.06,Stainless Steel,API 5L X42,1500.0,36.5,3.74,3.59,39.62,6.0,Moderate,8.22,191.13,original
+800.0,30.08,Stainless Steel,API 5L X52,2500.0,78.4,0.68,3.95,13.13,7.0,Moderate,8.24,6880.84,original
+600.0,12.87,HDPE,API 5L X65,150.0,59.2,1.96,5.9,45.84,10.0,Critical,7.98,983.01,original
+50.0,5.11,HDPE,API 5L X42,300.0,2.0,16.71,1.89,36.99,22.0,Normal,8.36,5.26,original
+250.0,9.91,Carbon Steel,ASTM A106 Grade B,2500.0,42.7,10.05,0.38,3.83,25.0,Normal,8.42,598.28,original
+300.0,10.62,Fiberglass,API 5L X65,2500.0,30.6,4.55,7.18,67.61,7.0,Critical,7.96,886.68,original
+250.0,13.79,Fiberglass,API 5L X42,300.0,93.5,12.87,4.14,30.02,17.0,Moderate,8.14,309.16,original
+500.0,21.72,Stainless Steel,API 5L X65,600.0,51.8,3.16,8.67,39.92,13.0,Critical,7.97,2605.76,original
+200.0,7.2,PVC,API 5L X65,900.0,26.3,5.64,8.76,121.67,14.0,Critical,7.95,366.44,original
+100.0,6.92,Fiberglass,ASTM A333 Grade 6,150.0,48.5,19.88,2.12,30.64,21.0,Moderate,8.08,18.7,original
+800.0,26.21,Fiberglass,ASTM A333 Grade 6,600.0,117.5,3.85,0.07,0.27,10.0,Normal,8.47,6880.84,original
+800.0,22.69,Stainless Steel,ASTM A106 Grade B,900.0,55.8,10.82,2.11,9.3,19.0,Moderate,8.16,6880.84,original
+150.0,9.5,Carbon Steel,ASTM A106 Grade B,300.0,-14.4,15.66,2.94,30.95,11.0,Moderate,8.12,98.77,original
+150.0,7.12,Carbon Steel,API 5L X52,150.0,43.5,11.39,5.19,72.89,22.0,Critical,7.91,49.38,original
+250.0,8.53,Stainless Steel,ASTM A106 Grade B,300.0,51.8,18.04,8.17,95.78,6.0,Critical,7.85,309.16,original
+600.0,16.64,Stainless Steel,API 5L X42,2500.0,45.3,8.27,7.75,46.57,14.0,Critical,7.93,3804.59,original
+150.0,5.43,HDPE,API 5L X42,2500.0,93.0,14.89,7.94,146.22,11.0,Critical,7.88,191.13,original
+50.0,5.0,PVC,ASTM A106 Grade B,900.0,12.8,7.87,4.72,94.4,4.0,Moderate,8.18,10.18,original
+400.0,18.8,Fiberglass,API 5L X52,600.0,84.4,13.84,6.85,36.44,8.0,Critical,7.88,1633.13,original
+150.0,7.25,Carbon Steel,ASTM A333 Grade 6,600.0,11.0,1.34,0.78,10.76,12.0,Normal,8.49,191.13,original
+150.0,5.7,HDPE,API 5L X65,2500.0,37.3,19.64,3.25,57.02,9.0,Moderate,8.09,191.13,original
+1500.0,36.36,PVC,ASTM A333 Grade 6,300.0,53.7,15.07,3.33,9.16,4.0,Moderate,8.12,12801.37,original
+300.0,17.1,Fiberglass,API 5L X52,900.0,94.3,1.3,2.8,16.37,16.0,Moderate,8.24,886.68,original
+1200.0,35.94,Fiberglass,API 5L X42,2500.0,59.7,2.46,8.74,24.32,23.0,Critical,7.98,15747.67,original
+250.0,9.07,PVC,ASTM A333 Grade 6,300.0,4.6,10.86,7.99,88.09,9.0,Critical,7.91,309.16,original
+400.0,18.5,PVC,ASTM A333 Grade 6,1500.0,20.1,2.13,7.4,40.0,14.0,Critical,7.98,1633.13,original
+50.0,3.84,Stainless Steel,ASTM A106 Grade B,150.0,103.8,10.56,6.08,158.33,25.0,Critical,7.91,2.63,original
+600.0,28.54,Fiberglass,API 5L X52,300.0,-16.8,9.59,7.41,25.96,22.0,Critical,7.92,1966.02,original
+150.0,9.8,HDPE,ASTM A106 Grade B,900.0,15.0,19.89,2.78,28.37,24.0,Moderate,8.08,191.13,original
+400.0,10.84,Stainless Steel,API 5L X52,600.0,52.6,19.76,0.73,6.73,11.0,Normal,8.34,1633.13,original
+300.0,7.26,Fiberglass,API 5L X52,900.0,-42.6,4.77,2.94,40.5,14.0,Moderate,8.21,886.68,original
+1000.0,33.91,Stainless Steel,ASTM A333 Grade 6,600.0,22.2,17.02,0.54,1.59,13.0,Normal,8.36,10861.87,original
+200.0,11.46,Stainless Steel,ASTM A333 Grade 6,900.0,65.9,7.26,6.64,57.94,24.0,Critical,7.94,366.44,original
+1200.0,37.41,Carbon Steel,API 5L X65,2500.0,37.3,1.59,1.39,3.72,15.0,Normal,8.49,15747.67,original
+800.0,19.49,Fiberglass,API 5L X52,600.0,12.4,18.09,6.92,35.51,13.0,Critical,7.85,6880.84,original
+200.0,8.69,Carbon Steel,API 5L X65,2500.0,45.2,1.94,0.46,5.29,23.0,Normal,8.48,366.44,original
+1000.0,26.68,Stainless Steel,ASTM A333 Grade 6,900.0,28.9,10.81,7.59,28.45,16.0,Critical,7.91,10861.87,original
+1200.0,39.24,Carbon Steel,API 5L X42,900.0,64.9,14.05,0.71,1.81,7.0,Normal,8.38,15747.67,original
+1200.0,22.11,PVC,ASTM A106 Grade B,150.0,130.3,2.48,7.65,34.6,12.0,Critical,7.98,4068.81,original
+300.0,8.06,Fiberglass,API 5L X42,600.0,25.1,6.17,3.02,37.47,7.0,Moderate,8.2,886.68,original
+150.0,6.44,Carbon Steel,ASTM A333 Grade 6,600.0,54.6,3.36,9.07,140.84,25.0,Critical,7.97,191.13,original
+400.0,16.46,PVC,API 5L X42,600.0,83.5,8.72,0.47,2.86,23.0,Normal,8.43,1633.13,original
+1500.0,31.01,Carbon Steel,ASTM A106 Grade B,2500.0,23.6,7.25,1.59,5.13,23.0,Normal,8.44,24772.84,original
+1200.0,19.22,Carbon Steel,API 5L X52,2500.0,77.7,14.18,6.42,33.4,7.0,Critical,7.88,15747.67,original
+1000.0,24.04,Carbon Steel,ASTM A106 Grade B,300.0,109.6,11.57,0.55,2.29,5.0,Normal,8.4,5612.87,original
+600.0,24.78,HDPE,API 5L X42,600.0,41.9,14.82,8.49,34.26,18.0,Critical,7.88,3804.59,original
+1000.0,17.8,PVC,API 5L X42,150.0,68.3,3.97,8.42,47.3,19.0,Critical,7.97,2806.44,original
+400.0,14.63,HDPE,API 5L X42,900.0,71.7,5.17,3.74,25.56,13.0,Moderate,8.21,1633.13,original
+1000.0,23.09,HDPE,API 5L X65,150.0,97.5,5.43,7.98,34.56,14.0,Critical,7.95,2806.44,original
+250.0,14.41,HDPE,ASTM A333 Grade 6,1500.0,8.9,4.82,0.87,6.04,19.0,Normal,8.46,598.28,original
+250.0,10.15,PVC,ASTM A333 Grade 6,2500.0,65.7,14.34,9.59,94.48,2.0,Critical,7.88,598.28,original
+1000.0,26.3,HDPE,API 5L X42,2500.0,34.4,19.5,6.68,25.4,10.0,Critical,7.84,10861.87,original
+1500.0,27.26,Carbon Steel,ASTM A333 Grade 6,900.0,39.7,2.36,7.04,25.83,9.0,Critical,7.98,24772.84,original
+250.0,11.54,PVC,API 5L X52,600.0,33.1,18.2,5.96,51.65,25.0,Critical,7.85,598.28,original
+250.0,11.08,Carbon Steel,ASTM A333 Grade 6,900.0,75.3,5.85,4.92,44.4,21.0,Moderate,8.2,598.28,original
+300.0,7.51,PVC,API 5L X52,300.0,118.2,10.35,1.69,22.5,11.0,Normal,8.41,458.19,original
+800.0,17.38,Fiberglass,API 5L X42,1500.0,7.3,17.51,0.27,1.55,10.0,Normal,8.35,6880.84,original
+50.0,4.61,Fiberglass,API 5L X42,150.0,62.2,0.31,0.81,17.57,13.0,Normal,8.5,2.63,original
+250.0,13.91,Stainless Steel,API 5L X65,150.0,50.4,5.1,6.97,50.11,20.0,Critical,7.96,154.58,original
+200.0,6.18,Fiberglass,API 5L X52,1500.0,95.2,0.18,2.95,47.73,24.0,Moderate,8.25,366.44,original
+400.0,17.89,Carbon Steel,API 5L X65,600.0,50.6,3.04,4.51,25.21,18.0,Moderate,8.22,1633.13,original
+1200.0,29.45,HDPE,API 5L X65,300.0,52.3,10.23,8.92,30.29,25.0,Critical,7.91,8137.61,original
+600.0,19.72,PVC,ASTM A106 Grade B,1500.0,-16.8,10.41,2.66,13.49,3.0,Moderate,8.16,3804.59,original
+300.0,15.03,Stainless Steel,ASTM A333 Grade 6,600.0,54.8,14.85,7.96,52.96,5.0,Critical,7.88,886.68,original
+500.0,18.76,Fiberglass,API 5L X42,2500.0,45.7,13.43,0.11,0.59,12.0,Normal,8.39,2605.76,original
+600.0,18.65,Stainless Steel,API 5L X52,900.0,31.6,4.92,4.15,22.25,12.0,Moderate,8.21,3804.59,original
+200.0,6.48,HDPE,ASTM A333 Grade 6,300.0,15.5,2.0,9.55,147.38,13.0,Critical,7.98,189.36,original
+500.0,19.58,Carbon Steel,API 5L X65,900.0,89.8,6.51,4.78,24.41,7.0,Moderate,8.2,2605.76,original
+50.0,3.59,Fiberglass,ASTM A333 Grade 6,300.0,63.5,4.65,8.62,240.11,2.0,Critical,7.96,5.26,original
+800.0,25.7,Carbon Steel,ASTM A333 Grade 6,2500.0,77.7,13.12,8.1,31.52,18.0,Critical,7.89,6880.84,original
+400.0,19.8,Fiberglass,API 5L X52,1500.0,59.6,6.84,2.5,12.63,8.0,Moderate,8.19,1633.13,original
+300.0,7.67,Fiberglass,API 5L X42,600.0,24.5,3.81,3.54,46.15,18.0,Moderate,8.22,886.68,original
+800.0,30.43,PVC,API 5L X42,300.0,-23.5,17.35,7.69,25.27,2.0,Critical,7.86,3555.68,original
+600.0,16.38,Stainless Steel,ASTM A333 Grade 6,600.0,37.7,0.97,9.55,58.3,8.0,Critical,7.99,3804.59,original
+300.0,16.23,PVC,ASTM A106 Grade B,1500.0,36.0,5.92,7.49,46.15,7.0,Critical,7.95,886.68,original
+1000.0,34.89,Stainless Steel,API 5L X42,600.0,84.6,19.06,9.66,27.69,13.0,Critical,7.84,10861.87,original
+100.0,7.7,Fiberglass,API 5L X52,900.0,28.8,13.74,4.68,60.78,20.0,Moderate,8.14,72.38,original
+1500.0,37.94,Stainless Steel,ASTM A106 Grade B,150.0,60.3,13.98,6.6,17.4,15.0,Critical,7.88,6400.68,original
+300.0,12.84,Stainless Steel,API 5L X65,300.0,81.8,16.55,2.9,22.59,22.0,Moderate,8.11,458.19,original
+1200.0,36.51,PVC,API 5L X65,600.0,64.3,2.61,6.0,16.43,25.0,Critical,7.98,15747.67,original
+150.0,8.25,Carbon Steel,API 5L X52,600.0,34.8,11.25,8.85,107.27,22.0,Critical,7.91,191.13,original
+1000.0,17.06,Stainless Steel,API 5L X65,300.0,-32.5,8.8,2.63,15.42,2.0,Moderate,8.18,5612.87,original
+1000.0,32.09,HDPE,API 5L X65,1500.0,25.5,13.34,4.12,12.84,20.0,Moderate,8.14,10861.87,original
+100.0,5.1,Fiberglass,API 5L X65,600.0,115.8,3.39,1.03,20.2,11.0,Normal,8.47,72.38,original
+500.0,11.45,Stainless Steel,API 5L X65,300.0,29.5,0.29,7.15,62.45,2.0,Critical,8.0,1346.53,original
+100.0,5.64,Fiberglass,ASTM A106 Grade B,900.0,20.9,6.42,4.88,86.52,2.0,Moderate,8.2,72.38,original
+1500.0,41.19,Carbon Steel,ASTM A333 Grade 6,600.0,81.0,4.6,9.33,22.65,22.0,Critical,7.96,24772.84,original
+250.0,6.62,Stainless Steel,ASTM A106 Grade B,1500.0,36.9,18.18,0.01,0.15,16.0,Normal,8.35,598.28,original
+300.0,14.69,PVC,ASTM A333 Grade 6,300.0,38.8,6.6,5.59,38.05,18.0,Critical,7.95,458.19,original
+200.0,7.08,Stainless Steel,API 5L X65,600.0,-7.9,10.46,4.73,66.81,20.0,Moderate,8.16,366.44,original
+50.0,3.2,PVC,ASTM A333 Grade 6,900.0,75.5,19.11,7.07,220.94,4.0,Critical,7.84,10.18,original
+250.0,11.01,Fiberglass,ASTM A106 Grade B,300.0,4.1,19.65,2.08,18.89,3.0,Moderate,8.09,309.16,original
+250.0,7.62,PVC,ASTM A333 Grade 6,900.0,51.7,13.11,5.51,72.31,11.0,Critical,7.89,598.28,original
+50.0,3.33,PVC,API 5L X52,150.0,32.5,1.52,5.86,175.98,18.0,Critical,7.99,2.63,original
+400.0,10.62,Fiberglass,API 5L X42,150.0,52.7,15.45,5.39,50.75,21.0,Critical,7.87,421.96,original
+400.0,13.53,HDPE,ASTM A333 Grade 6,150.0,44.8,8.37,0.52,3.84,10.0,Normal,8.43,421.96,original
+800.0,12.09,HDPE,API 5L X52,1500.0,10.5,0.11,3.74,30.93,24.0,Moderate,8.25,6880.84,original
+1500.0,43.41,Carbon Steel,API 5L X52,300.0,42.0,2.09,1.95,4.49,12.0,Normal,8.48,12801.37,original
+50.0,5.21,Fiberglass,API 5L X52,2500.0,17.4,3.97,7.35,141.07,2.0,Critical,7.97,10.18,original
+500.0,18.46,HDPE,API 5L X42,2500.0,21.0,12.59,9.89,53.58,20.0,Critical,7.9,2605.76,original
+50.0,4.03,HDPE,ASTM A106 Grade B,150.0,32.7,19.88,0.2,4.96,6.0,Normal,8.33,2.63,original
+200.0,6.58,Stainless Steel,API 5L X65,300.0,78.8,7.47,1.97,29.94,19.0,Normal,8.44,189.36,original
+800.0,15.93,HDPE,API 5L X65,1500.0,31.0,16.53,0.34,2.13,20.0,Normal,8.36,6880.84,original
+600.0,10.33,PVC,ASTM A333 Grade 6,300.0,95.8,3.46,7.68,74.35,4.0,Critical,7.97,1966.02,original
+400.0,18.23,Stainless Steel,ASTM A333 Grade 6,1500.0,49.1,1.07,1.63,8.94,4.0,Normal,8.49,1633.13,original
+800.0,17.28,PVC,API 5L X52,300.0,45.5,4.39,0.91,5.27,3.0,Normal,8.46,3555.68,original
+150.0,6.29,Fiberglass,API 5L X42,1500.0,-2.9,10.56,0.23,3.66,23.0,Normal,8.41,191.13,original
+300.0,17.17,Fiberglass,ASTM A106 Grade B,2500.0,46.2,8.38,4.7,27.37,11.0,Moderate,8.18,886.68,original
+400.0,11.98,Carbon Steel,ASTM A333 Grade 6,300.0,-44.1,16.96,1.54,12.85,8.0,Normal,8.36,843.92,original
+250.0,8.74,Carbon Steel,ASTM A333 Grade 6,2500.0,22.6,3.9,4.41,50.46,19.0,Moderate,8.22,598.28,original
+200.0,10.26,Stainless Steel,ASTM A333 Grade 6,600.0,24.1,11.01,0.12,1.17,24.0,Normal,8.41,366.44,original
+500.0,23.22,PVC,ASTM A333 Grade 6,900.0,46.8,13.79,3.08,13.26,18.0,Moderate,8.14,2605.76,original
+500.0,13.5,PVC,API 5L X42,300.0,-10.1,9.9,5.45,40.37,25.0,Critical,7.92,1346.53,original
+250.0,8.83,Fiberglass,ASTM A333 Grade 6,2500.0,80.1,4.16,2.22,25.14,20.0,Moderate,8.22,598.28,original
+100.0,6.22,Fiberglass,API 5L X42,1500.0,48.5,6.68,4.13,66.4,21.0,Moderate,8.19,72.38,original
+50.0,4.59,Stainless Steel,API 5L X65,600.0,53.0,19.59,9.62,209.59,1.0,Critical,7.84,10.18,original
+250.0,13.97,Fiberglass,ASTM A333 Grade 6,2500.0,91.2,6.08,2.31,16.54,15.0,Moderate,8.2,598.28,original
+250.0,7.81,Stainless Steel,ASTM A106 Grade B,2500.0,0.2,4.22,8.43,107.94,20.0,Critical,7.96,598.28,original
+500.0,17.25,Fiberglass,API 5L X52,900.0,115.9,3.95,3.41,19.77,3.0,Moderate,8.22,2605.76,original
+1500.0,38.44,HDPE,API 5L X52,2500.0,84.5,19.2,7.43,19.33,15.0,Critical,7.84,24772.84,original
+1000.0,19.27,Carbon Steel,API 5L X65,1500.0,14.9,1.18,5.13,26.62,11.0,Critical,7.99,10861.87,original
+600.0,27.65,Carbon Steel,API 5L X52,1500.0,59.7,15.54,7.65,27.67,14.0,Critical,7.87,3804.59,original
+250.0,10.91,Fiberglass,ASTM A333 Grade 6,600.0,101.0,16.72,3.49,31.99,21.0,Moderate,8.11,598.28,original
+250.0,8.36,Carbon Steel,API 5L X52,2500.0,13.4,0.78,2.6,31.1,14.0,Moderate,8.24,598.28,original
+1200.0,39.82,PVC,API 5L X42,150.0,85.1,3.94,8.5,21.35,8.0,Critical,7.97,4068.81,original
+1200.0,29.76,HDPE,ASTM A333 Grade 6,1500.0,26.7,2.75,9.71,32.63,14.0,Critical,7.98,15747.67,original
+250.0,14.25,Fiberglass,ASTM A106 Grade B,600.0,78.3,8.49,4.82,33.82,11.0,Moderate,8.18,598.28,original
+100.0,7.2,PVC,API 5L X52,300.0,56.0,4.52,2.54,35.28,11.0,Moderate,8.21,37.4,original
+200.0,6.0,Carbon Steel,ASTM A333 Grade 6,2500.0,54.9,6.59,2.97,49.5,3.0,Moderate,8.2,366.44,original
+150.0,7.85,Stainless Steel,API 5L X65,1500.0,80.3,13.23,4.91,62.55,13.0,Moderate,8.14,191.13,original
+200.0,6.59,Stainless Steel,API 5L X42,900.0,21.4,12.65,1.39,21.09,17.0,Normal,8.39,366.44,original
+1500.0,23.28,PVC,API 5L X65,300.0,55.9,7.31,3.44,14.78,24.0,Moderate,8.19,12801.37,original
+200.0,8.95,Fiberglass,ASTM A106 Grade B,2500.0,-14.8,7.22,4.9,54.75,20.0,Moderate,8.19,366.44,original
+500.0,23.11,Carbon Steel,API 5L X65,900.0,-25.8,0.55,7.04,30.46,19.0,Critical,8.0,2605.76,original
+250.0,7.67,Carbon Steel,ASTM A333 Grade 6,300.0,17.0,13.07,4.56,59.45,14.0,Moderate,8.14,309.16,original
+100.0,5.11,PVC,API 5L X42,300.0,29.8,9.35,8.54,167.12,12.0,Critical,7.92,37.4,original
+150.0,5.98,Carbon Steel,ASTM A333 Grade 6,150.0,30.0,16.0,8.47,141.64,2.0,Critical,7.87,49.38,original
+500.0,11.8,Stainless Steel,API 5L X42,1500.0,9.0,4.58,7.75,65.68,7.0,Critical,7.96,2605.76,original
+100.0,7.56,PVC,ASTM A106 Grade B,150.0,38.4,9.05,2.22,29.37,25.0,Moderate,8.17,18.7,original
+250.0,12.07,HDPE,API 5L X52,600.0,5.4,2.33,9.2,76.22,17.0,Critical,7.98,598.28,original
+400.0,15.86,Carbon Steel,ASTM A333 Grade 6,150.0,24.0,1.32,1.06,6.68,1.0,Normal,8.49,421.96,original
+150.0,5.86,PVC,ASTM A333 Grade 6,900.0,-9.0,1.97,4.22,72.01,7.0,Moderate,8.23,191.13,original
+250.0,10.98,Carbon Steel,API 5L X52,300.0,-13.0,8.3,5.05,45.99,23.0,Critical,7.93,309.16,original
+1000.0,20.36,Stainless Steel,API 5L X42,600.0,73.4,9.77,5.07,24.9,20.0,Critical,7.92,10861.87,original
+300.0,9.5,Carbon Steel,API 5L X42,1500.0,63.9,1.68,1.77,18.63,20.0,Normal,8.49,886.68,original
+250.0,11.93,Stainless Steel,ASTM A333 Grade 6,900.0,-1.5,13.99,9.05,75.86,1.0,Critical,7.88,598.28,original
+100.0,6.48,Carbon Steel,ASTM A106 Grade B,1500.0,25.2,19.86,0.84,12.96,3.0,Normal,8.33,72.38,original
+1500.0,32.42,Carbon Steel,ASTM A333 Grade 6,2500.0,52.5,14.33,0.35,1.08,9.0,Normal,8.38,24772.84,original
+50.0,5.91,Stainless Steel,ASTM A333 Grade 6,1500.0,69.5,12.51,2.88,48.73,3.0,Moderate,8.15,10.18,original
+1200.0,38.4,Carbon Steel,ASTM A106 Grade B,150.0,55.4,4.88,5.01,13.05,4.0,Critical,7.96,4068.81,original
+400.0,17.67,Stainless Steel,API 5L X65,1500.0,93.7,2.43,4.28,24.22,16.0,Moderate,8.23,1633.13,original
+1500.0,32.43,Carbon Steel,API 5L X42,1500.0,74.1,10.62,5.41,16.68,10.0,Critical,7.91,24772.84,original
+50.0,5.77,HDPE,ASTM A106 Grade B,600.0,145.9,15.87,3.71,64.3,17.0,Moderate,8.12,10.18,original
+500.0,24.6,Fiberglass,ASTM A333 Grade 6,2500.0,112.2,3.86,4.95,20.12,20.0,Moderate,8.22,2605.76,original
+1000.0,17.02,Stainless Steel,API 5L X42,2500.0,59.2,12.76,4.63,27.2,12.0,Moderate,8.14,10861.87,original
+500.0,20.74,Fiberglass,API 5L X52,900.0,76.6,8.08,6.73,32.45,21.0,Critical,7.93,2605.76,original
+50.0,4.64,HDPE,ASTM A106 Grade B,300.0,43.9,10.26,6.19,133.41,12.0,Critical,7.91,5.26,original
+100.0,7.34,Stainless Steel,API 5L X52,150.0,43.4,0.36,5.22,71.12,6.0,Critical,8.0,18.7,original
+200.0,7.11,Stainless Steel,API 5L X42,900.0,82.3,19.23,9.02,126.86,8.0,Critical,7.84,366.44,original
+150.0,8.14,HDPE,API 5L X52,900.0,49.4,13.53,1.68,20.64,18.0,Normal,8.39,191.13,original
+500.0,20.14,Fiberglass,ASTM A333 Grade 6,2500.0,-41.4,14.99,7.22,35.85,4.0,Critical,7.88,2605.76,original
+250.0,7.07,HDPE,API 5L X42,1500.0,83.0,0.67,4.25,60.11,11.0,Moderate,8.24,598.28,original
+1500.0,39.12,Fiberglass,API 5L X52,2500.0,40.7,2.54,7.87,20.12,5.0,Critical,7.98,24772.84,original
+250.0,9.86,HDPE,API 5L X65,600.0,68.4,7.98,6.94,70.39,17.0,Critical,7.93,598.28,original
+1500.0,29.64,Fiberglass,API 5L X42,600.0,9.4,1.29,8.14,27.46,8.0,Critical,7.99,24772.84,original
+1000.0,20.64,Fiberglass,API 5L X65,150.0,11.9,15.55,9.03,43.75,24.0,Critical,7.87,2806.44,original
+500.0,10.34,Stainless Steel,API 5L X52,300.0,84.0,6.19,9.71,93.91,20.0,Critical,7.95,1346.53,original
+1500.0,44.48,Fiberglass,API 5L X52,1500.0,-29.6,13.89,0.34,0.76,16.0,Normal,8.38,24772.84,original
+300.0,16.19,Stainless Steel,API 5L X42,300.0,7.5,5.6,3.21,19.83,22.0,Moderate,8.2,458.19,original
+400.0,10.36,Fiberglass,API 5L X52,300.0,47.7,12.23,8.44,81.47,1.0,Critical,7.9,843.92,original
+200.0,11.25,Carbon Steel,API 5L X65,150.0,49.9,14.66,0.79,7.02,21.0,Normal,8.38,94.68,original
+1500.0,48.21,HDPE,API 5L X65,300.0,-7.8,11.53,4.54,9.42,2.0,Moderate,8.15,12801.37,original
+500.0,24.71,Fiberglass,ASTM A106 Grade B,1500.0,117.0,15.95,3.69,14.93,13.0,Moderate,8.12,2605.76,original
+800.0,24.54,HDPE,API 5L X65,600.0,50.1,17.02,6.98,28.44,17.0,Critical,7.86,6880.84,original
+250.0,8.64,Carbon Steel,API 5L X52,1500.0,21.6,2.68,3.21,37.15,20.0,Moderate,8.23,598.28,original
+800.0,28.92,Stainless Steel,API 5L X65,900.0,42.4,10.21,8.9,30.77,21.0,Critical,7.91,6880.84,original
+300.0,7.69,HDPE,API 5L X52,300.0,54.7,18.17,6.39,83.09,16.0,Critical,7.85,458.19,original
+300.0,12.66,Fiberglass,ASTM A106 Grade B,1500.0,135.4,2.77,5.85,46.21,25.0,Critical,7.98,886.68,original
+150.0,7.37,HDPE,API 5L X65,300.0,24.0,17.39,5.32,72.18,16.0,Critical,7.86,98.77,original
+800.0,29.97,Carbon Steel,API 5L X65,150.0,29.2,0.68,8.88,29.63,6.0,Critical,7.99,1777.84,original
+250.0,6.91,Carbon Steel,API 5L X65,600.0,117.5,9.05,9.44,136.61,4.0,Critical,7.92,598.28,original
+1200.0,23.28,PVC,ASTM A333 Grade 6,900.0,-3.5,5.46,2.8,12.03,2.0,Moderate,8.2,15747.67,original
+150.0,5.13,Stainless Steel,API 5L X52,300.0,70.6,4.04,4.43,86.35,16.0,Moderate,8.22,98.77,original
+800.0,28.48,Carbon Steel,API 5L X52,2500.0,73.0,5.76,1.51,5.3,19.0,Normal,8.45,6880.84,original
+100.0,6.36,Carbon Steel,API 5L X52,600.0,144.7,19.8,7.5,117.92,9.0,Critical,7.84,72.38,original
+50.0,3.16,Carbon Steel,API 5L X65,600.0,40.4,12.22,5.14,162.66,1.0,Critical,7.9,10.18,original
+1000.0,24.52,HDPE,API 5L X52,300.0,42.2,19.14,5.62,22.92,13.0,Critical,7.84,5612.87,original
+500.0,11.99,PVC,API 5L X52,900.0,24.5,8.12,3.88,32.36,16.0,Moderate,8.18,2605.76,original
+100.0,5.28,Fiberglass,ASTM A333 Grade 6,1500.0,-15.4,7.52,0.93,17.61,5.0,Normal,8.44,72.38,original
+300.0,10.97,PVC,API 5L X42,150.0,-42.6,11.52,4.7,42.84,16.0,Moderate,8.15,229.1,original
+1200.0,24.25,Carbon Steel,API 5L X42,300.0,59.6,2.35,5.71,23.55,19.0,Critical,7.98,8137.61,original
+150.0,5.58,PVC,API 5L X52,900.0,33.2,13.73,2.75,49.28,14.0,Moderate,8.14,191.13,original
+1500.0,49.53,PVC,API 5L X65,150.0,11.1,15.18,0.31,0.63,7.0,Normal,8.37,6400.68,original
+500.0,24.55,Fiberglass,ASTM A106 Grade B,900.0,-4.0,18.89,7.2,29.33,17.0,Critical,7.84,2605.76,original
+300.0,16.9,Fiberglass,API 5L X42,2500.0,102.6,5.02,8.27,48.93,3.0,Critical,7.96,886.68,original
+1200.0,39.48,Stainless Steel,ASTM A333 Grade 6,300.0,-48.4,18.95,7.62,19.3,15.0,Critical,7.84,8137.61,original
+400.0,13.2,PVC,API 5L X42,2500.0,-18.2,17.05,7.78,58.94,2.0,Critical,7.86,1633.13,original
+800.0,23.08,Fiberglass,API 5L X65,900.0,52.5,10.44,4.15,17.98,23.0,Moderate,8.16,6880.84,original
+100.0,7.57,Carbon Steel,ASTM A333 Grade 6,2500.0,18.0,4.41,7.7,101.72,18.0,Critical,7.96,72.38,original
+250.0,11.58,PVC,API 5L X65,600.0,32.0,1.09,1.9,16.41,7.0,Normal,8.49,598.28,original
+50.0,4.12,Carbon Steel,ASTM A106 Grade B,600.0,-15.7,18.51,2.24,54.37,1.0,Moderate,8.1,10.18,original
+50.0,3.71,HDPE,API 5L X52,300.0,-1.3,1.09,6.23,167.92,1.0,Critical,7.99,5.26,original
+200.0,11.79,PVC,ASTM A333 Grade 6,900.0,-24.3,19.29,6.49,55.05,3.0,Critical,7.84,366.44,original
+250.0,7.79,Carbon Steel,API 5L X65,1500.0,29.1,12.27,9.55,122.59,7.0,Critical,7.9,598.28,original
+1200.0,33.47,HDPE,ASTM A333 Grade 6,600.0,32.2,1.96,4.88,14.58,2.0,Moderate,8.23,15747.67,original
+150.0,5.79,Fiberglass,API 5L X52,150.0,-1.8,12.67,2.89,49.91,16.0,Moderate,8.14,49.38,original
+200.0,7.88,PVC,ASTM A333 Grade 6,150.0,-44.1,4.1,0.69,8.76,17.0,Normal,8.47,94.68,original
+500.0,23.77,Fiberglass,API 5L X65,1500.0,27.2,16.06,3.02,12.71,20.0,Moderate,8.12,2605.76,original
+50.0,4.47,Fiberglass,ASTM A333 Grade 6,1500.0,-48.4,12.34,0.96,21.48,20.0,Normal,8.4,10.18,original
+1000.0,22.01,Carbon Steel,ASTM A333 Grade 6,900.0,9.0,1.63,1.29,5.86,14.0,Normal,8.49,10861.87,original
+1000.0,31.87,PVC,ASTM A106 Grade B,1500.0,68.6,11.36,7.71,24.19,20.0,Critical,7.91,10861.87,original
+1200.0,22.36,PVC,API 5L X52,600.0,-1.7,14.85,0.6,2.68,22.0,Normal,8.38,15747.67,original
+1500.0,27.94,Stainless Steel,ASTM A333 Grade 6,2500.0,12.6,8.04,5.84,20.9,8.0,Critical,7.93,24772.84,original
+500.0,12.94,Carbon Steel,API 5L X42,900.0,92.1,14.83,4.63,35.78,6.0,Moderate,8.13,2605.76,original
+1200.0,26.41,Fiberglass,ASTM A106 Grade B,2500.0,-45.4,4.07,4.3,16.28,16.0,Moderate,8.22,15747.67,original
+1200.0,29.7,PVC,API 5L X65,2500.0,88.7,4.04,8.81,29.66,20.0,Critical,7.97,15747.67,original
+50.0,4.74,HDPE,ASTM A333 Grade 6,2500.0,76.4,8.88,9.94,209.7,23.0,Critical,7.93,10.18,original
+200.0,10.82,HDPE,API 5L X65,300.0,47.0,10.63,0.19,1.76,3.0,Normal,8.41,189.36,original
+600.0,27.32,HDPE,API 5L X52,600.0,51.3,12.75,0.2,0.73,8.0,Normal,8.39,3804.59,original
+500.0,18.36,Carbon Steel,API 5L X42,150.0,44.2,2.63,1.32,7.19,20.0,Normal,8.48,673.26,original
+250.0,11.54,HDPE,ASTM A106 Grade B,1500.0,110.5,2.58,5.89,51.04,1.0,Critical,7.98,598.28,original
+150.0,8.32,HDPE,ASTM A333 Grade 6,900.0,73.5,15.64,3.38,40.62,10.0,Moderate,8.12,191.13,original
+100.0,6.31,PVC,ASTM A333 Grade 6,2500.0,29.2,3.95,0.65,10.3,10.0,Normal,8.47,72.38,original
+300.0,8.56,Fiberglass,API 5L X52,150.0,114.4,6.52,4.85,56.66,13.0,Moderate,8.2,229.1,original
+50.0,4.45,PVC,API 5L X42,1500.0,55.6,3.31,1.91,42.92,5.0,Normal,8.47,10.18,original
+100.0,6.43,Stainless Steel,API 5L X52,2500.0,38.5,4.9,4.86,75.58,13.0,Moderate,8.21,72.38,original
+100.0,4.31,Stainless Steel,API 5L X42,150.0,41.2,9.5,3.69,85.61,18.0,Moderate,8.17,18.7,original
+300.0,7.25,HDPE,API 5L X65,150.0,37.1,2.62,7.58,104.55,18.0,Critical,7.98,229.1,original
+200.0,9.94,Carbon Steel,ASTM A333 Grade 6,900.0,45.4,3.75,1.49,14.99,4.0,Normal,8.47,366.44,original
+150.0,7.81,HDPE,ASTM A106 Grade B,300.0,67.2,4.15,1.66,21.25,9.0,Normal,8.47,98.77,original
+1000.0,15.99,Carbon Steel,ASTM A106 Grade B,900.0,78.1,9.93,8.75,54.72,24.0,Critical,7.92,10861.87,original
+1200.0,22.08,PVC,API 5L X52,1500.0,6.1,3.22,7.37,33.38,17.0,Critical,7.97,15747.67,original
+1200.0,34.78,Carbon Steel,API 5L X65,1500.0,29.1,5.05,6.33,18.2,5.0,Critical,7.96,15747.67,original
+600.0,16.99,Fiberglass,API 5L X52,300.0,15.1,8.26,8.26,48.62,8.0,Critical,7.93,1966.02,original
+250.0,7.3,HDPE,API 5L X42,2500.0,50.5,9.36,1.83,25.07,23.0,Normal,8.42,598.28,original
+300.0,15.46,HDPE,ASTM A106 Grade B,150.0,-11.8,12.57,7.01,45.34,15.0,Critical,7.9,229.1,original
+1200.0,33.99,Carbon Steel,API 5L X65,1500.0,113.4,17.06,5.68,16.71,5.0,Critical,7.86,15747.67,original
+300.0,7.84,Stainless Steel,ASTM A106 Grade B,900.0,65.6,0.66,4.21,53.7,14.0,Moderate,8.24,886.68,original
+1500.0,47.97,PVC,ASTM A106 Grade B,2500.0,-17.8,2.89,4.41,9.19,15.0,Moderate,8.23,24772.84,original
+500.0,20.29,Stainless Steel,API 5L X65,300.0,5.0,15.01,9.06,44.65,23.0,Critical,7.87,1346.53,original
+1000.0,23.59,Carbon Steel,API 5L X42,900.0,23.0,5.08,3.46,14.67,23.0,Moderate,8.21,10861.87,original
+400.0,11.3,Carbon Steel,API 5L X42,300.0,41.5,11.66,2.21,19.56,23.0,Moderate,8.15,843.92,original
+250.0,14.97,Carbon Steel,ASTM A106 Grade B,150.0,-17.1,10.0,4.73,31.6,21.0,Moderate,8.17,154.58,original
+200.0,8.26,Stainless Steel,ASTM A106 Grade B,300.0,38.2,14.73,7.27,88.01,6.0,Critical,7.88,189.36,original
+50.0,3.43,HDPE,ASTM A333 Grade 6,1500.0,6.9,8.99,0.14,4.08,22.0,Normal,8.43,10.18,original
+50.0,5.01,Stainless Steel,ASTM A106 Grade B,1500.0,19.0,19.39,2.58,51.5,15.0,Moderate,8.09,10.18,original
+1000.0,26.39,Carbon Steel,ASTM A333 Grade 6,2500.0,17.3,14.12,0.19,0.72,25.0,Normal,8.38,10861.87,original
+150.0,7.36,Fiberglass,ASTM A106 Grade B,2500.0,93.3,19.9,2.14,29.08,15.0,Moderate,8.08,191.13,original
+150.0,8.92,Carbon Steel,API 5L X65,1500.0,45.3,17.74,1.08,12.11,2.0,Normal,8.35,191.13,original
+100.0,5.16,Carbon Steel,API 5L X65,600.0,77.7,16.22,8.21,159.11,14.0,Critical,7.86,72.38,original
+100.0,4.1,PVC,API 5L X52,900.0,52.0,12.02,8.56,208.78,21.0,Critical,7.9,72.38,original
+300.0,15.08,PVC,API 5L X65,1500.0,26.8,11.1,6.99,46.35,8.0,Critical,7.91,886.68,original
+300.0,12.3,Fiberglass,API 5L X42,900.0,-1.9,0.49,8.94,72.68,3.0,Critical,8.0,886.68,original
+1500.0,25.42,Stainless Steel,API 5L X52,1500.0,12.3,4.53,0.27,1.06,4.0,Normal,8.46,24772.84,original
+1500.0,38.49,Carbon Steel,API 5L X52,1500.0,47.9,9.79,5.75,14.94,13.0,Critical,7.92,24772.84,original
+250.0,14.81,HDPE,ASTM A333 Grade 6,2500.0,70.8,7.22,9.39,63.4,19.0,Critical,7.94,598.28,original
+100.0,4.26,Stainless Steel,API 5L X42,900.0,17.4,12.07,0.69,16.2,24.0,Normal,8.4,72.38,original
+150.0,6.8,Stainless Steel,API 5L X52,900.0,-0.7,17.58,3.43,50.44,7.0,Moderate,8.1,191.13,original
+600.0,15.01,HDPE,API 5L X42,300.0,105.3,0.89,7.62,50.77,2.0,Critical,7.99,1966.02,original
+500.0,16.93,Fiberglass,API 5L X42,1500.0,56.6,3.99,9.35,55.23,1.0,Critical,7.97,2605.76,original
+200.0,8.15,Fiberglass,API 5L X42,150.0,-38.3,8.12,4.02,49.33,17.0,Moderate,8.18,94.68,original
+200.0,11.54,Fiberglass,ASTM A106 Grade B,150.0,-18.6,9.17,5.72,49.57,12.0,Critical,7.92,94.68,original
+1000.0,21.38,PVC,API 5L X42,600.0,23.1,14.04,8.89,41.58,6.0,Critical,7.88,10861.87,original
+100.0,7.35,Carbon Steel,API 5L X42,600.0,131.2,3.24,4.92,66.94,5.0,Moderate,8.22,72.38,original
+1500.0,41.08,Fiberglass,API 5L X52,1500.0,16.6,9.56,2.27,5.53,14.0,Moderate,8.17,24772.84,original
+1200.0,36.4,HDPE,API 5L X52,150.0,33.2,4.56,2.09,5.74,21.0,Moderate,8.21,4068.81,original
+100.0,4.35,PVC,API 5L X52,1500.0,16.9,11.22,9.53,219.08,10.0,Critical,7.91,72.38,original
+250.0,7.87,Carbon Steel,API 5L X65,2500.0,8.1,1.97,7.41,94.16,16.0,Critical,7.98,598.28,original
+800.0,24.15,Fiberglass,API 5L X42,900.0,-50.0,17.82,1.27,5.26,24.0,Normal,8.35,6880.84,original
+200.0,8.1,Fiberglass,ASTM A333 Grade 6,150.0,-19.2,2.78,4.34,53.58,1.0,Moderate,8.23,94.68,original
+100.0,4.08,HDPE,ASTM A106 Grade B,2500.0,66.9,1.39,9.45,231.62,20.0,Critical,7.99,72.38,original
+1500.0,23.13,HDPE,API 5L X65,900.0,147.0,16.41,9.63,41.63,22.0,Critical,7.86,24772.84,original
+800.0,14.72,Carbon Steel,ASTM A106 Grade B,1500.0,16.3,3.1,3.54,24.05,2.0,Moderate,8.22,6880.84,original
+200.0,6.68,Fiberglass,API 5L X65,900.0,85.8,18.29,6.76,101.2,12.0,Critical,7.85,366.44,original
+50.0,4.35,Fiberglass,API 5L X52,300.0,17.7,19.18,3.69,84.83,17.0,Moderate,8.09,5.26,original
+400.0,16.15,PVC,API 5L X65,600.0,89.6,3.36,6.01,37.21,3.0,Critical,7.97,1633.13,original
+800.0,28.05,HDPE,API 5L X52,150.0,52.0,8.76,0.42,1.5,4.0,Normal,8.43,1777.84,original
+1200.0,18.36,Fiberglass,API 5L X42,900.0,-2.2,16.53,6.54,35.62,21.0,Critical,7.86,15747.67,original
+100.0,5.83,Carbon Steel,ASTM A333 Grade 6,150.0,46.4,15.07,1.24,21.27,5.0,Normal,8.37,18.7,original
+1000.0,22.79,Fiberglass,API 5L X65,600.0,24.3,11.82,8.22,36.07,2.0,Critical,7.9,10861.87,original
+300.0,12.24,Fiberglass,API 5L X42,300.0,24.6,9.53,4.75,38.81,20.0,Moderate,8.17,458.19,original
+100.0,4.29,Fiberglass,ASTM A106 Grade B,600.0,142.7,14.33,4.17,97.2,17.0,Moderate,8.13,72.38,original
+400.0,11.94,PVC,ASTM A333 Grade 6,300.0,11.7,15.29,1.67,13.99,12.0,Normal,8.37,843.92,original
+200.0,7.19,Carbon Steel,ASTM A106 Grade B,300.0,11.7,1.68,3.99,55.49,7.0,Moderate,8.24,189.36,original
+600.0,23.85,Fiberglass,ASTM A106 Grade B,2500.0,49.6,5.78,1.82,7.63,1.0,Normal,8.45,3804.59,original
+1500.0,48.84,Fiberglass,API 5L X42,2500.0,52.1,3.51,9.8,20.07,23.0,Critical,7.97,24772.84,original
+250.0,9.25,Carbon Steel,ASTM A106 Grade B,300.0,74.2,3.69,2.64,28.54,6.0,Moderate,8.22,309.16,original
+600.0,29.46,PVC,ASTM A333 Grade 6,600.0,46.6,11.64,0.45,1.53,5.0,Normal,8.4,3804.59,original
+500.0,11.26,Stainless Steel,API 5L X42,1500.0,77.9,14.86,8.67,77.0,14.0,Critical,7.88,2605.76,original
+200.0,12.0,PVC,API 5L X52,2500.0,1.0,6.49,8.78,73.17,17.0,Critical,7.95,366.44,original
+250.0,10.56,Carbon Steel,API 5L X42,150.0,116.2,7.59,4.16,39.39,24.0,Moderate,8.19,154.58,original
+600.0,10.09,Stainless Steel,ASTM A333 Grade 6,300.0,-20.1,3.04,6.15,60.95,14.0,Critical,7.97,1966.02,original
+200.0,10.57,Carbon Steel,API 5L X52,900.0,98.1,0.33,6.77,64.05,12.0,Critical,8.0,366.44,original
+1500.0,45.56,Fiberglass,ASTM A106 Grade B,600.0,138.5,15.72,8.79,19.29,4.0,Critical,7.87,24772.84,original
+250.0,8.27,Fiberglass,ASTM A106 Grade B,1500.0,38.7,3.44,8.04,97.22,17.0,Critical,7.97,598.28,original
+1500.0,48.66,PVC,API 5L X52,150.0,-6.2,5.48,5.24,10.77,6.0,Critical,7.95,6400.68,original
+50.0,5.24,Fiberglass,API 5L X65,150.0,79.6,12.7,0.08,1.53,7.0,Normal,8.39,2.63,original
+150.0,8.31,Carbon Steel,API 5L X42,900.0,-16.7,2.76,7.64,91.94,4.0,Critical,7.98,191.13,original
+250.0,9.37,PVC,ASTM A333 Grade 6,2500.0,54.6,7.99,8.96,95.62,16.0,Critical,7.93,598.28,original
+400.0,19.06,Fiberglass,ASTM A333 Grade 6,2500.0,63.1,2.78,2.18,11.44,23.0,Moderate,8.23,1633.13,original
+1000.0,22.01,Fiberglass,ASTM A333 Grade 6,300.0,12.7,9.65,8.81,40.03,15.0,Critical,7.92,5612.87,original
+1200.0,30.98,Fiberglass,API 5L X52,300.0,82.6,12.91,2.38,7.68,18.0,Moderate,8.14,8137.61,original
+1000.0,21.91,HDPE,API 5L X52,150.0,105.7,14.23,0.76,3.47,7.0,Normal,8.38,2806.44,original
+800.0,24.25,Carbon Steel,API 5L X52,150.0,-28.4,8.1,8.04,33.15,9.0,Critical,7.93,1777.84,original
+300.0,17.77,PVC,ASTM A333 Grade 6,600.0,74.0,12.62,5.54,31.18,9.0,Critical,7.89,886.68,original
+800.0,30.5,Stainless Steel,API 5L X52,2500.0,60.4,9.08,3.44,11.28,23.0,Moderate,8.17,6880.84,original
+1500.0,47.92,Fiberglass,API 5L X52,600.0,63.2,1.66,7.53,15.71,17.0,Critical,7.99,24772.84,original
+600.0,29.21,PVC,API 5L X65,900.0,1.6,14.94,5.67,19.41,3.0,Critical,7.88,3804.59,original
+100.0,4.31,HDPE,ASTM A106 Grade B,600.0,30.5,15.37,2.58,59.86,11.0,Moderate,8.12,72.38,original
+800.0,29.61,Fiberglass,ASTM A106 Grade B,2500.0,-7.2,5.57,9.94,33.57,11.0,Critical,7.95,6880.84,original
+250.0,7.35,PVC,API 5L X65,900.0,43.5,14.63,2.84,38.64,6.0,Moderate,8.13,598.28,original
+100.0,6.37,Carbon Steel,API 5L X42,900.0,37.8,2.89,7.99,125.43,13.0,Critical,7.98,72.38,original
+600.0,23.46,Fiberglass,API 5L X42,900.0,2.8,13.95,6.4,27.28,1.0,Critical,7.88,3804.59,original
+300.0,8.96,Fiberglass,API 5L X52,2500.0,43.2,3.8,1.19,13.28,12.0,Normal,8.47,886.68,original
+300.0,9.71,Fiberglass,ASTM A106 Grade B,1500.0,-22.9,8.9,4.15,42.74,10.0,Moderate,8.18,886.68,original
+400.0,9.89,HDPE,ASTM A106 Grade B,1500.0,11.0,16.31,0.86,8.7,19.0,Normal,8.36,1633.13,original
+150.0,7.34,Fiberglass,API 5L X52,1500.0,16.9,6.6,3.21,43.73,16.0,Moderate,8.2,191.13,original
+150.0,5.98,Carbon Steel,API 5L X42,1500.0,-7.2,11.61,6.32,105.69,1.0,Critical,7.9,191.13,original
+500.0,17.56,Stainless Steel,API 5L X65,300.0,19.4,17.52,6.12,34.85,20.0,Critical,7.85,1346.53,original
+400.0,18.18,Carbon Steel,API 5L X52,600.0,133.9,2.06,1.64,9.02,23.0,Normal,8.48,1633.13,original
+200.0,8.29,PVC,ASTM A333 Grade 6,1500.0,58.0,4.73,1.65,19.9,10.0,Normal,8.46,366.44,original
+500.0,22.11,Fiberglass,ASTM A106 Grade B,600.0,35.1,10.4,3.0,13.57,8.0,Moderate,8.16,2605.76,original
+1500.0,47.99,Fiberglass,API 5L X65,150.0,51.8,2.01,5.34,11.13,5.0,Critical,7.98,6400.68,original
+600.0,25.19,Fiberglass,API 5L X52,600.0,-40.9,1.9,5.63,22.35,25.0,Critical,7.98,3804.59,original
+1200.0,36.86,Carbon Steel,API 5L X42,1500.0,54.1,3.7,7.92,21.49,15.0,Critical,7.97,15747.67,original
+200.0,7.28,PVC,API 5L X65,600.0,54.1,19.07,9.18,126.1,11.0,Critical,7.84,366.44,original
+500.0,15.64,Fiberglass,API 5L X65,300.0,41.6,3.71,3.73,23.85,22.0,Moderate,8.22,1346.53,original
+200.0,11.87,Stainless Steel,ASTM A333 Grade 6,600.0,35.4,19.72,9.6,80.88,8.0,Critical,7.84,366.44,original
+150.0,9.28,HDPE,API 5L X65,600.0,-23.7,16.37,2.7,29.09,7.0,Moderate,8.11,191.13,original
+800.0,30.78,Fiberglass,API 5L X65,900.0,87.8,18.36,4.88,15.85,4.0,Moderate,8.1,6880.84,original
+150.0,8.29,Stainless Steel,API 5L X52,2500.0,13.4,19.59,5.66,68.28,2.0,Critical,7.84,191.13,original
+100.0,4.23,Fiberglass,API 5L X52,300.0,24.2,17.16,6.84,161.7,17.0,Critical,7.86,37.4,original
+150.0,8.26,Fiberglass,API 5L X42,900.0,107.8,16.91,1.18,14.29,10.0,Normal,8.36,191.13,original
+150.0,9.47,Stainless Steel,API 5L X65,150.0,85.9,15.5,5.94,62.72,12.0,Critical,7.87,49.38,original
+300.0,11.52,HDPE,API 5L X65,900.0,-11.0,12.0,4.98,43.23,5.0,Moderate,8.15,886.68,original
+50.0,5.95,Stainless Steel,ASTM A333 Grade 6,1500.0,14.8,16.27,9.25,155.46,11.0,Critical,7.86,10.18,original
+800.0,28.69,Stainless Steel,API 5L X65,600.0,11.4,16.63,0.91,3.17,14.0,Normal,8.36,6880.84,original
+250.0,13.4,PVC,API 5L X42,2500.0,69.8,3.74,0.85,6.34,14.0,Normal,8.47,598.28,original
+500.0,19.43,Stainless Steel,ASTM A106 Grade B,600.0,20.9,4.03,3.7,19.04,16.0,Moderate,8.22,2605.76,original
+1500.0,34.85,PVC,API 5L X65,150.0,96.2,5.16,9.98,28.64,15.0,Critical,7.96,6400.68,original
+800.0,12.53,Carbon Steel,ASTM A333 Grade 6,150.0,6.5,6.54,1.07,8.54,23.0,Normal,8.45,1777.84,original
+100.0,6.77,PVC,ASTM A106 Grade B,600.0,44.7,15.9,6.22,91.88,15.0,Critical,7.87,72.38,original
+300.0,15.05,HDPE,API 5L X42,600.0,37.9,6.6,5.39,35.81,12.0,Critical,7.95,886.68,original
+300.0,15.01,HDPE,ASTM A333 Grade 6,300.0,92.0,16.53,4.31,28.71,10.0,Moderate,8.11,458.19,original
+202.76572811646102,10.154229627263664,Stainless Steel,API 5L X42,312.09874249625017,126.39784837274705,14.09323790109682,2.6425114113723325,26.96062887945934,11.965422052452547,Moderate,8.13,203.09,synthetic-based-on-original
+194.10284048986884,8.983374669269567,Stainless Steel,ASTM A333 Grade 6,2482.6163047123664,93.48174476049434,10.934985990895859,9.933519659648868,107.49636314119745,8.263110828712353,Critical,7.91,342.82,synthetic-based-on-original
+1211.5627487770553,33.37943688089251,HDPE,ASTM A333 Grade 6,588.1036586221521,31.754431521962584,1.9448013787194485,4.888030111258439,15.063018785721464,1.864598163902985,Moderate,8.23,16057.81,synthetic-based-on-original
+1494.8104217910022,47.22423394630003,HDPE,ASTM A106 Grade B,601.9911522516031,0.3346905433656301,8.50546545934661,3.898892590046199,7.178469177351556,8.872351136431416,Moderate,8.18,24599.41,synthetic-based-on-original
+1501.8644692461833,42.55555918219428,Fiberglass,ASTM A333 Grade 6,318.12879339370954,108.60811544498331,12.303354524486627,7.619293398905221,17.865544112749543,15.842532190916147,Critical,7.9,13609.17,synthetic-based-on-original
+52.016209844827216,4.9275158850908145,Fiberglass,ASTM A106 Grade B,291.0203904412713,29.347421218956832,2.8472604281015865,9.94282568845233,212.21873943382576,12.89836560917382,Critical,7.98,5.81,synthetic-based-on-original
+985.1765472400599,23.913282433735816,Carbon Steel,ASTM A106 Grade B,300.33451325427825,108.67360838152767,11.56384204919964,0.5091486297021334,2.4296012286294935,5.319334362883647,Normal,8.4,5450.42,synthetic-based-on-original
+303.15991121003793,10.768072753676783,Stainless Steel,ASTM A106 Grade B,889.9746916958236,32.441492277684155,16.16888866917111,9.597049625942754,86.18058250417666,23.871930374374195,Critical,7.87,906.81,synthetic-based-on-original
+302.6375109170377,10.292327516546715,Carbon Steel,ASTM A106 Grade B,146.1316692310589,9.004877320430108,13.156114704067186,5.049233625191734,50.03226783761948,18.945041455019254,Critical,7.89,227.41,synthetic-based-on-original
+139.0146123857502,9.352838038315365,Carbon Steel,API 5L X52,581.2751811597012,8.008297739922389,16.07161153764921,2.581217975278029,27.82596136501468,9.962622622977483,Moderate,8.12,160.2,synthetic-based-on-original
+603.5984220287758,14.29129357331587,PVC,API 5L X42,144.1815244576928,85.72581517109964,8.955837499093123,4.531230194887579,30.035798903686263,18.002302821986735,Moderate,8.18,956.64,synthetic-based-on-original
+1197.9425740713718,31.173396187385592,PVC,API 5L X42,860.9398875794036,27.397315644027135,5.005166051214348,3.015018565054061,9.618127580908384,8.913657518694993,Moderate,8.21,15692.81,synthetic-based-on-original
+477.93689843155846,23.972595659395992,Stainless Steel,API 5L X65,2507.0973545968914,64.99882656597512,14.780363902200971,2.9524634040743134,11.768749348666041,17.137167752777955,Moderate,8.13,2371.72,synthetic-based-on-original
+495.0874495054268,22.540863754340865,Stainless Steel,API 5L X65,1506.8086424857554,59.08393698676865,3.044756779540264,6.663857547570867,30.126537542249668,0.8131124527354685,Critical,7.97,2552.7,synthetic-based-on-original
+394.65085675336627,14.637598906597166,Stainless Steel,API 5L X42,2486.4702157630527,0.16847094855557052,10.353184334423366,8.783365112029559,58.84520230980275,21.987236863250207,Critical,7.91,1587.47,synthetic-based-on-original
+59.41250165809925,5.744073428359277,PVC,API 5L X42,596.702607575899,-40.76830933303413,6.886160260898806,9.106811373980872,162.45502841586705,22.215161065141224,Critical,7.94,17.57,synthetic-based-on-original
+1497.7186706565567,31.84716105670101,PVC,ASTM A106 Grade B,2505.088635646422,39.05408796552945,9.530197383829739,9.839348359686754,28.089383754451706,13.137727660137928,Critical,7.92,24696.53,synthetic-based-on-original
+1188.1190924749587,29.56722717263172,PVC,API 5L X65,2515.685336488899,88.401074719514,3.994868683201539,8.847332952789259,30.204834698996454,19.973803441588043,Critical,7.97,15432.16,synthetic-based-on-original
+511.1799578924007,21.189549745789666,Stainless Steel,API 5L X65,603.225502625942,52.67972409678531,3.3372007112663225,8.63036413224859,40.15015621378569,12.960027180820838,Critical,7.97,2728.56,synthetic-based-on-original
+152.7397403390104,8.001485009405476,Carbon Steel,API 5L X42,2518.5722649523386,57.39848272963713,10.718099576714064,4.9539344590995915,64.11558545080922,15.047918659370099,Moderate,8.16,199.28,synthetic-based-on-original
+306.73353278606146,10.579846270488236,Fiberglass,API 5L X65,2526.6513279043616,29.731096002904223,4.680598097370225,7.181727992110961,67.50097800336562,6.940673010813365,Critical,7.96,929.84,synthetic-based-on-original
+390.12714746175925,19.895329635649848,Carbon Steel,API 5L X52,2513.640675969524,61.774220969490905,18.71452909883838,5.460439011840707,28.697676768460774,16.939969921635146,Critical,7.84,1549.37,synthetic-based-on-original
+247.00082048570656,8.732016316270606,Fiberglass,ASTM A333 Grade 6,2462.6640959165093,80.65411126544844,3.9826667503568696,2.2629723191460376,25.252117612652853,20.049855358949646,Moderate,8.22,582.78,synthetic-based-on-original
+500.1686328006489,12.665473745982691,PVC,API 5L X42,157.65604383560907,14.428791843828177,16.714240376707554,8.291171308037102,65.84582796202567,9.98964745459928,Critical,7.86,708.12,synthetic-based-on-original
+1481.3478526114025,33.16803304007704,Carbon Steel,API 5L X65,162.58446329770436,112.64970849053,9.541410595345045,6.061187432731356,17.089237761858094,17.036641607573014,Critical,7.92,6763.91,synthetic-based-on-original
+96.96813529948409,4.103746368414879,PVC,API 5L X42,1512.4066496111998,3.7361968928720044,16.22496340662784,0.021341148717083126,1.1017769966000202,16.92309341658051,Normal,8.36,67.0,synthetic-based-on-original
+1206.9222271060682,38.529269952683755,Carbon Steel,ASTM A106 Grade B,124.6691618190674,56.089863073133564,4.936770063816725,4.990408674921769,10.848098317746594,4.165673094746253,Critical,7.96,3421.49,synthetic-based-on-original
+277.0446060950946,9.946785589810938,Stainless Steel,ASTM A333 Grade 6,167.81421616873905,-18.621621760068994,3.2856932787710673,1.5992304589820743,15.947655854887351,17.159200010244145,Normal,8.47,216.0,synthetic-based-on-original
+289.4370862967621,9.028156001843815,HDPE,API 5L X42,2489.3307182529747,36.07730248510775,12.64270557873497,5.38383868667507,56.3185356341608,3.1466311088877643,Critical,7.89,821.05,synthetic-based-on-original
+404.51414394253726,18.98364160170498,Fiberglass,ASTM A333 Grade 6,2481.152215655282,62.85795460273387,2.911517652674131,2.1495364695458474,11.564818744596264,23.15434245426028,Moderate,8.23,1672.16,synthetic-based-on-original
+607.5009408692621,23.237047529920336,PVC,ASTM A333 Grade 6,2533.00428931989,43.358058595964394,15.664099220812748,7.374098227859636,31.827090183875594,24.821555519313677,Critical,7.87,3903.64,synthetic-based-on-original
+499.2413637323344,24.036005759994744,HDPE,ASTM A333 Grade 6,937.5305302015385,38.174756885208204,15.505199085635265,2.435528367713159,9.89351214707192,15.171356474525894,Moderate,8.12,2597.53,synthetic-based-on-original
+307.3242969671629,6.985173267154967,Carbon Steel,API 5L X42,288.1487215196325,48.04042095925197,17.38182844731769,8.014135351643956,111.99955660944997,20.181592283179597,Critical,7.86,463.42,synthetic-based-on-original
+53.615005386952575,4.9791716886285435,Stainless Steel,ASTM A333 Grade 6,2502.5132763166202,-7.458160167000752,1.9144237364664463,0.6296434022328107,10.82521820336077,17.968912803962994,Normal,8.48,12.78,synthetic-based-on-original
+85.12647955780777,5.779484020821543,Carbon Steel,ASTM A106 Grade B,1474.4397712256678,45.49592072963725,12.043514656462131,7.590403596609084,132.61838488840328,9.974015526999688,Critical,7.9,47.97,synthetic-based-on-original
+248.7464714133399,11.291243243023203,Fiberglass,ASTM A106 Grade B,2506.024037894639,12.004308373076103,8.841266275010476,4.006732216717132,38.311161262191895,24.126969663930936,Moderate,8.18,591.78,synthetic-based-on-original
+254.38624118218294,10.748044744939053,Fiberglass,ASTM A106 Grade B,289.2566897173536,4.346971531493911,19.602983809216838,2.0467362095023933,18.212139497148883,2.878515204378508,Moderate,8.09,309.57,synthetic-based-on-original
+50.58369189912278,4.026507019704311,Carbon Steel,ASTM A106 Grade B,590.6143856449803,-16.588240325743797,18.455326460456657,2.2685793647884944,53.67678986801971,0.9050919388011041,Moderate,8.1,10.58,synthetic-based-on-original
+48.0711876283834,4.599833877204893,HDPE,ASTM A106 Grade B,130.73364810107898,-26.90077963610796,6.956981542284625,1.297937106061516,24.420114209769615,11.161899017630962,Normal,8.44,2.01,synthetic-based-on-original
+86.20683576706404,4.9798959866410595,Stainless Steel,ASTM A106 Grade B,329.7872781541888,56.00211263785935,8.525509155519808,1.001209801565002,20.273711980680662,15.932479539307353,Normal,8.43,28.16,synthetic-based-on-original
+604.2298496278675,28.3611908200451,Carbon Steel,API 5L X52,1486.405799049073,-27.20306295359789,0.8106451491864914,1.7653457800696524,4.82648495968844,1.1652159932360995,Normal,8.49,3860.29,synthetic-based-on-original
+605.1382216905535,24.247448180942023,PVC,ASTM A106 Grade B,2511.8640797031603,76.1935145605017,10.117221666811833,2.6316884106209257,9.94271956125911,21.18414017972601,Moderate,8.17,3872.3,synthetic-based-on-original
+408.48224208246893,18.452147823349062,PVC,ASTM A333 Grade 6,1476.6047477867503,21.619642867472972,2.268809567605166,7.337007862201801,39.7794257689777,14.108149749800335,Critical,7.98,1706.85,synthetic-based-on-original
+599.4602008873288,22.6334703428029,Stainless Steel,API 5L X65,1503.4852157975495,41.47167003235061,1.445897563261488,8.067195951452302,34.99301851412927,12.065198635021575,Critical,7.99,3797.52,synthetic-based-on-original
+1195.3726940410243,19.29719919987668,Carbon Steel,API 5L X52,2524.1062829173848,76.84985251699187,14.300592855775713,6.403527332188759,34.22253900906134,7.022223188656377,Critical,7.88,15624.41,synthetic-based-on-original
+401.3245845088572,18.59448763425581,Carbon Steel,API 5L X52,602.7876599807505,135.12529155252304,2.063095243040835,1.6474155541221038,8.572069314656462,23.109981908092138,Normal,8.48,1644.53,synthetic-based-on-original
+248.38435703255422,14.086773535808307,Fiberglass,ASTM A106 Grade B,596.3363492816515,78.87463826300058,8.56474985479352,4.83916781540363,33.175920419430405,10.901739012009061,Moderate,8.18,589.91,synthetic-based-on-original
+591.4194173700832,14.766647798111702,HDPE,API 5L X65,282.2942518032697,65.28741583691142,16.770320974650986,0.755956044627568,6.513510095392027,24.809829629210604,Normal,8.36,1795.66,synthetic-based-on-original
+1215.903902269685,31.022890312816084,Fiberglass,API 5L X52,298.0543037645144,82.81551987182611,12.850775658223563,2.3535018609383695,6.421928087814773,18.13935239268667,Moderate,8.14,8304.23,synthetic-based-on-original
+305.17407763012517,7.316292523575109,Fiberglass,API 5L X52,914.6639303959623,-42.327799139330914,4.821213837314897,2.9203491023334505,39.42267001185776,14.231274757483744,Moderate,8.21,919.76,synthetic-based-on-original
+1193.0233927305396,31.026697747466205,Fiberglass,API 5L X52,306.05125072472043,81.61592888495869,12.866512877923073,2.3401222909393433,6.185857774823676,18.0491756094234,Moderate,8.14,8203.88,synthetic-based-on-original
+251.6713647008392,11.035502038764285,PVC,API 5L X52,160.46377339456467,47.83709766188109,10.92310406131487,0.39051417655964815,3.8753730753958906,20.97283304081303,Normal,8.41,167.78,synthetic-based-on-original
+518.2909602703488,18.20400145785451,Carbon Steel,API 5L X42,132.68849987708268,45.727975950804044,2.7316345300170592,1.319595124527437,8.202572393128442,19.955195599408558,Normal,8.48,641.82,synthetic-based-on-original
+152.57617755938503,9.732219982431717,Fiberglass,ASTM A106 Grade B,154.0671313419597,125.42324039388615,8.666538953741581,3.1251395107409548,32.92795489426372,9.92660481144874,Moderate,8.18,52.75,synthetic-based-on-original
+1526.4174839150633,43.32599589588391,Carbon Steel,ASTM A333 Grade 6,893.0826703814457,49.40270008084112,13.267050192526742,5.499354704734031,12.232806799600022,4.049639899139241,Critical,7.89,25665.11,synthetic-based-on-original
+787.7393739755346,28.87958346599207,Stainless Steel,API 5L X65,893.7622514215569,42.77174094057598,10.374043385511053,8.925095177922978,31.08952418259864,21.214729811187485,Critical,7.91,6666.23,synthetic-based-on-original
+1002.950426867608,31.972180237739295,Stainless Steel,API 5L X52,144.4149711300271,100.84602579161327,0.18762200040920127,4.5045183692468616,13.779945820325006,22.44549003008997,Moderate,8.25,2718.24,synthetic-based-on-original
+145.9213785821274,7.778307198954829,Carbon Steel,API 5L X42,2488.2419931246272,57.39646683909133,10.696980003451035,4.848260347964728,63.74860975528695,14.7295508997971,Moderate,8.16,179.33,synthetic-based-on-original
+798.9547181616699,12.177422063336863,HDPE,API 5L X65,909.2950122587335,-11.094009724117809,16.248798387843223,7.481189629260032,62.102302548033684,22.91167623944169,Critical,7.86,6862.41,synthetic-based-on-original
+1500.851727798552,39.2513896594105,Fiberglass,API 5L X52,2509.770866175694,41.41019834826325,2.638856085547264,7.894922094522825,20.441736498292784,4.998510093224671,Critical,7.98,24801.36,synthetic-based-on-original
+254.90850499418795,11.500629089751184,Fiberglass,ASTM A106 Grade B,331.562791480352,-8.602175013739512,9.619059923428916,1.837166343207383,14.704497894156944,22.13343645903821,Normal,8.42,356.43,synthetic-based-on-original
+282.72180808686244,10.843490444983738,Stainless Steel,ASTM A106 Grade B,894.6180013700318,33.83954976189388,16.177030852401327,9.780040857046986,86.006904821452,23.9026817606055,Critical,7.87,780.63,synthetic-based-on-original
+95.98028712740953,6.014283878875305,Carbon Steel,API 5L X52,602.834793306008,145.03408450105312,19.98360029238377,7.513380067997442,117.89221701941726,9.051906532983958,Critical,7.83,65.29,synthetic-based-on-original
+157.10562768394263,6.565827092800227,PVC,API 5L X42,2498.6173110131767,67.10039617190067,8.477004604165819,4.516237906926457,69.09059941340178,8.000756470003989,Moderate,8.18,212.6,synthetic-based-on-original
+264.93791920270303,9.82952460789457,HDPE,API 5L X65,147.97629861218238,22.659886263683955,0.25829553053267823,6.229818356608639,61.5314996478466,17.03033988838649,Critical,8.0,172.95,synthetic-based-on-original
+50.89591628587065,5.540958301463684,HDPE,ASTM A106 Grade B,306.1845845189475,20.02333381620615,8.887322280961982,4.2496869112239315,73.11604616976457,7.730169444733064,Moderate,8.18,5.69,synthetic-based-on-original
+140.31055743950475,7.929668947728058,HDPE,API 5L X42,611.9538162546613,79.41592244467445,0.5171179743171235,3.0972222201231654,36.25093329626799,20.10460411902537,Moderate,8.25,163.7,synthetic-based-on-original
+255.87803156035613,11.116119188899214,PVC,API 5L X52,1483.2987834900134,20.959660944507164,4.314390610671733,2.6090086518634066,24.702118423968685,21.026217425260228,Moderate,8.21,629.26,synthetic-based-on-original
+150.92118001756845,4.942944521913755,HDPE,ASTM A333 Grade 6,314.8850830839606,44.06206891392481,15.864996696479396,6.129256653929253,118.69778639974932,12.740591594210805,Critical,7.87,105.14,synthetic-based-on-original
+1500.539581239546,31.331229537976235,Fiberglass,ASTM A333 Grade 6,149.6563643177859,68.22719857425054,16.42893411472362,6.923086706050979,22.103289533707255,9.912634204767249,Critical,7.86,6390.68,synthetic-based-on-original
+1010.9756346763951,19.459632176700673,Carbon Steel,API 5L X65,1497.130632771421,14.10867692364434,1.2270271638290966,5.119655269521141,26.155757564292234,10.835317393685543,Critical,7.99,11106.53,synthetic-based-on-original
+1016.0366061952267,29.029837307345865,Stainless Steel,API 5L X52,1494.106607694972,30.40863601870446,11.83462124231937,7.283367786989306,22.45323418691353,7.7286649534762475,Critical,7.9,11220.26,synthetic-based-on-original
+1006.2259166839708,28.988191681887322,Fiberglass,API 5L X52,584.4794320248126,68.8797908365227,16.114552002833957,6.872482764044015,20.543616121305252,22.11274832050313,Critical,7.87,11000.32,synthetic-based-on-original
+412.08450118333604,11.13881249472106,Carbon Steel,API 5L X42,307.245884521837,41.42948167192757,11.54253655050972,2.2113425979071257,20.416109317504773,23.046152422329442,Moderate,8.15,920.15,synthetic-based-on-original
+35.40516733802808,3.2814634928281032,HDPE,API 5L X42,894.0717195746976,92.07416946416627,2.2460184590962,4.217968493383548,122.56261520071634,22.065026862341107,Moderate,8.23,2.68,synthetic-based-on-original
+295.8194561452037,11.317545797485995,Fiberglass,ASTM A333 Grade 6,911.0321551290166,137.53350257586973,7.054191513135827,5.2595414301668235,44.871209523372094,14.058520554949427,Critical,7.94,860.4,synthetic-based-on-original
+500.08109437844286,15.295957277403994,HDPE,ASTM A333 Grade 6,2502.8816286727724,31.697726479465228,9.777386428326972,8.848598655185155,55.93085092800197,17.242503395173912,Critical,7.92,2606.64,synthetic-based-on-original
+391.5389334063393,18.839568647541043,Fiberglass,ASTM A333 Grade 6,2492.9769585688236,62.27121028834396,2.7267273377202312,2.2191507142669686,11.099497699375164,23.252806160691854,Moderate,8.23,1561.21,synthetic-based-on-original
+200.03830855880705,9.006692276234064,Fiberglass,API 5L X65,880.1500767776131,-39.086560669716604,14.54225169632673,9.216387632344341,103.19591462211113,18.01829499330041,Critical,7.88,366.59,synthetic-based-on-original
+1518.7198598407263,23.969701905121887,Carbon Steel,ASTM A106 Grade B,1497.10038794093,7.5980437279956945,11.82064211634499,1.525357437175185,5.324707576249096,4.838478286433828,Normal,8.4,25403.48,synthetic-based-on-original
+200.2820493696823,11.20117358952065,Fiberglass,API 5L X42,1484.2302457825479,3.7002952350361578,14.674456722101285,3.966844013958238,36.47772485710809,23.829779921483002,Moderate,8.13,367.58,synthetic-based-on-original
+1509.705744456491,38.668976797171375,HDPE,API 5L X52,2483.4757727389015,85.59661061286977,19.19959219803419,7.4160963245935925,17.926630582143808,15.034306702257673,Critical,7.84,25098.82,synthetic-based-on-original
+241.60848897410557,9.138469314821142,Carbon Steel,ASTM A106 Grade B,330.7612587928619,74.59096621550107,3.4796273221577128,2.7252290553785747,28.14297377073636,5.8840783526792295,Moderate,8.22,316.45,synthetic-based-on-original
+56.96068743901317,4.7009626371085975,PVC,ASTM A333 Grade 6,606.7235739508876,52.05809064473854,14.90789126690334,8.963649161411842,196.41747863822218,1.054849768748192,Critical,7.88,15.45,synthetic-based-on-original
+97.9349569203873,7.10304962881321,Fiberglass,API 5L X52,2495.810129837736,86.48986505236323,14.003894616304589,8.977233137640065,131.82409884311963,25.098431194924213,Critical,7.88,68.69,synthetic-based-on-original
+44.535228451135765,4.768440699782525,HDPE,API 5L X42,2527.390542197795,34.04492852332801,13.880857505811898,7.072820110087012,143.635313786198,2.02824652305802,Critical,7.88,6.81,synthetic-based-on-original
+398.10420397535785,16.115039156001885,PVC,API 5L X65,568.5551235708859,89.53097457771256,3.4500688666740995,5.93411327357381,35.96457189924657,2.9945937872278448,Critical,7.97,1583.46,synthetic-based-on-original
+146.40192842142073,8.683772122391586,PVC,API 5L X52,295.89279533093963,41.14809512911884,8.0850053522544,5.983668819831963,64.84050381602259,23.295936195283193,Critical,7.93,92.1,synthetic-based-on-original
+1206.4586681861922,29.762507194505485,PVC,API 5L X65,2503.5179260002506,88.3570010198189,3.90628586199054,8.672859264207053,30.69645647529457,19.988505003153048,Critical,7.97,15920.53,synthetic-based-on-original
+54.508999483654904,6.003974263411834,HDPE,ASTM A106 Grade B,308.3048182227322,19.30210834387977,8.82419683459678,4.166146517847514,72.78881269267845,7.968925742948337,Moderate,8.18,7.15,synthetic-based-on-original
+790.249406830136,21.59010671549272,PVC,ASTM A106 Grade B,137.24097421994364,12.586779691949586,7.382665322900459,7.307233613793664,32.890277467996384,4.136226264054547,Critical,7.94,1586.2,synthetic-based-on-original
+1500.4105479584746,23.339004148232206,Fiberglass,API 5L X52,126.8630370719287,18.641359589956004,10.827888358624742,8.96592161586588,38.24422686355335,8.94562130795215,Critical,7.91,5416.4,synthetic-based-on-original
+193.26145419366907,11.448910156503569,Stainless Steel,ASTM A106 Grade B,278.58660649036216,104.83489460690087,0.5254573693021306,8.20975285364522,70.92516862743358,21.004170561852845,Critical,8.0,162.92,synthetic-based-on-original
+58.29220190739068,4.920479412644624,HDPE,ASTM A333 Grade 6,135.37727801427923,12.479425371807128,0.22308656007976652,7.45894075206926,154.78516089249888,7.2187258717024765,Critical,8.0,3.87,synthetic-based-on-original
+42.58985521930062,4.775684840749799,Stainless Steel,API 5L X65,559.6079463885076,53.82094798421903,19.583336810399878,9.610164978843924,208.5473677287651,1.1190478116858975,Critical,7.84,5.56,synthetic-based-on-original
+995.5926947069995,20.463174101232674,Fiberglass,API 5L X65,125.24464750820633,12.206105852247845,15.6155487255627,9.032608926473515,43.34282138473383,24.145181827334735,Critical,7.87,2322.24,synthetic-based-on-original
+307.6101498360041,17.150303060104317,Stainless Steel,ASTM A333 Grade 6,1495.9206991447477,46.18517404369998,14.911835066984901,4.80995002252946,27.09565721869179,6.2436821713406925,Moderate,8.13,935.54,synthetic-based-on-original
+997.7165959823184,17.99450827236369,PVC,API 5L X42,144.89510077396793,69.58987588300246,4.128729915214595,8.386229575941684,47.04355849608338,18.949299652208257,Critical,7.97,2698.31,synthetic-based-on-original
+1499.3996399820203,39.46307266316171,HDPE,ASTM A333 Grade 6,301.5096299214387,-13.332772074668751,6.779994183278434,3.151245729991146,8.361763805637237,19.145615549999736,Moderate,8.19,12855.35,synthetic-based-on-original
+608.8640523603989,16.51631694263022,Stainless Steel,ASTM A333 Grade 6,590.9521115964537,37.581511054785196,0.9545171460438434,9.534046733101382,56.880127962464734,7.715178106900379,Critical,7.99,3921.77,synthetic-based-on-original
+386.3158352407914,11.445102692079598,Fiberglass,ASTM A106 Grade B,1493.5006028891767,78.44690418472962,16.848489999302178,0.5638846989318982,7.355441453270798,10.006985898152582,Normal,8.36,1517.62,synthetic-based-on-original
+797.7582311116618,23.43851196488205,Carbon Steel,ASTM A333 Grade 6,889.8832235860548,-2.0592920083001056,14.652948157608586,1.6180314557939022,6.927441595655913,25.125732926453118,Normal,8.38,6841.35,synthetic-based-on-original
+1009.28286465336,24.891416857319506,PVC,API 5L X52,906.3749172376575,16.772776114661998,15.664757255321202,5.216743895953114,20.969310393851003,1.1178704434448183,Critical,7.87,11068.62,synthetic-based-on-original
+1209.1359866881946,31.02198570248313,Fiberglass,API 5L X52,291.27101469109573,82.48069863624752,12.718878420315995,2.334366305160819,7.474020918876597,17.92098636409069,Moderate,8.14,8023.65,synthetic-based-on-original
+1509.559768176409,34.983553370952926,PVC,API 5L X65,170.27999415917247,94.94798981471872,5.219593877697447,9.987669913326428,26.71482378177539,14.75781926397749,Critical,7.96,7360.23,synthetic-based-on-original
+106.33678588046224,4.300096433988833,Stainless Steel,ASTM A106 Grade B,603.5108602958317,62.0440244447102,9.971133898427093,8.43900998850766,188.4681545815119,24.722105982402546,Critical,7.92,84.3,synthetic-based-on-original
+210.04140119612467,7.675063747864576,PVC,ASTM A333 Grade 6,145.29368571877978,-44.1514997872694,4.006904784677358,0.7802786329983538,8.762916961959176,16.95852112540553,Normal,8.47,102.22,synthetic-based-on-original
+149.3397066919119,8.199964379463644,HDPE,API 5L X52,904.3474475039155,49.83184207573493,13.448402224035554,1.6200161478250716,20.574312956278394,18.126740607754627,Normal,8.39,189.2,synthetic-based-on-original
+1505.1840950099984,47.43993101052794,HDPE,ASTM A106 Grade B,601.7100152764312,0.48020225342370165,8.579043241281317,3.9323980232044464,7.282650349467103,9.189737737859016,Moderate,8.18,24946.69,synthetic-based-on-original
+1210.0210160275724,37.92155474128671,Fiberglass,API 5L X52,904.1190738205997,-43.66191876587875,4.684710658938927,5.537316813969084,14.883948501726486,11.003278777435304,Critical,7.96,16016.28,synthetic-based-on-original
+159.96088304328046,6.508483679973613,Carbon Steel,ASTM A106 Grade B,288.00611449906927,66.43885189800723,2.2308779396695124,9.683019509484494,142.20115497968683,6.209403231608943,Critical,7.98,109.91,synthetic-based-on-original
+397.183318008103,19.454586523778353,Fiberglass,API 5L X52,1487.2420874662764,59.61982928354561,7.089813297407379,2.4500954064564047,12.93101194961037,7.893702151198709,Moderate,8.19,1609.0,synthetic-based-on-original
+1206.1715377783862,22.468851292036923,HDPE,ASTM A333 Grade 6,177.10797587833514,18.73640762072308,13.558868380079252,4.097948333841242,17.36884145777548,6.857741692473548,Moderate,8.14,4854.5,synthetic-based-on-original
+603.536694507803,24.932922256257623,HDPE,API 5L X42,592.579246699315,41.04059294229679,14.823423674660475,8.4370520151517,35.11488703189154,18.070060568518873,Critical,7.88,3851.13,synthetic-based-on-original
+1007.2045389135258,25.985968954600636,Fiberglass,ASTM A333 Grade 6,1505.6629600462031,56.54959414207005,9.85716319753257,9.56695373355482,36.341662648149395,19.561251913291038,Critical,7.92,11022.16,synthetic-based-on-original
+43.029943881887746,3.6242662327136657,Fiberglass,ASTM A333 Grade 6,276.34600960238686,63.68341495856862,4.605138621735277,8.679066717883341,237.52952157415922,2.13245476680902,Critical,7.96,2.86,synthetic-based-on-original
+303.3087202740116,15.086435198863606,Stainless Steel,ASTM A333 Grade 6,610.8971060242407,55.13505084251143,14.945935352864783,7.901363451236968,50.95709177565302,4.851313383482707,Critical,7.88,907.76,synthetic-based-on-original
+252.73132667715214,7.4437977163426075,PVC,ASTM A333 Grade 6,908.8129014357844,51.3921793318029,12.926856148760924,5.488919947274677,73.77405696439591,10.915067094280674,Critical,7.89,612.58,synthetic-based-on-original
+1187.1190843631098,30.406097650957555,Carbon Steel,ASTM A106 Grade B,914.7153052234629,16.201935690157292,2.2363304887042634,4.8848258209923205,15.324821155003162,11.971439274656271,Moderate,8.23,15405.75,synthetic-based-on-original
+110.97848496233766,6.316972693746341,PVC,ASTM A333 Grade 6,2497.5054896038855,29.164651654253873,3.800886875608823,0.6463350099485758,8.74559888890266,10.171096340312046,Normal,8.47,93.61,synthetic-based-on-original
+1494.7321823075636,34.34234811289112,Carbon Steel,API 5L X42,871.4521738324809,62.76568432049161,17.620927472434357,0.9066599001461988,2.5934236712027667,25.078392956056113,Normal,8.35,24596.8,synthetic-based-on-original
+92.03937863639312,5.123555588606438,PVC,API 5L X42,290.25516635790234,30.543259802762933,9.393630335843813,8.560995185243097,166.52136910659024,11.838671421354166,Critical,7.92,29.34,synthetic-based-on-original
+1196.978547051044,36.366856571668905,HDPE,API 5L X52,142.78630790407848,33.050239545555065,4.601454221289348,2.099013777436781,6.439103871951994,20.9933404681698,Moderate,8.21,3853.32,synthetic-based-on-original
+200.10153278066105,7.0606028880296385,HDPE,ASTM A333 Grade 6,571.9327565743803,55.78568133545002,3.37529786855213,0.2999931516302355,7.515216815818446,25.096357146147234,Normal,8.47,361.4,synthetic-based-on-original
+300.01278099922433,16.91476620949885,Fiberglass,ASTM A106 Grade B,2507.3233234780864,46.712383365585055,8.31104705643422,4.6322098695414216,25.389904845822397,10.928907216215896,Moderate,8.18,886.76,synthetic-based-on-original
+586.4299767221422,12.946612587977958,PVC,API 5L X42,889.3404334390702,8.224516586982242,0.8183528524258155,4.5194995660001815,34.929811203730964,16.25819867026316,Moderate,8.24,3628.65,synthetic-based-on-original
+1191.179950314915,25.390051462737468,HDPE,ASTM A333 Grade 6,315.39973318695314,-8.831837001703573,1.8128796520790063,3.4354667471550866,12.782271457694804,14.114167745754884,Moderate,8.23,8427.92,synthetic-based-on-original
+188.77942216362462,11.340603600468295,Carbon Steel,ASTM A106 Grade B,147.43951527722797,6.595213501817747,14.44881095070106,3.3895270898304184,29.95585207827717,22.963835195237785,Moderate,8.13,81.82,synthetic-based-on-original
+1201.9167223481093,24.561725464658373,Fiberglass,ASTM A333 Grade 6,603.8140381231848,62.916054998649585,16.233811933506566,4.967197331190773,21.949711517908497,10.198365280311505,Moderate,8.11,15798.87,synthetic-based-on-original
+1515.2306508835059,27.33490179634352,Fiberglass,API 5L X65,1486.1054360957376,114.63012912231423,13.684132496890694,0.6974243579312659,1.7293070019842123,17.736485457352966,Normal,8.39,25285.34,synthetic-based-on-original
+308.0438796499708,15.761877787826444,Carbon Steel,API 5L X42,597.2426814188775,63.23906641935095,13.816963033148776,9.139435917832104,59.97581369305869,6.890471646544357,Critical,7.88,938.36,synthetic-based-on-original
+51.19095554763615,4.531976666252723,HDPE,ASTM A106 Grade B,300.59732604958765,44.051120377545764,10.302506107034773,6.125911348569323,131.95093244988615,12.002980975930333,Critical,7.91,5.7,synthetic-based-on-original
+310.157859600514,13.955303589201801,HDPE,ASTM A106 Grade B,893.7308335481412,79.38719144696717,16.294766294015492,1.4416957902866965,10.957408573142615,13.983979825455014,Normal,8.36,952.18,synthetic-based-on-original
+59.57059025603003,4.447975500883201,Carbon Steel,ASTM A106 Grade B,601.4776211138523,-17.374955582217396,18.51973412419932,2.154512572693594,53.76978070412732,1.025716734639427,Moderate,8.1,17.71,synthetic-based-on-original
+151.27210287033512,4.951167495111693,Stainless Steel,API 5L X52,290.72385995462474,72.00022985860491,3.943634587979308,4.489937312437405,86.40942388840867,15.85063044273229,Moderate,8.22,97.6,synthetic-based-on-original
+1003.6918311102894,15.364476722098871,Stainless Steel,ASTM A333 Grade 6,306.23710469608056,74.90658425540799,3.2666241445809123,4.146795557060115,28.024301474283693,20.053095974152807,Moderate,8.22,5772.81,synthetic-based-on-original
+494.05704933703316,12.692163283712938,PVC,API 5L X42,149.99696469861632,15.53249787821826,16.547196445822166,8.27981940095403,67.27197108926346,10.003808585542311,Critical,7.86,656.68,synthetic-based-on-original
+85.4256138338658,7.070640221730788,Stainless Steel,API 5L X65,163.01696414451263,12.126257187635712,3.102412438098215,5.80185181486254,81.4039452077257,21.03375972708199,Critical,7.97,13.59,synthetic-based-on-original
+76.11881152961207,5.218458005169511,Carbon Steel,ASTM A106 Grade B,908.5017608764141,54.08766075776522,19.21624770053364,0.9153284836551486,16.284560835433954,17.042465276686563,Normal,8.34,35.62,synthetic-based-on-original
+59.70326060835893,5.7855103236857195,Fiberglass,ASTM A106 Grade B,2482.3743102236076,75.28406923885092,19.365427119264165,7.228694434088274,120.1384276186307,15.149042952132099,Critical,7.84,17.83,synthetic-based-on-original
+800.5853098781886,19.921004366390658,Stainless Steel,ASTM A106 Grade B,599.6574482467709,21.04149756333912,7.456445540825802,4.667875548094317,23.837769702580353,6.833739288968667,Moderate,8.19,6891.17,synthetic-based-on-original
+797.9056234791261,17.71160752960235,Fiberglass,ASTM A333 Grade 6,303.7539298647154,13.034853236992829,14.07737134631235,6.4883756951402125,38.423171653470085,8.924609366727893,Critical,7.88,3580.86,synthetic-based-on-original
+398.2271093923152,18.835644350831267,Carbon Steel,ASTM A106 Grade B,2488.8321850051075,25.81936350019086,5.556750100065268,2.667086545178633,15.378794130638838,15.88329405647307,Moderate,8.2,1617.92,synthetic-based-on-original
+383.76723774389586,17.42026366115207,Carbon Steel,ASTM A333 Grade 6,898.3136080081305,8.756988142465675,13.15237155420425,7.7441260507961776,44.486127585117266,19.837604349870446,Critical,7.89,1496.58,synthetic-based-on-original
+496.3272252311507,20.08594459564117,Fiberglass,ASTM A106 Grade B,296.9961813587331,5.5277574573468025,2.6102729535304956,4.980716034414473,24.511287204116297,23.309629906686766,Moderate,8.23,1312.72,synthetic-based-on-original
+389.6451200686627,18.807286285581025,Fiberglass,API 5L X52,604.4733920717969,84.60300728228731,13.74578891356844,6.84215706888117,35.24336143810793,8.038152819806465,Critical,7.89,1545.33,synthetic-based-on-original
+103.267070018964,3.6831386459484428,Stainless Steel,ASTM A333 Grade 6,138.54772534289268,44.102102084702445,9.25485326302493,3.396282993311313,81.38675515698178,5.790036668616252,Moderate,8.17,18.71,synthetic-based-on-original
+106.55474876575369,4.279428717846343,Stainless Steel,ASTM A106 Grade B,872.5670094302377,143.93533698793658,6.8202446755957915,5.014083579930051,110.99003123409031,20.19426129509299,Moderate,8.19,84.73,synthetic-based-on-original
+1512.112479925332,32.12671670126872,Fiberglass,API 5L X42,602.550767401634,-38.06470596144924,2.4729685482543733,4.817586583447769,13.531626228959745,8.133438612979962,Moderate,8.23,25179.99,synthetic-based-on-original
+251.42923596200407,14.101757226432527,Fiberglass,ASTM A333 Grade 6,2521.3297273951616,90.74320380800711,5.9039114341493715,2.2728644486018563,14.9193931286899,15.028218692839163,Moderate,8.2,605.74,synthetic-based-on-original
+305.17749174968776,10.298117008565189,Fiberglass,ASTM A333 Grade 6,576.2855423754266,33.68588690147511,19.429365516620653,4.658499679084254,45.82283037696684,2.89261041496356,Moderate,8.09,913.02,synthetic-based-on-original
+197.8862007313487,10.847122458139891,Fiberglass,API 5L X52,893.8563000794439,-12.708809200363433,13.984698593203463,2.1344169870789806,19.4475883159083,17.066790969897312,Moderate,8.13,357.88,synthetic-based-on-original
+1204.0310255944357,24.568778103770068,Fiberglass,ASTM A333 Grade 6,590.2612267349708,62.645896710284205,16.42765901260508,4.98085059055097,19.699300399652962,9.978885888892748,Moderate,8.11,15855.45,synthetic-based-on-original
+152.27907945707713,6.5819740296186415,Fiberglass,API 5L X65,1523.089565146045,63.34963265862818,16.17438205219757,5.425066399158841,81.97588242179785,3.9589419169372237,Critical,7.87,197.89,synthetic-based-on-original
+605.2409803556284,26.612889865796415,Carbon Steel,ASTM A333 Grade 6,1487.4228071992616,80.22963256314608,16.236303642274876,1.5147061123633836,5.126084683475871,21.985603157154795,Normal,8.36,3873.66,synthetic-based-on-original
+247.1774153830754,11.866720355196433,PVC,API 5L X65,2516.1862131012426,60.470907405489406,6.90717632379295,5.548723646410284,45.581559440609496,22.981443615886754,Critical,7.94,583.69,synthetic-based-on-original
+811.1582371504946,28.204782407007976,Carbon Steel,API 5L X52,2508.421646319806,72.51653369720815,5.781769168389435,1.4800516078252832,5.66399671010937,19.204859180008615,Normal,8.45,7079.12,synthetic-based-on-original
+266.799354801096,8.106993338404443,Carbon Steel,API 5L X52,2506.2852652545566,11.760194299758842,0.8786699663453071,2.5624687748230426,32.15039678671332,14.006767718349185,Moderate,8.24,688.87,synthetic-based-on-original
+220.88839548402996,6.717518137930446,Fiberglass,API 5L X65,866.4279186520487,84.8800159098803,18.463841780166213,6.851530393905333,101.31550188937341,12.124183163480062,Critical,7.85,456.42,synthetic-based-on-original
+237.64835059668636,13.481968938729938,Carbon Steel,API 5L X65,2496.6632019167037,18.902577309082027,0.23752522825380382,5.957688764028078,42.05181992646079,13.190680482568185,Critical,8.0,535.75,synthetic-based-on-original
+1479.0429063684182,20.893138343661814,PVC,API 5L X65,613.2664377994201,109.87804722701108,18.77993164155682,0.9081090284973902,4.70776781563949,0.8010406316311331,Normal,8.34,24076.23,synthetic-based-on-original
+147.4147222467047,5.252863959628675,Stainless Steel,API 5L X65,137.18197463795343,92.7857545033954,5.902942137596389,1.4137505675762005,24.893596447755957,24.06444969413153,Normal,8.45,43.39,synthetic-based-on-original
+981.2678552837257,23.165647862371273,Stainless Steel,ASTM A106 Grade B,901.5512932352033,40.6086942598081,8.465202707557667,3.932552963220192,17.74262923055724,12.05761193734348,Moderate,8.18,10450.6,synthetic-based-on-original
+1203.1036637064133,18.97334028751812,Carbon Steel,ASTM A333 Grade 6,621.3549237762003,10.238774610190804,18.257390652876097,0.648456807033235,3.540932099732572,24.23312436577059,Normal,8.35,15830.62,synthetic-based-on-original
+283.31753221376175,7.671146400426477,Fiberglass,API 5L X42,600.6512309459775,23.31869883632512,4.082684490842278,3.3997992562967325,46.27129627633586,17.902581591636565,Moderate,8.22,784.17,synthetic-based-on-original
+55.19556268041974,5.640394811450792,Stainless Steel,ASTM A333 Grade 6,1485.726494880347,68.06528654459987,12.761895077883453,2.9583778496064608,50.662260626079075,2.9109487526073226,Moderate,8.14,14.01,synthetic-based-on-original
+48.38373217356395,4.777578466458278,Carbon Steel,ASTM A333 Grade 6,1514.6785102611057,66.16519233470184,6.430658150659712,8.594527583616987,178.03974165750023,20.9086657319015,Critical,7.95,9.11,synthetic-based-on-original
+602.2051453655498,28.55890755533859,Fiberglass,API 5L X52,293.1213779346609,-16.925789049295993,9.830093291192341,7.3485492039001485,26.965139668048476,22.07784298071377,Critical,7.92,1935.58,synthetic-based-on-original
+1173.9401079951015,29.546932844974698,PVC,API 5L X65,2495.9042768719937,88.99066905110216,3.8346988481500746,8.762410342516143,30.280855449252204,19.910919678829895,Critical,7.97,15059.79,synthetic-based-on-original
+792.7864374191835,25.542860401494586,Carbon Steel,ASTM A333 Grade 6,2503.659601548155,77.99431531507283,13.017605477472427,8.093009425740506,31.00603697557792,17.956448440061042,Critical,7.89,6754.16,synthetic-based-on-original
+166.75755218378868,8.22245731172622,Stainless Steel,API 5L X52,2491.817953390988,13.364626789716109,19.50872393344086,5.567338818177062,68.78125390383973,1.729085451107772,Critical,7.84,243.59,synthetic-based-on-original
+480.9274233502099,19.037438838859178,HDPE,API 5L X65,864.2752825028617,91.7160201578426,18.728721021465972,4.39512120311033,21.47593326439298,4.149677893909946,Moderate,8.09,2402.8,synthetic-based-on-original
+300.7598270019446,18.146489022585786,PVC,ASTM A333 Grade 6,604.4153553192539,75.33569165199164,12.750480929800618,5.544906739189946,32.360773421560786,9.166674580381384,Critical,7.89,891.5,synthetic-based-on-original
+992.3885477432837,32.066191878673415,HDPE,API 5L X65,1517.8327073484065,26.97864160574759,13.469784485052115,4.093989586292138,13.817242677333843,19.961391919271026,Moderate,8.14,10693.8,synthetic-based-on-original
+407.5216517445908,12.11840427427813,HDPE,API 5L X52,2502.438874045661,49.803368592659744,3.45285268021855,4.645192188969081,36.953556494183644,15.920588385182883,Moderate,8.22,1698.42,synthetic-based-on-original
+249.38984162412527,9.684016802468566,Carbon Steel,ASTM A106 Grade B,298.14813947522094,73.51996632757367,3.6978944328598544,2.6485681208151277,30.216290316493883,5.753088306773556,Moderate,8.22,305.63,synthetic-based-on-original
+157.72116155761105,6.627338287327602,Carbon Steel,ASTM A106 Grade B,332.71855990784405,65.9422082019936,1.981299046244504,9.569457635060758,142.34257701631242,6.153774995031573,Critical,7.98,122.94,synthetic-based-on-original
+96.02030226521009,6.198464778220248,PVC,API 5L X52,1515.9418472666298,49.76018882556291,20.153930689444692,4.780886876686303,76.55662414902778,3.9325793490732734,Moderate,8.08,65.36,synthetic-based-on-original
+496.50026346018865,13.314553146415674,PVC,API 5L X42,307.96911099313667,-9.665226128476487,9.796472701899848,5.423219396993386,41.333729082021385,25.273550256572054,Critical,7.92,1362.21,synthetic-based-on-original
+1489.1183051105847,24.476253794051036,HDPE,API 5L X65,1493.516421487743,10.999051666135745,12.259424060127591,8.70633676144968,35.0214492213139,19.859795812749358,Critical,7.9,24409.9,synthetic-based-on-original
+1178.542102687122,20.5439472685106,HDPE,API 5L X42,159.04097037152064,118.07721153427225,11.383605179128756,8.484060627189168,42.31022847245184,4.805774633640542,Critical,7.91,4158.57,synthetic-based-on-original
+158.51046759676868,5.061340184706596,Stainless Steel,API 5L X65,141.63652696978002,92.39880696197352,5.818383443237977,1.3356229489978302,24.389912439121478,24.17498760865556,Normal,8.45,52.94,synthetic-based-on-original
+204.31399765058916,10.206645869761932,Stainless Steel,ASTM A333 Grade 6,593.8906216583185,23.925423564549824,11.00240740120737,-0.006489508559197027,-0.14572010875828423,24.099858929440398,Normal,8.41,384.21,synthetic-based-on-original
+598.6919731940293,24.64027494695076,PVC,API 5L X42,2515.8853849221837,3.3841103316130514,2.0973483700101134,7.494079038661026,29.767021030039107,6.055972239324149,Critical,7.98,3787.45,synthetic-based-on-original
+1206.6478653724464,26.290311009828777,Fiberglass,ASTM A106 Grade B,2505.956861527778,-45.69355348792891,4.073744683172901,4.351647566451375,16.352377720585707,15.712187574102371,Moderate,8.22,15925.61,synthetic-based-on-original
+95.39412144630212,8.004703013085686,PVC,ASTM A106 Grade B,131.1248884694695,38.725409890006674,9.172407496894694,2.139135407371,28.47965291533644,25.10444315680323,Moderate,8.17,14.52,synthetic-based-on-original
+242.76951222237426,14.28674815141109,Stainless Steel,API 5L X52,2501.8225175075677,137.33966829557602,4.838749250597014,1.07994728461154,9.857196130988209,18.20324007578968,Normal,8.46,561.26,synthetic-based-on-original
+149.1444895579386,7.070653800188934,HDPE,API 5L X52,583.2576889569123,-0.13973393593420202,16.297476084049332,6.743946569448983,96.79860319466908,21.985679173762616,Critical,7.86,188.63,synthetic-based-on-original
+296.93091031973273,15.34120082211911,Carbon Steel,API 5L X42,587.9676810386117,63.57113901331298,13.721440402446794,9.093207504666506,60.58012384824699,7.00190896242324,Critical,7.89,867.35,synthetic-based-on-original
+39.584728017052875,3.699020203204795,HDPE,API 5L X52,302.59037003876983,-1.4846686112808294,1.0976419303729583,6.2340998412639,168.3723724084863,1.1009324300478553,Critical,7.99,2.26,synthetic-based-on-original
+598.4484793271915,17.890609046301137,Carbon Steel,ASTM A333 Grade 6,162.5167105632841,45.52997452648526,0.5738802269733951,5.265280072239689,29.370789675717734,10.044407670392227,Critical,8.0,1059.35,synthetic-based-on-original
+308.5314597299568,15.624126670587678,HDPE,ASTM A106 Grade B,175.95187888011574,-11.58113076113558,12.543616145387837,7.023435963046042,45.146689722964474,14.872055287209186,Critical,7.9,285.36,synthetic-based-on-original
+509.2729139289495,9.890116284519358,PVC,API 5L X65,157.19950064927372,27.50502844304076,12.608766269494103,1.41527549460131,15.40690301685579,12.797010341545857,Normal,8.39,733.1,synthetic-based-on-original
+800.6004740676151,19.404067809096432,Fiberglass,API 5L X52,589.8977245747407,13.171914900517901,17.96270690531873,6.71670933352484,35.600422939317006,12.8183882460409,Critical,7.85,6891.44,synthetic-based-on-original
+588.5753549796283,17.149598569467102,HDPE,API 5L X52,126.16723340894798,48.30726622427753,4.832543008674273,7.105375247131688,41.092493260535335,1.9261213557459111,Critical,7.96,794.57,synthetic-based-on-original
+500.0148766365548,23.58214664968005,Fiberglass,API 5L X65,1503.1956199487292,27.24009330537591,15.893658366064964,2.935738457331407,12.529988625889347,20.250150704833825,Moderate,8.12,2605.92,synthetic-based-on-original
+1500.351376820528,41.119832128115235,Carbon Steel,ASTM A333 Grade 6,593.4856041478826,81.58655557838112,4.550560897079164,9.399739473636346,23.30626928336043,22.08919070386156,Critical,7.96,24784.6,synthetic-based-on-original
+104.49983552079695,4.12587742113449,Carbon Steel,API 5L X42,574.1590268583221,19.92274914506611,10.623615403303951,8.34590555478202,201.2164232817839,20.966153060396636,Critical,7.91,79.86,synthetic-based-on-original
+191.02669508892046,7.704041261419971,PVC,ASTM A106 Grade B,615.7436038381062,74.6449687245615,6.115653939871121,0.8487739498708977,12.182426703772771,9.99095665817648,Normal,8.45,330.81,synthetic-based-on-original
+601.7462501875387,23.0413911451781,Stainless Steel,ASTM A333 Grade 6,885.3947697715297,68.76793544540521,2.553886655719416,8.502163112657799,38.424857144875396,22.119654745687114,Critical,7.98,3827.54,synthetic-based-on-original
