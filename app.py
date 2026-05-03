@@ -197,12 +197,13 @@ def decode_condition(raw_pred):
 # ============================================================
 # RECOMMENDATIONS
 # ============================================================
-def generate_recommendations(tl_pred, ml_pred, ci_pred, cond_label):
+def generate_recommendations(tl_pred, ml_pred, ci_pred, cond_label, original_thickness):
     recs = []
-    if tl_pred is not None:
-        if tl_pred < 0.5:
+    if tl_pred is not None and original_thickness > 0:
+        loss_fraction = tl_pred / original_thickness
+        if loss_fraction < 0.10:
             recs.append(f"✅ Thickness loss is low ({tl_pred:.2f} mm): Continue routine inspection intervals.")
-        elif tl_pred < 2.0:
+        elif loss_fraction < 0.25:
             recs.append(f"🟡 Moderate thickness loss ({tl_pred:.2f} mm): Schedule a detailed inspection soon.")
         else:
             recs.append(f"🔴 High thickness loss ({tl_pred:.2f} mm): Plan immediate inspection — evaluate repair or replacement.")
@@ -347,7 +348,7 @@ def compute_rul(input_row: pd.DataFrame, original_thickness: float) -> dict:
     }
 
 
-def show_rul(input_row: pd.DataFrame, original_thickness: float):
+def show_rul(input_row: pd.DataFrame, original_thickness: float, current_cond_label: str = None):
     st.markdown("---")
     st.subheader("⏳ Remaining Useful Life (RUL)")
     st.write(
@@ -414,7 +415,9 @@ def show_rul(input_row: pd.DataFrame, original_thickness: float):
     plt.tight_layout()
     st.pyplot(fig)
 
-    if result["rul_years"] is not None and result["rul_years"] < 5:
+    if current_cond_label is not None and any(x in str(current_cond_label).lower() for x in ["severe", "critical", "poor", "bad"]):
+        st.error(f"🚨 **Override Warning:** The Classification model flags this pipe as **{current_cond_label}**. Immediate repair is recommended, overriding the Regression RUL projection.")
+    elif result["rul_years"] is not None and result["rul_years"] < 5:
         st.error(f"⚠️ **Critical Warning:** This pipe is projected to reach end-of-life "
                  f"in just **{result['rul_years']:.1f} years**. Immediate action recommended.")
     elif result["rul_years"] is not None and result["rul_years"] < 15:
@@ -505,8 +508,18 @@ if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
     tl_raw    = safe_predict("Thickness_Loss_mm",      input_data)
     ml_raw    = safe_predict("Material_Loss_Percent",  input_data)
     ci_raw    = safe_predict("Corrosion_Impact_Percent", input_data)
-    cond_raw  = safe_predict("Condition",              input_data)
-    cond_label = decode_condition(cond_raw)
+    
+    # Derive Condition from Material Loss to prevent ML model contradictions
+    if ml_raw is not None:
+        if ml_raw < 10:
+            cond_label = "Normal / Good"
+        elif ml_raw < 30:
+            cond_label = "Fair / Moderate"
+        else:
+            cond_label = "Severe / Critical"
+    else:
+        cond_raw   = safe_predict("Condition", input_data)
+        cond_label = decode_condition(cond_raw)
 
     # ── Summary table ─────────────────────────────────────────────────────────
     results = []
@@ -524,7 +537,7 @@ if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
     # ── Recommendations ───────────────────────────────────────────────────────
     st.markdown("---")
     st.markdown("## 🛠️ Maintenance & Operational Recommendations")
-    for rec in generate_recommendations(tl_raw, ml_raw, ci_raw, cond_label):
+    for rec in generate_recommendations(tl_raw, ml_raw, ci_raw, cond_label, thickness_mm):
         st.markdown(f"- {rec}")
 
     # ── SHAP Explanations ─────────────────────────────────────────────────────
@@ -550,7 +563,7 @@ if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
             show_shap_explanation("Corrosion_Impact_Percent", input_data, "Corrosion Impact (%)")
 
     # ── Remaining Useful Life ─────────────────────────────────────────────────
-    show_rul(input_data, original_thickness=thickness_mm)
+    show_rul(input_data, original_thickness=thickness_mm, current_cond_label=cond_label)
 
     # ── Real Correlation Heatmap ──────────────────────────────────────────────
     show_real_correlation_heatmap()
