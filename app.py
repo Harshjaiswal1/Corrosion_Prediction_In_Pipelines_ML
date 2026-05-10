@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🔧 Corrosion Prediction Dashboard")
+st.title("Corrosion Prediction Dashboard")
 st.write(
     """
     Predicts **Thickness Loss (mm)**, **Material Loss (%)**, **Corrosion Impact (%)**,
@@ -165,7 +165,7 @@ input_data = pd.DataFrame([{
     "Grade":               grade,
 }])
 
-st.write("### 📋 Current Input Data")
+st.write("### Current Input Data")
 st.dataframe(input_data, use_container_width=True)
 
 # ============================================================
@@ -302,7 +302,7 @@ def show_shap_explanation(model_key: str, data: pd.DataFrame, title: str):
 # ============================================================
 def compute_rul(input_row: pd.DataFrame, original_thickness: float) -> dict:
     """
-    Iterates time from current exposure to 100 years in 0.5-year steps,
+    Iterates time from current exposure to 50 years in 0.5-year steps,
     predicts Thickness Loss at each step, and finds the year at which
     cumulative thickness loss exceeds RUL_CRITICAL_LOSS_FRACTION of the
     original wall thickness.
@@ -314,7 +314,7 @@ def compute_rul(input_row: pd.DataFrame, original_thickness: float) -> dict:
 
     critical_loss_mm = original_thickness * RUL_CRITICAL_LOSS_FRACTION
     current_time     = float(input_row["Time_Years"].iloc[0])
-    time_steps       = np.arange(current_time, 101.0, 0.5)
+    time_steps       = np.arange(current_time, max(current_time + 10.0, 51.0), 0.5)
 
     times, losses = [], []
     for t in time_steps:
@@ -337,7 +337,7 @@ def compute_rul(input_row: pd.DataFrame, original_thickness: float) -> dict:
         rul_years     = max(critical_year - current_time, 0.0)
     else:
         critical_year = None
-        rul_years     = None   # pipe survives past 100-year window
+        rul_years     = None   # pipe survives past 50-year window
 
     return {
         "rul_years":     rul_years,
@@ -350,7 +350,7 @@ def compute_rul(input_row: pd.DataFrame, original_thickness: float) -> dict:
 
 def show_rul(input_row: pd.DataFrame, original_thickness: float, current_cond_label: str = None):
     st.markdown("---")
-    st.subheader("⏳ Remaining Useful Life (RUL)")
+    st.subheader("Remaining Useful Life (RUL)")
     st.write(
         f"The RUL estimates **how many more years** before the pipe reaches a "
         f"critical state, defined as losing **{RUL_CRITICAL_LOSS_FRACTION*100:.0f}%** "
@@ -380,12 +380,12 @@ def show_rul(input_row: pd.DataFrame, original_thickness: float, current_cond_la
                 f"{color_label} {result['rul_years']:.1f} yrs",
             )
         else:
-            st.metric("Remaining Useful Life", "🟢 >100 yrs (safe)")
+            st.metric("Remaining Useful Life", "🟢 >50 yrs (safe)")
     with col3:
         if result["critical_year"] is not None:
             st.metric("Predicted End-of-Life", f"Year {result['critical_year']:.1f}")
         else:
-            st.metric("Predicted End-of-Life", "Beyond 100 yrs")
+            st.metric("Predicted End-of-Life", "Beyond 50 yrs")
 
     # ── Timeline chart ────────────────────────────────────────────────────────
     df_tl = result["timeline_df"]
@@ -437,7 +437,7 @@ def show_real_correlation_heatmap():
     the previous approach of sampling random inputs and correlating model outputs.
     """
     st.markdown("---")
-    st.subheader("📊 Feature Correlation Heatmap (Training Data)")
+    st.subheader("Feature Correlation Heatmap (Training Data)")
     st.write(
         "This heatmap shows the **actual Pearson correlations** between features "
         "in the training dataset — not model-generated samples. "
@@ -497,12 +497,12 @@ def show_real_correlation_heatmap():
 # ============================================================
 # MAIN PREDICTION FLOW
 # ============================================================
-if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
+if st.button("Predict Corrosion Metrics & Condition", type="primary"):
     if not models:
         st.error("No models loaded — check the `saved_models/` folder.")
         st.stop()
 
-    st.write("## 📈 Prediction Results")
+    st.write("## Prediction Results")
 
     # ── Run predictions ───────────────────────────────────────────────────────
     tl_raw    = safe_predict("Thickness_Loss_mm",      input_data)
@@ -536,13 +536,13 @@ if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
 
     # ── Recommendations ───────────────────────────────────────────────────────
     st.markdown("---")
-    st.markdown("## 🛠️ Maintenance & Operational Recommendations")
+    st.markdown("### Maintenance & Operational Recommendations")
     for rec in generate_recommendations(tl_raw, ml_raw, ci_raw, cond_label, thickness_mm):
         st.markdown(f"- {rec}")
 
     # ── SHAP Explanations ─────────────────────────────────────────────────────
     st.markdown("---")
-    st.subheader("🧠 SHAP Explainability — Why Did the Model Predict This?")
+    st.subheader("SHAP Explainability — Why Did the Model Predict This?")
     st.write(
         "SHAP (SHapley Additive exPlanations) shows the **contribution of each input "
         "feature** to this specific prediction. Red bars push the prediction **higher**; "
@@ -550,7 +550,7 @@ if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
     )
 
     if not SHAP_AVAILABLE:
-        st.info("👉 Run `pip install shap` and restart the app to enable these plots.")
+        st.info("Run `pip install shap` and restart the app to enable these plots.")
     else:
         shap_tabs = st.tabs([
             "Thickness Loss", "Material Loss", "Corrosion Impact"
@@ -572,6 +572,6 @@ if st.button("🔍 Predict Corrosion Metrics & Condition", type="primary"):
 
 else:
     st.info(
-        "⬅️ Set the parameters in the sidebar, then click "
+        "Set the parameters in the sidebar, then click "
         "**'Predict Corrosion Metrics & Condition'** to run the full analysis."
     )
